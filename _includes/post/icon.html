@@ -1,0 +1,14 @@
+{% case post.type %}
+	{% when 'text' %}
+		{% assign icon = 'reorder' %}
+	{% when 'presentation' %}
+		{% assign icon = 'bullhorn' %}
+	{% when 'photo' %}
+		{% assign icon = 'camera-retro' %}
+	{% when 'link' %}
+		{% assign icon = 'link' %}
+	{% else %}
+		{% assign icon = 'comment' %}
+{% endcase %}
+
+<i class="icon-{{ icon }}"></i>

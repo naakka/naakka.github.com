@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} &middot; {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Blog by Jaakko Naakka.">
+    <meta name="author" content="Jaakko Naakka">
+
+    <!-- Le styles -->
+    <link href="/vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.css">
+    <link href="/css/pygments.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/main.css">
+    
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+  </head>
+
+  <body>
+
+    <div class="container-narrow">
+      <header>
+        <ul class="nav nav-pills pull-right">
+          <li class="{% if page.main_menu == 'home' %} active {% endif %}"><a href="/"><i class="icon-home"></i> Home</a></li>
+        </ul>
+        <h3 class="muted"><a href="/">{{ site.title }}</a></h3>
+      </header>
+
+      <hr>
+	   	  {{ content }}
+      <hr>
+
+      <div class="footer">
+        <p>&copy; Jaakko Naakka 2012</p>
+      </div>
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="/vendor/bootstrap//js/bootstrap.min.js"></script>
+    
+    <script type="text/javascript">
+  	WebFontConfig = {
+	    google: { families: [ 'Nobile:400,400italic,700,700italic:latin' ] }
+  	};
+  	(function() {
+    	var wf = document.createElement('script');
+	    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+    	  '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+	    wf.type = 'text/javascript';
+    	wf.async = 'true';
+	    var s = document.getElementsByTagName('script')[0];
+    	s.parentNode.insertBefore(wf, s);
+  	})(); 
+  	</script>
+  	
+  	<script>
+    $(document).ready(function(){
+    	// Disable some pagination links
+        $('.pagination .disabled a, .pagination .active a').on('click', function(e) {
+            e.preventDefault();
+        });    	
+    });
+    </script>
+
+  	
+
+  </body>
+</html>

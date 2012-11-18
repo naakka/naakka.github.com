@@ -1,0 +1,31 @@
+
+{% if post.image %}
+	<div class="cover image">
+		<a href="{{ post.url }}"><img src="{{ post.image }}" /></a>
+
+		{% if post.caption %}
+			<p class="caption">
+				{{ post.caption }}
+			</p>
+		{% endif %}
+	</div>
+{% endif %}
+
+{% if post.embed %}
+	<div class="cover">
+		{{ post.embed }}
+	</div>
+{% endif%}
+
+{% if post.quote %}
+	<blockquote>
+		{{ post.quote }}
+	</blockquote>
+{% endif %}
+
+{{ content }}
+
+{% if post.link %}
+	<p>Source: <a href="{{ post.link}}">{{ post.source }} <i class="icon-external-link"></i></a></p>
+{% endif %}
+

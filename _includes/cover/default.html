@@ -1,0 +1,10 @@
+
+{% if post.image %}
+	<a href="{{ post.url }}"><img src="{{ post.image }}" /></a>
+{% endif %}
+
+{% if post.caption %}
+	<p class="caption">
+	{{ post.caption }}
+	</p>
+{% endif %}

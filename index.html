@@ -1,0 +1,16 @@
+---
+layout: page
+title: Blog
+main_menu: home
+tagline: Supporting tagline
+---
+
+<!-- Posts listing -->
+<div class="post-listing">
+	{% for post in paginator.posts %}
+		{% include post/listing.html %}
+	{% endfor %}
+</div>
+
+{% include pagination.html %}
+

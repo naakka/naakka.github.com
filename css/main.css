@@ -1,0 +1,160 @@
+@CHARSET "UTF-8";
+
+
+/******************* Layout *********************/
+
+body {
+	padding-top: 20px;
+	padding-bottom: 40px; 
+	background: white url('/graphics/cream_dust.png'); /** This pattern is downloaded from www.subtlepatterns.com  */
+	font-family: 'Nobile', sans-serif;
+	color: #41210F;
+}
+
+/* Custom container */
+.container-narrow {
+	margin: 0 auto;
+	max-width: 700px;
+}
+
+.container-narrow > hr {
+	margin: 30px 0;
+}
+
+
+/******************* Headings *********************/
+
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+	color: #BAA98C;
+}
+
+h1 small, h3 small {
+	display: block;
+}
+
+h1 small {
+	margin-top: 5px;
+	font-size: 18px;
+}
+
+header h3 a, header h3 a:hover {
+	color: #3FB0A2;
+}
+
+
+/******************* Navigation *********************/
+
+a {
+	color: #3FB0A2;
+	
+}
+a:hover {
+	color: #BFA67F;
+}
+
+.nav-pills > .active > a, .nav-pills > .active > a:hover, .nav-pills li a:hover {
+	color: white;
+	background-color: #3FB0A2;
+}
+
+
+
+/******************* Post *********************/
+
+.post-listing .post {
+	margin-bottom: 60px;
+}
+
+.post-listing .post h3.title a {
+	color: #41210F;
+}
+
+
+.post-icon {
+	font-size: 28px;
+	color: #FFF;
+	background: #DE5C0C;
+	float: left;
+	width: 60px;
+	height: 60px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+	margin: 10px 20px 15px 0;
+}
+
+.post-icon i {
+	margin: 19px 0 0 18px;
+	position: absolute;	
+}
+
+
+.post .cover {
+	text-align: center;
+	margin: 0 auto 20px auto;
+}
+
+.post .cover.image {
+	padding: 10px;
+	background: black;
+}
+
+.post-listing .post .cover img {
+	width: 440px;
+}
+
+.post .cover.image p.caption {
+	margin: 10px 0 0px 0;
+	color: white;
+}
+
+.post p.description {
+	font-size: 18px;
+	line-height: 30px;
+	margin-bottom: 20px;
+}
+
+.post ul.tags {
+	margin-left: 0px;
+}
+.post ul.tags li {
+	list-style: none;
+	display: inline;
+	margin-left: 3px;
+}
+.post ul.tags li:after {
+  content: ", ";
+}
+.post ul.tags li:last-child:after {
+  content: "";
+}
+
+
+
+/******************* Homepage sidebar *********************/
+
+ul.some-links {
+	list-style: none;
+	margin: 0 0 0 0;
+}
+
+ul.some-links li {
+	display: inline;
+}
+
+.some-links a, .some-links a:hover {
+	color: black;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+img.avatar {
+	border: 4px double #999;
+	width: 52px;
+	height: 52px;
+	margin: 0 10px 10px 0;
+}
+
+.user-info h4 {
+	margin-top: 20px;
+}
+

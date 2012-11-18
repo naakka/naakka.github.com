@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% assign post = page %}
+
+<div class="post">
+	<div class="row">
+		<div class="span1">
+			<div class="post-icon">
+				{% include post/icon.html %} 
+			</div>
+		</div>
+		
+		<div class="span8">
+			<h1>{{ post.title }} <small>{{ post.date | date_to_string }}</small></h1>	
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="span9">		
+			{% if post.description %}
+				<p class="description">
+					{{ post.description }}
+				</p>
+			{% endif %}
+
+			{% include post/contents.html %}
+		</div>
+	</div>
+</div>
+
+

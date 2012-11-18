@@ -1,0 +1,16 @@
+permalink: /:year/:month/:day/:title/
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+auto: true
+pygments: true
+
+paginate: 10 //the number of post per page
+
+# Inspired by Jekyll Bootstrap 
+title : Naakka.net
+author :
+  name : Jaakko Naakka
+  email : naakka@shortmail.com
+
+# The production_url is only used when full-domain names are needed
+# such as sitemap.txt 
+production_url : http://naakka.github.com
