@@ -1,8 +1,9 @@
 ---
 layout: post
-type: reveal
+type: text
 title: Great HTML5 Presentations with reveal.js
 link: http://lab.hakim.se/reveal-js/
+embed: <iframe src="http://lab.hakim.se/reveal-js/" class="reveal"></iframe>
 source: reveal.js
 ---
 
@@ -14,4 +15,5 @@ with touch screen devices. I'm definitely going to give reveal.js a try
 next time I'm giving a presentation somewhere.
 
 ps. this is the first time I tried to embed a reveal.js presentation in an
-iframe and it seems to work quite nicely, but it [looks a lot better fullscreen]({{ page.link }}).
+iframe and it seems to work quite nicely, but it 
+[looks a lot better full screen]({{ page.link }})!
