@@ -22,6 +22,12 @@
 	</div>
 {% endif%}
 
+{% if post.type == 'reveal' and post.link %}
+	<div class="cover">
+		<iframe src="{{ post.link }}" class="reveal"></iframe>
+	</div>
+{% endif%}
+
 {% if post.quote %}
 	<blockquote>
 		<p>

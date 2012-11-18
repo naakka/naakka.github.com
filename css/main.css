@@ -136,6 +136,17 @@ a:hover {
 }
 
 
+/******************* Reveal iframes *********************/
+
+iframe.reveal {
+	width: 700px;
+	height: 550px;
+}
+
+.post-listing iframe.reveal {
+	width: 460px;
+}
+
 
 /******************* Homepage sidebar *********************/
 
