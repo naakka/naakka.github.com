@@ -1,9 +1,14 @@
 
+{% assign icon_link = post.url %}
+{% if post.link %}
+	{% assign icon_link = post.link %}
+{% endif %}
+				
 <div class="post">
 	<div class="row">
 		<div class="span1">
 			<div class="post-icon">
-				{% include post/icon.html %} 
+				<a href="{{ icon_link }}">{% include post/icon.html %}</a> 
 			</div>
 		</div>
 		

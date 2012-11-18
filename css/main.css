@@ -24,7 +24,7 @@ body {
 
 /******************* Headings *********************/
 
-h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, blockquote small {
 	color: #BAA98C;
 }
 
@@ -87,6 +87,11 @@ a:hover {
 	position: absolute;	
 }
 
+.post-icon a, .post-icon a:hover {
+	color: #FFF;
+	text-decoration: none;
+}
+
 
 .post .cover {
 	text-align: center;
@@ -94,12 +99,9 @@ a:hover {
 }
 
 .post .cover.image {
-	padding: 10px;
-	background: black;
 }
 
 .post-listing .post .cover img {
-	width: 440px;
 }
 
 .post .cover.image p.caption {
@@ -111,6 +113,11 @@ a:hover {
 	font-size: 18px;
 	line-height: 30px;
 	margin-bottom: 20px;
+}
+
+.post .source {
+	color: #BAA98C;
+	font-size: 85%;
 }
 
 .post ul.tags {

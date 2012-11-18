@@ -1,7 +1,12 @@
 
 {% if post.image %}
+	{% assign image_link = post.url %}
+	{% if post.link %}
+		{% assign image_link = post.link %}
+	{% endif %}
+
 	<div class="cover image">
-		<a href="{{ post.url }}"><img src="{{ post.image }}" /></a>
+		<a href="{{ image_link }}"><img src="{{ post.image }}" /></a>
 
 		{% if post.caption %}
 			<p class="caption">
@@ -19,13 +24,20 @@
 
 {% if post.quote %}
 	<blockquote>
-		{{ post.quote }}
+		<p>
+			{{ post.quote }}
+		</p>
+		
+		{% if post.link %}
+			<p class="source">
+			<i class="icon-link"></i> Source: <a href="{{ post.link}}">{{ post.source }}</a>
+			</p>
+		{% endif %}
+		
 	</blockquote>
+{% elsif post.link %}
+	<p class="source"><i class="icon-link"></i> Source: <a href="{{ post.link}}">{{ post.source }}</a></p>	
 {% endif %}
 
 {{ content }}
-
-{% if post.link %}
-	<p>Source: <a href="{{ post.link}}">{{ post.source }} <i class="icon-external-link"></i></a></p>
-{% endif %}
 
