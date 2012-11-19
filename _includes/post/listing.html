@@ -1,6 +1,6 @@
 
 {% assign icon_link = post.url %}
-{% if post.link %}
+{% if post.type == 'link' and post.link %}
 	{% assign icon_link = post.link %}
 {% endif %}
 				
