@@ -19,7 +19,7 @@ body {
 	max-width: 700px;
 }
 
-.container-narrow > hr {
+hr {
 	margin: 30px 0;
 }
 
@@ -156,7 +156,6 @@ a:hover {
 
 .post .cover.image p.caption {
 	margin: 10px 0 0px 0;
-	color: white;
 }
 
 .post p.description {
