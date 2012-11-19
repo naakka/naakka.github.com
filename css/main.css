@@ -3,9 +3,11 @@
 
 /******************* Layout *********************/
 
+html, body {
+	height: 100%;
+}
+
 body {
-	padding-top: 20px;
-	padding-bottom: 40px; 
 	background: white url('/graphics/cream_dust.png'); /** This pattern is downloaded from www.subtlepatterns.com  */
 	font-family: 'Nobile', sans-serif;
 	color: #41210F;
@@ -19,6 +21,51 @@ body {
 
 .container-narrow > hr {
 	margin: 30px 0;
+}
+
+.main-wrapper {
+	min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    
+    /* Negative indent footer by it's height */
+    margin: 0 auto -220px;
+}
+
+.main-wrapper .container-narrow {
+	padding-bottom: 300px;
+}
+
+header {
+	padding-top: 20px;
+}
+
+footer {
+	background: #41210F;
+	color: #BAA98C;
+	padding: 0 0 0 0;
+	min-height: 120px;
+	padding: 80px 0 20px 0;
+}
+
+footer .some-links a, footer .some-links a:hover {
+	color: #BAA98C;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+footer .copyright {
+	margin-top: 20px;
+	text-align: center;
+}
+
+@media (max-width: 767px) {
+  footer {
+  	margin-left: -20px;
+  	margin-right: -20px;
+  	padding-left: 20px;
+  	padding-right: 20px;
+  }
 }
 
 
@@ -63,6 +110,9 @@ a:hover {
 
 .post-listing .post {
 	margin-bottom: 60px;
+}
+.post-listing .post:last-child {
+	margin-bottom: 0px;
 }
 
 .post-listing .post h3.title a {
@@ -143,11 +193,6 @@ iframe.reveal {
 	height: 550px;
 }
 
-.post-listing iframe.reveal {
-	width: 460px;
-}
-
-
 /******************* Homepage sidebar *********************/
 
 ul.some-links {
@@ -166,13 +211,13 @@ ul.some-links li {
 }
 
 img.avatar {
-	border: 4px double #999;
+	border: 4px double #BAA98C;
 	width: 52px;
 	height: 52px;
 	margin: 0 10px 10px 0;
 }
 
 .user-info h4 {
-	margin-top: 20px;
+	margin-top: 6px;
 }
 
