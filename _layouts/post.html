@@ -8,7 +8,11 @@ layout: default
 	<div class="row">
 		<div class="span1">
 			<div class="post-icon">
-				{% include post/icon.html %} 
+				{% if post.type == 'link' and post.link %}
+					<a href="{{ post.link }}">{% include post/icon.html %}</a>
+				{% else %}
+					{% include post/icon.html %} 			
+				{% endif %}
 			</div>
 		</div>
 		
