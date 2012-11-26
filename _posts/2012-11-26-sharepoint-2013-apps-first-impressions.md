@@ -12,34 +12,96 @@ description: Apps are the biggest thing in Sharepoint 2013. It's possible to cre
 Sharepoint 2013 seems to be all about the apps.
 
 I guess Microsoft has watched what kind of an ecosystem Facebook has built with
-their apps and wanted to something similar with Sharepoint. It's a great idea and
+their apps and wanted to do something similar with Sharepoint. It's a great idea and
 it's quite promising. 
+
+I have just done some first tests with the development tools and I managed to
+write an app that runs [xTune](http://xtune.fi) (running on our server on LAMP stack)
+inside Sharepoint. Yes, I know it's not much but it's a start :) 
  
 
 ## Poor Documentation
 
 The documentation and tutorials on the Microsoft site are very poor to say the least.
-Even many open source projects win Microsoft in this regards. Just tak a look at
+Even many open source projects win Microsoft in this regard. Just tak a look at
 [Symfony](http://www.symfony.com), for instance. I hope this is something that Microsoft
 will work on.
 
-The quality of the tutorials is quite poor as well. Just take a look at this tutorial.
+The quality of the tutorials is quite poor as well. Here's a snippet of code from
+[a tutorial](http://msdn.microsoft.com/en-us/library/fp142381.aspx):
 
-Yes, you got that right. Using tables for a web page layout in 2013. I know it's just an example
+{% highlight html %}
+<table border="1" cellpadding="10">
+  <tr>
+    <th>
+      <asp:LinkButton ID="CSOM" runat="server" Text="Populate Data" OnClick="CSOM_Click" />
+    </th>
+  </tr>
+
+  <tr>
+    <td>
+      <h2>SharePoint Site</h2>
+      <asp:Label runat="server" ID="WebTitleLabel"/>
+        		
+      <h2>Current User:</h2>
+      <asp:Label runat="server" ID="CurrentUserLabel" />
+        		
+      <h2>Site Users</h2>
+      <asp:ListView ID="UserList" runat="server">     
+        <ItemTemplate >
+          <asp:Label ID="UserItem" runat="server" Text="<%# Container.DataItem.ToString()  %>">
+          </asp:Label><br />
+        </ItemTemplate>
+      </asp:ListView>
+        		
+      <h2>Site Lists</h2>
+      <asp:ListView ID="ListList" runat="server">
+        <ItemTemplate >
+          <asp:Label ID="ListItem" runat="server" Text="<%# Container.DataItem.ToString()  %>">
+          </asp:Label><br />
+        </ItemTemplate>
+       </asp:ListView>
+    </td>  
+  </tr>
+</table>
+{% endhighlight %}
+
+Yes, you got that right. Using tables and line breaks for a web page layout in 2013. 
+I know it's just an example and it's not a big deal
 but it doesn't give a very good first impression. If the rest of Sharepoint 2013
 is filled with this kind of HTML I would be worried. That was how web sites were made 
-15 years ago, it was probably still acceptable 10 years ago but definitely no in 2013. 
+15 years ago, it was probably still acceptable 10 years ago but definitely not in 2013. 
+
+## Steep Learning Curve
 
 If you think developing Sharepoint apps will be as easy as creating Facebook apps,
-sorry to disappoint you. At least at the moment documentation and the lack of proper
-tutorials and working examples is the biggest obstacle in apps development. If you've
-ever developed any Facebook apps, you already know how easy it is. Anyone with a little
-knowledge in PHP can write a Facebook app easily. Creating Sharepoint apps should be
-just as easy.
+sorry to disappoint you. I've been a Linux user since 1996 and I have zero experience
+in Microsoft based development tools or Sharepoint development and, at least for me,
+the learning curve seemed to be unnecessarily steep. At least at the moment the poor documentation 
+and the lack of proper tutorials and working examples is the biggest obstacle in apps development. 
+
+Maybe my expectations were a bit high. If you've
+ever developed Facebook apps, you already know how easy it is. Anyone with a little
+knowledge in PHP can write a Facebook app easily. I expected something similar with
+Sharepoint apps.
 
 
 
-## It's Microsoft
+## The Development Tools
+
+!["Napa development tools"](/img/sharepoint2013-napa.png)
+<p class="caption">The Napa development tool running in Chromium browser.</p>
+
+Microsoft has released some new web based development tools that should make app 
+development even easier. That's good news for anyone who wants to develop apps 
+but doesn't want to use Microsoft Visual Studio let alone use Windows. The web based
+development tool is called *Napa*. It's actually pretty cool and easy to use.
+
+Sadly, most of the tutorials seem to concentrate on using Microsoft Visual Studio
+for developing apps. I'm not sure if the *Napa* tools are usable only for smaller
+and simpler apps but either way this is not good. Visual Studio, of course, runs
+only in Windows. Developing apps in HTML, CSS and JavaScript should not require
+developers to run a certain SDK or OS.
 
 Microsoft is pretty proud that it's possible to develop apps for Sharepoint 2013 using
 non-microsoft technologies like plain old HTML, CSS and JavaScript. Sadly, this doesn't
