@@ -23,11 +23,8 @@ layout: default
 
 	<div class="row">
 		<div class="span9">		
-			{% if post.description %}
-				<p class="description">
-					{{ post.description }}
-				</p>
-			{% endif %}
+			{% assign image_link = post.image %}
+			{% include post/cover.html %}
 
 			{% include post/contents.html %}
 		</div>
