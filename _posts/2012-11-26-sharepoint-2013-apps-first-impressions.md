@@ -2,7 +2,9 @@
 layout: post
 type: text
 title: First Impressions of Developing Apps for Sharepoint 2013
-description: Apps are the biggest thing in Sharepoint 2013. It's possible to create Sharepoint apps in just HTML, CSS and JavaScript or host them on your own server. I have just taken my first steps in developing apps for Sharepoint 2013 and hosting them on a LAMP server. These are my first impressions of the development process.
+image: /img/sharepoint2013-xtune.png
+caption: xTune (hosted on our server on LAMP stack) running inside Sharepoint.
+description: Apps are the biggest thing in Sharepoint 2013. It's possible to create Sharepoint apps in just HTML, CSS and JavaScript and even host them on your own server. I have just taken my first steps in developing apps for Sharepoint 2013 and hosting them on a LAMP server. These are my first impressions of the development process.
 ---
 
 ## A New World
