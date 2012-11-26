@@ -79,6 +79,15 @@ h1 small, h3 small {
 	display: block;
 }
 
+h1 {
+	font-size: 36px;
+	line-height: 48px;
+}
+
+h2 {
+	font-size: 28px;
+}
+
 h1 small {
 	margin-top: 5px;
 	font-size: 18px;
@@ -154,7 +163,8 @@ a:hover {
 .post-listing .post .cover img {
 }
 
-.post .cover.image p.caption {
+p.caption {
+  text-align: center;
 	margin: 10px 0 0px 0;
 }
 
