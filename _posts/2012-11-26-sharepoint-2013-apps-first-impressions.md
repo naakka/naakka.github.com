@@ -7,13 +7,25 @@ caption: xTune (hosted on our server on LAMP stack) running inside Sharepoint.
 description: Apps are the biggest thing in Sharepoint 2013. It's possible to create Sharepoint apps in just HTML, CSS and JavaScript and even host them on your own server. I have just taken my first steps in developing apps for Sharepoint 2013 and hosting them on a LAMP server. These are my first impressions of the development process.
 ---
 
-## A New World
+## Background
 
-Sharepoint 2013 seems to be all about the apps.
+I code in PHP for a living and I've been a Linux user since 1996. I have zero
+experience in .NET, Sharepoint or other Microsoft based development tools. A lot of
+our clients use Sharepoint and I was pretty excited when Microsoft announced the Apps
+model for Sharepoint 2013. 
+
+With Sharepoint 2013 it should be possible to create apps in a lot of different
+technologies including plain old HTML, CSS and JavaScript. It's also possible to
+host apps on other servers using any technology you wish. This is what really
+peaked my interest as this should make it possible to easily create seamless 
+integrations between Sharepoint and any service running, for instance, on a
+LAMP stack.
+
+## It's All About the Apps
 
 I guess Microsoft has watched what kind of an ecosystem Facebook has built with
-their apps and wanted to do something similar with Sharepoint. It's a great idea and
-it's quite promising. 
+their apps and wanted to do something similar with Sharepoint. I think it's a 
+great idea and it's quite promising. 
 
 I have just done some first tests with the development tools and I managed to
 write an app that runs [xTune](http://xtune.fi) (running on our server on LAMP stack)
@@ -22,49 +34,16 @@ inside Sharepoint. Yes, I know it's not much but it's a start :)
 
 ## Poor Documentation
 
-The documentation and tutorials on the Microsoft site are very poor to say the least.
-Even many open source projects win Microsoft in this regard. Just tak a look at
-[Symfony](http://www.symfony.com), for instance. I hope this is something that Microsoft
+Like I said, I have zero experience in Microsoft development tools or Sharepoint development and
+I really had to start from sratch. What struck me the most is the poor quality of the
+documentation and tutorials.
+Even many open source projects win Microsoft in this regard. Just take a look at
+[Symfony](http://www.symfony.com), for instance. Symfony has a excellent documentation
+and easy to follow tutorials. I hope this is something that Microsoft
 will work on.
 
-The quality of the tutorials is quite poor as well. Here's a snippet of code from
-[a tutorial](http://msdn.microsoft.com/en-us/library/fp142381.aspx):
-
-{% highlight html %}
-<table border="1" cellpadding="10">
-  <tr>
-    <th>
-      <asp:LinkButton ID="CSOM" runat="server" Text="Populate Data" OnClick="CSOM_Click" />
-    </th>
-  </tr>
-
-  <tr>
-    <td>
-      <h2>SharePoint Site</h2>
-      <asp:Label runat="server" ID="WebTitleLabel"/>
-        		
-      <h2>Current User:</h2>
-      <asp:Label runat="server" ID="CurrentUserLabel" />
-        		
-      <h2>Site Users</h2>
-      <asp:ListView ID="UserList" runat="server">     
-        <ItemTemplate >
-          <asp:Label ID="UserItem" runat="server" Text="<%# Container.DataItem.ToString()  %>">
-          </asp:Label><br />
-        </ItemTemplate>
-      </asp:ListView>
-        		
-      <h2>Site Lists</h2>
-      <asp:ListView ID="ListList" runat="server">
-        <ItemTemplate >
-          <asp:Label ID="ListItem" runat="server" Text="<%# Container.DataItem.ToString()  %>">
-          </asp:Label><br />
-        </ItemTemplate>
-       </asp:ListView>
-    </td>  
-  </tr>
-</table>
-{% endhighlight %}
+The quality of the tutorials is quite poor as well. Just look at the example HTML used in
+[this tutorial](http://msdn.microsoft.com/en-us/library/fp142381.aspx).
 
 Yes, you got that right. Using tables and line breaks for a web page layout in 2013. 
 I know it's just an example and it's not a big deal
@@ -89,8 +68,10 @@ Sharepoint apps.
 
 ## The Development Tools
 
-!["Napa development tools"](/img/sharepoint2013-napa.png)
-<p class="caption">The Napa development tool running in Chromium browser.</p>
+<div class="image">
+  <img src="/img/sharepoint2013-napa.png" alt="Napa development tools" />
+  <p class="caption">The Napa development tool running in Chromium browser.</p>
+</div>
 
 Microsoft has released some new web based development tools that should make app 
 development even easier. That's good news for anyone who wants to develop apps 
