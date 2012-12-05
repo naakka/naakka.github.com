@@ -1,5 +1,9 @@
 
-
+{% assign icon_link = post.url %}
+{% if post.type == 'link' and post.link %}
+	{% assign icon_link = post.link %}
+{% endif %}
+				
 <div class="post">
 	<div class="row">
 		<div class="span1">
@@ -16,7 +20,7 @@
 	<div class="row">
 		<div class="span9">
 			<div class="content">					
-				{% assign image_link = 'post.url %}
+				{% assign image_link = post.url %}
 				{% include post/cover.html %}
 
 				{% if post.description %}
