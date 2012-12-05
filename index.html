@@ -6,7 +6,9 @@ main_menu: home
 
 <!-- Posts listing -->
 <div class="post-listing">
-  Test!
+	{% for post in paginator.posts %}
+		{% include post/listing.html %}
+	{% endfor %}
 </div>
 
 {% include pagination.html %}
