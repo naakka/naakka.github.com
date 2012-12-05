@@ -9,6 +9,8 @@
 		{% assign icon = 'link' %}
 	{% when 'message' %}
 		{% assign icon = 'comment' %}
+  {% when 'video' %}
+    {% assign icon = 'film' %}
 	{% else %}
 		{% assign icon = 'comment' %}
 {% endcase %}
