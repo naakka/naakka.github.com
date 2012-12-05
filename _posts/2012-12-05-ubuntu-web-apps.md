@@ -6,6 +6,7 @@ embed: <iframe width="560" height="315" src="http://www.youtube.com/embed/AUTNxi
 ---
 
 I think [Ubuntu Web Apps](http://developer.ubuntu.com/resources/technologies/webapps/) is the 
-coolest feature of the latest Ubuntu 12.10. I'm still running
+coolest feature of the latest [Ubuntu 12.10 (Quantal Quetzal)](http://releases.ubuntu.com/quantal/). 
+I'm still running
 12.04 but this is probably the biggest reason for me to upgrade. I'll try to upgrade during
 the Christmas holidays and try developing an app myself.
