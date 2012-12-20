@@ -170,7 +170,7 @@ p.caption {
 	margin: 10px 0 -10px 0;
 }
 
-.post p.description {
+.post p.excerpt {
 	font-size: 18px;
 	line-height: 30px;
 	margin-bottom: 20px;

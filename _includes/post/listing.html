@@ -24,8 +24,8 @@
 				{% assign image_link = post.url %}
 				{% include post/cover.html %}
 
-				{% if post.description %}
-					<p>{{ post.description }}</p>
+				{% if post.excerpt %}
+					<p>{{ post.excerpt }}</p>
 					<p><a href="{{ post.url }}">Read the full story <i class="icon-arrow-right"></i></a></p>
 				{% else %}
 					{% assign content = post.content %}

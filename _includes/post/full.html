@@ -8,9 +8,9 @@
 	
 		<h1>{{ post.title }} <small>{{ post.date | date_to_string }}</small></h1>
 		
-		{% if post.description %}
-			<p class="description">
-				{{ post.description }}
+		{% if post.excerpt %}
+			<p class="excerpt">
+				{{ post.excerpt }}
 			</p>
 		{% endif %}
 
