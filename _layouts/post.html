@@ -16,8 +16,9 @@ layout: default
 			</div>
 		</div>
 		
-		<div class="span8">
-			<h1>{{ post.title }} <small>{{ post.date | date_to_string }}</small></h1>	
+		<div class="span8 title">
+			<h1>{{ post.title }}</h1>	
+			<div class="date">{{ post.date | date_to_string }}</div>    
 		</div>
 	</div>
 
