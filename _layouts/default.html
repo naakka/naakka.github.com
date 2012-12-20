@@ -6,6 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Jaakko Naakka">
     
+    {% if(page.meta.description) %}
+    <meta name="description" content="{{ page.meta.description }}">
+    {% endif %}
+    
+    {% if(page.tags) %}
+    <meta name="keywords" content="{{ page.tags | array_to_sentence_string }}">
+    {% endif %}
+
     <link rel="shortcut icon" href="/img/favicon.ico" />
     
     <link href="http://feeds.feedburner.com/naakka" rel="alternate" title="Naakka.net Blog" type="application/atom+xml" />
@@ -29,7 +37,7 @@
   </head>
 
   <body>
-
+  
 	<div class="main-wrapper">
     	<div class="container-narrow">
       		<header>
