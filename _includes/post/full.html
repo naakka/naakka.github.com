@@ -8,6 +8,8 @@
 	
 		<h1>{{ post.title }} <small>{{ post.date | date_to_string }}</small></h1>
 		
+		{{ post }}
+		
 		{% if post.excerpt %}
 			<p class="excerpt">
 				{{ post.excerpt }}
