@@ -1,0 +1,36 @@
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} &middot; {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="{{ site.author.name }}">
+    
+    {% if(page.meta.description) %}
+    <meta name="description" content="{{ page.meta.description }}">
+    {% endif %}
+    
+    {% if(page.tags) %}
+    <meta name="keywords" content="{{ page.tags | array_to_sentence_string }}">
+    {% endif %}
+
+    <link rel="shortcut icon" href="/img/favicon.ico" />
+    
+    {% assign page_category = page.categories[0] %}
+    <link href="{{ site.sections[page_category].rss.url }}" rel="alternate" title="{{ site.sections[page_category].rss.title }}" type="application/atom+xml" />
+
+    <!-- Le styles -->
+    <link href="/vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.css">
+    <link href="/css/pygments.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/main.css">
+    
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <!-- Font.awesome fixes for IE7 -->
+    <!--[if IE 7]>
+    <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome-ie7.css">
+  <![endif]-->
+    
+</head>

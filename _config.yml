@@ -1,4 +1,4 @@
-permalink: /:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title/
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "CNAME"]
 auto: true
 pygments: true
@@ -14,3 +14,27 @@ author :
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 production_url : http://naakka.net
+
+# Sections
+sections:
+  home:
+    name: Home
+    slug: ""
+    icon: home
+    rss:
+      url   : http://feeds.feedburner.com/naakka
+      title : Personal Blog by Jaakko Naakka      
+  tech:
+    name: Technology
+    slug: tech
+    icon: wrench
+    rss:
+      url   : http://naakka.net/tech/atom.xml
+      title : Technology Blog by Jaakko Naakka
+  photos:
+    name: Photos
+    slug: photos
+    icon: camera-retro
+    rss:
+      url   : http://naakka.net/photos/atom.xml
+      title : Photography Blog by Jaakko Naakka

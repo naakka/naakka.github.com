@@ -1,17 +1,8 @@
 ---
-layout: one_column
+layout: index
 meta:
   description: Personal blog of Jaakko Naakka.
 title: Blog
+categories: [home]
 main_menu: home
 ---
-
-<!-- Posts listing -->
-<div class="post-listing">
-	{% for post in paginator.posts %}
-		{% include post/listing.html %}
-	{% endfor %}
-</div>
-
-{% include pagination.html %}
-

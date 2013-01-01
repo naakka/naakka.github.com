@@ -1,0 +1,16 @@
+---
+layout: one_column
+---
+
+{% assign rss_url   = site.rss[page.section].url %}
+{% assign rss_title = site.rss[page.section].title %}
+
+<!-- Posts listing -->
+<div class="post-listing">
+  {% for post in paginator.posts %}
+    {% include post/listing.html %}
+  {% endfor %}
+</div>
+
+{% include pagination.html %}
+
