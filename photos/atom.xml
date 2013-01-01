@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  
+
+  
+  
+    
+  
+  
+  
+  <title>Photography Blog by Jaakko Naakka</title>  
+  
+  <link href="http://naakka.net/photos/atom.xml" rel="self"/>
+  <link href="http://naakka.net/photos"/>
+  
+  <updated>2013-01-01T13:21:10+02:00</updated>
+  <id>http://naakka.net/photos</id>
+  <author>
+      <name>Jaakko Naakka</name>
+      <email>naakka@shortmail.com</email>
+  </author>
+  
+  
+  
+  
+    
+  
+
+  
+  
+    
+  
+  <entry>
+      <title>Cycling Through Turku</title>
+        <link href="http://naakka.net/photos/2012/08/15/cycling-through-turku/"/>
+        <updated>2012-08-15T00:00:00+03:00</updated>
+        <id>http://naakka.net/photos/2012/08/15/cycling-through-turku</id>
+        <content type="html">
+    
+
+
+
+
+Cycling through Turku.
+
+
+  </content>
+  </entry>
+ 
+  
+    
+  
+  <entry>
+      <title>Vespa</title>
+        <link href="http://naakka.net/photos/2012/08/07/Vespa/"/>
+        <updated>2012-08-07T00:00:00+03:00</updated>
+        <id>http://naakka.net/photos/2012/08/07/Vespa</id>
+        <content type="html">
+    
+
+
+
+
+My Vespa.
+
+
+  </content>
+  </entry>
+ 
+ 
+</feed>

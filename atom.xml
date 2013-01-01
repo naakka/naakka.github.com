@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  
+
+  
+  
+  
+  
+  <title>Personal Blog by Jaakko Naakka</title>  
+  
+  <link href="http://naakka.net/atom.xml" rel="self"/>
+  <link href="http://naakka.net/"/>
+  
+  <updated>2013-01-01T13:21:10+02:00</updated>
+  <id>http://naakka.net/</id>
+  <author>
+      <name>Jaakko Naakka</name>
+      <email>naakka@shortmail.com</email>
+  </author>
+  
+  
+  
+  
+
+  
+  
+    
+  
+  <entry>
+      <title>Lensbaby Muse Review</title>
+        <link href="http://naakka.net/2012/12/22/lensbaby-muse-review/"/>
+        <updated>2012-12-22T00:00:00+02:00</updated>
+        <id>http://naakka.net/2012/12/22/lensbaby-muse-review</id>
+        <content type="html">
+    
+
+
+
+	&lt;blockquote&gt;
+		&lt;p&gt;
+			There are lenses and then there are lenses. The Lensbaby Muse sits happily in the lenses camp. The unit arrived a few weeks ago, and in that time, I’ve taken it with me to various places, all the while getting a feel for this wholly innovative approach to photography. It’s a wonder for portraits, more on that later. Upon unboxing it and taking several photos, I had the same reaction the aliens had to Buzz Lightyear in Toy Story. Just so we’re clear, I am a Sony digital shooter with Minolta AF glass. Just how did the Muse help advance my photography? Read on to find out.
+		&lt;/p&gt;
+		
+		
+			&lt;p class=&quot;source&quot;&gt;
+			&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://www.thephoblographer.com/2012/12/14/review-lensbaby-muse-sony-alpha-aminolta-maxxum/&quot;&gt;thephoblographer.com&lt;/a&gt;
+			&lt;/p&gt;
+		
+		
+	&lt;/blockquote&gt;
+
+
+I want one of these!
+
+
+  </content>
+  </entry>
+ 
+  
+    
+  
+  <entry>
+      <title>Ubuntu Web Apps</title>
+        <link href="http://naakka.net/tech/2012/12/05/ubuntu-web-apps/"/>
+        <updated>2012-12-05T00:00:00+02:00</updated>
+        <id>http://naakka.net/tech/2012/12/05/ubuntu-web-apps</id>
+        <content type="html">
+    
+
+
+
+
+&lt;p&gt;I think &lt;a href='http://developer.ubuntu.com/resources/technologies/webapps/'&gt;Ubuntu Web Apps&lt;/a&gt; is the coolest feature of the latest &lt;a href='http://releases.ubuntu.com/quantal/'&gt;Ubuntu 12.10 (Quantal Quetzal)&lt;/a&gt;. I&amp;#8217;m still running 12.04 but this is probably the biggest reason for me to upgrade. I&amp;#8217;ll try to upgrade during the Christmas holidays and try developing an app myself.&lt;/p&gt;
+
+
+  </content>
+  </entry>
+ 
+  
+    
+  
+  <entry>
+      <title>Great Web Color Combinations</title>
+        <link href="http://naakka.net/tech/2012/11/19/great-web-color-combinations/"/>
+        <updated>2012-11-19T00:00:00+02:00</updated>
+        <id>http://naakka.net/tech/2012/11/19/great-web-color-combinations</id>
+        <content type="html">
+    
+
+
+
+	&lt;blockquote&gt;
+		&lt;p&gt;
+			COLOURlovers is a creative community where people from around the world create and share colors, palettes and patterns, discuss the latest trends and explore colorful articles... All in the spirit of love.
+		&lt;/p&gt;
+		
+		
+			&lt;p class=&quot;source&quot;&gt;
+			&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://www.colourlovers.com/&quot;&gt;COLOURlovers&lt;/a&gt;
+			&lt;/p&gt;
+		
+		
+	&lt;/blockquote&gt;
+
+
+&lt;p&gt;A huge collection of great web color combinations. That&amp;#8217;s where the colors for this site come from.&lt;/p&gt;
+
+
+  </content>
+  </entry>
+ 
+  
+    
+  
+  <entry>
+      <title>Great HTML5 Presentations with reveal.js</title>
+        <link href="http://naakka.net/tech/2012/11/18/great-html5-presentations-with-reveal/"/>
+        <updated>2012-11-18T00:00:00+02:00</updated>
+        <id>http://naakka.net/tech/2012/11/18/great-html5-presentations-with-reveal</id>
+        <content type="html">
+    
+
+
+
+	&lt;p class=&quot;source&quot;&gt;&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://lab.hakim.se/reveal-js/&quot;&gt;reveal.js&lt;/a&gt;&lt;/p&gt;	
+
+
+&lt;p&gt;Reveal.js is a brilliant way to create stunning presentations using just CSS and HTML5.&lt;/p&gt;
+
+&lt;p&gt;Just take a look at the demo, it&amp;#8217;s pretty impressive! And it works nicely with touch screen devices. I&amp;#8217;m definitely going to give reveal.js a try next time I&amp;#8217;m giving a presentation somewhere.&lt;/p&gt;
+
+&lt;p&gt;ps. this is the first time I tried to embed a reveal.js presentation in an iframe and it seems to work quite nicely, but it &lt;a href='http://lab.hakim.se/reveal-js/'&gt;looks a lot better full screen&lt;/a&gt;!&lt;/p&gt;
+
+
+  </content>
+  </entry>
+ 
+  
+    
+  
+  <entry>
+      <title>Scaling a Silex code base</title>
+        <link href="http://naakka.net/tech/2012/11/14/scaling-a-silex-code-base/"/>
+        <updated>2012-11-14T00:00:00+02:00</updated>
+        <id>http://naakka.net/tech/2012/11/14/scaling-a-silex-code-base</id>
+        <content type="html">
+    
+
+
+
+	&lt;blockquote&gt;
+		&lt;p&gt;
+			&lt;ul&gt;&lt;li&gt;Silex does not prevent you from structuring your code.&lt;/li&gt;&lt;li&gt;It requires you to make your own architecture decisions.&lt;/li&gt;&lt;li&gt;Human scale is the only limiting factor.&lt;/li&gt;&lt;/ul&gt;
+		&lt;/p&gt;
+		
+		
+			&lt;p class=&quot;source&quot;&gt;
+			&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;https://igor.io/2012/11/09/scaling-silex.html&quot;&gt;igorw&lt;/a&gt;
+			&lt;/p&gt;
+		
+		
+	&lt;/blockquote&gt;
+
+
+&lt;p&gt;Read this article if you ever wonder which to use, Silex or Symfony2.&lt;/p&gt;
+
+
+  </content>
+  </entry>
+ 
+  
+    
+  
+  <entry>
+      <title>Add to home screen</title>
+        <link href="http://naakka.net/tech/2012/10/31/add-to-home-screen/"/>
+        <updated>2012-10-31T00:00:00+02:00</updated>
+        <id>http://naakka.net/tech/2012/10/31/add-to-home-screen</id>
+        <content type="html">
+    
+
+
+
+	&lt;p class=&quot;source&quot;&gt;&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://cubiq.org/add-to-home-screen&quot;&gt;cubiq.org&lt;/a&gt;&lt;/p&gt;	
+
+
+&lt;p&gt;A brilliant script for adding a native feeling &amp;#8220;add to home screen&amp;#8221; balloon on your web site.&lt;/p&gt;
+
+
+  </content>
+  </entry>
+ 
+  
+    
+  
+  <entry>
+      <title>Cycling Through Turku</title>
+        <link href="http://naakka.net/photos/2012/08/15/cycling-through-turku/"/>
+        <updated>2012-08-15T00:00:00+03:00</updated>
+        <id>http://naakka.net/photos/2012/08/15/cycling-through-turku</id>
+        <content type="html">
+    
+
+
+
+
+Cycling through Turku.
+
+
+  </content>
+  </entry>
+ 
+  
+    
+  
+  <entry>
+      <title>Vespa</title>
+        <link href="http://naakka.net/photos/2012/08/07/Vespa/"/>
+        <updated>2012-08-07T00:00:00+03:00</updated>
+        <id>http://naakka.net/photos/2012/08/07/Vespa</id>
+        <content type="html">
+    
+
+
+
+
+My Vespa.
+
+
+  </content>
+  </entry>
+ 
+  
+    
+  
+  <entry>
+      <title>Remember not to use ID as the first column name of a CSV file</title>
+        <link href="http://naakka.net/tech/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file/"/>
+        <updated>2012-01-03T00:00:00+02:00</updated>
+        <id>http://naakka.net/tech/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file</id>
+        <content type="html">
+    
+
+
+
+	&lt;blockquote&gt;
+		&lt;p&gt;
+			ID; in the first 3 characters of a file is the signature for a SYLK file. The fourth character can be a P, N or an E which flags certain information about how the rest of the file should be processed.
+		&lt;/p&gt;
+		
+		
+			&lt;p class=&quot;source&quot;&gt;
+			&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://stackoverflow.com/questions/6032049/openoffice-calc-can-not-read-a-simple-csv-file-why&quot;&gt;stackoverflow.com&lt;/a&gt;
+			&lt;/p&gt;
+		
+		
+	&lt;/blockquote&gt;
+
+
+&lt;p&gt;Remember not to use ID as the first column name of a CSV file when using semicolons as field delimiters. I spent too long debugging a problem with CSV file creation when the problem was the first column name.&lt;/p&gt;
+
+
+  </content>
+  </entry>
+ 
+  
+    
+  
+  <entry>
+      <title>Great Elgg Reference From Arck Interactive</title>
+        <link href="http://naakka.net/tech/2011/06/20/great-elgg-reference-from-arck-interactive/"/>
+        <updated>2011-06-20T00:00:00+03:00</updated>
+        <id>http://naakka.net/tech/2011/06/20/great-elgg-reference-from-arck-interactive</id>
+        <content type="html">
+    
+
+
+
+	&lt;blockquote&gt;
+		&lt;p&gt;
+			It was a wonderful Friday here at Arck Interactive. We were officially approved as a development vendor for the World Bank. Starting next week, we’ll be developing custom social networking functionalty to improve the information architecture of their internal Elgg-based social network.
+		&lt;/p&gt;
+		
+		
+			&lt;p class=&quot;source&quot;&gt;
+			&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://www.arckinteractive.com/blog/2010/11/12/incredibly-rewarding-friday-arck/&quot;&gt;arckinteractive.com&lt;/a&gt;
+			&lt;/p&gt;
+		
+		
+	&lt;/blockquote&gt;
+
+
+&lt;p&gt;Everyone always asks what are the biggest or best known organisations using Elgg. World bank is the answer! That&amp;#8217;s a great reference for Elgg and Arck Interactive. Congrats!&lt;/p&gt;
+
+
+  </content>
+  </entry>
+ 
+  
+    
+  
+  <entry>
+      <title>How to Build Your Own Social Network with Elgg</title>
+        <link href="http://naakka.net/tech/2010/08/17/how-to-build-your-own-social-network-wih-elgg/"/>
+        <updated>2010-08-17T00:00:00+03:00</updated>
+        <id>http://naakka.net/tech/2010/08/17/how-to-build-your-own-social-network-wih-elgg</id>
+        <content type="html">
+    
+
+
+
+	&lt;p class=&quot;source&quot;&gt;&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://www.slideshare.net/naakka&quot;&gt;Jaakko Naakka on Slideshare&lt;/a&gt;&lt;/p&gt;	
+
+
+&lt;p&gt;Here&amp;#8217;s a short presentation about Elgg Framework from a technical perspective. Elgg is probably the best and easiest solution if you want to build your own custom social networking site, whether you&amp;#8217;re building a private site for your organisation or a public community with thousands of users.&lt;/p&gt;
+
+&lt;p&gt;From a developer&amp;#8217;s point of view Elgg is an excellent framework to work with. It&amp;#8217;s easy to extend using the effective plugin system and the Elgg API and datamodel make development easy and fast. Personally, I&amp;#8217;m a big fan of Elgg and I&amp;#8217;ve been working with it since the 1.0 version was released about two years ago.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;#8217;t hesitate to contact me if you have any questions or want to know more! Or head on to the &lt;a href='http://www.elgg.org'&gt;Elgg Community&lt;/a&gt; for more information.&lt;/p&gt;
+
+
+  </content>
+  </entry>
+ 
+ 
+</feed>
