@@ -14,7 +14,7 @@
   <link href="http://naakka.net/tech/atom.xml" rel="self"/>
   <link href="http://naakka.net/tech"/>
   
-  <updated>2013-01-01T14:09:28+02:00</updated>
+  <updated>2013-01-02T22:28:27+02:00</updated>
   <id>http://naakka.net/tech</id>
   <author>
       <name>Jaakko Naakka</name>
@@ -28,8 +28,10 @@
   
 
   
-  
     
+    
+    
+      
   
   <entry>
       <title>Ubuntu Web Apps</title>
@@ -37,7 +39,18 @@
         <updated>2012-12-05T00:00:00+02:00</updated>
         <id>http://naakka.net/tech/2012/12/05/ubuntu-web-apps</id>
         <content type="html">
-    
+      
+
+
+
+	&lt;div class=&quot;cover&quot;&gt;
+		&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/AUTNxi6b-hw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+	&lt;/div&gt;
+
+
+
+
+      
 
 
 
@@ -45,11 +58,13 @@
 &lt;p&gt;I think &lt;a href='http://developer.ubuntu.com/resources/technologies/webapps/'&gt;Ubuntu Web Apps&lt;/a&gt; is the coolest feature of the latest &lt;a href='http://releases.ubuntu.com/quantal/'&gt;Ubuntu 12.10 (Quantal Quetzal)&lt;/a&gt;. I&amp;#8217;m still running 12.04 but this is probably the biggest reason for me to upgrade. I&amp;#8217;ll try to upgrade during the Christmas holidays and try developing an app myself.&lt;/p&gt;
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>Great Web Color Combinations</title>
@@ -57,7 +72,14 @@
         <updated>2012-11-19T00:00:00+02:00</updated>
         <id>http://naakka.net/tech/2012/11/19/great-web-color-combinations</id>
         <content type="html">
-    
+      
+
+
+
+
+
+
+      
 
 
 
@@ -78,11 +100,13 @@
 &lt;p&gt;A huge collection of great web color combinations. That&amp;#8217;s where the colors for this site come from.&lt;/p&gt;
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>Great HTML5 Presentations with reveal.js</title>
@@ -90,7 +114,18 @@
         <updated>2012-11-18T00:00:00+02:00</updated>
         <id>http://naakka.net/tech/2012/11/18/great-html5-presentations-with-reveal</id>
         <content type="html">
-    
+      
+
+
+
+	&lt;div class=&quot;cover&quot;&gt;
+		&lt;iframe src=&quot;http://lab.hakim.se/reveal-js/&quot; class=&quot;reveal&quot;&gt;&lt;/iframe&gt;
+	&lt;/div&gt;
+
+
+
+
+      
 
 
 
@@ -104,11 +139,13 @@
 &lt;p&gt;ps. this is the first time I tried to embed a reveal.js presentation in an iframe and it seems to work quite nicely, but it &lt;a href='http://lab.hakim.se/reveal-js/'&gt;looks a lot better full screen&lt;/a&gt;!&lt;/p&gt;
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>Scaling a Silex code base</title>
@@ -116,7 +153,14 @@
         <updated>2012-11-14T00:00:00+02:00</updated>
         <id>http://naakka.net/tech/2012/11/14/scaling-a-silex-code-base</id>
         <content type="html">
-    
+      
+
+
+
+
+
+
+      
 
 
 
@@ -137,11 +181,13 @@
 &lt;p&gt;Read this article if you ever wonder which to use, Silex or Symfony2.&lt;/p&gt;
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>Add to home screen</title>
@@ -149,7 +195,24 @@
         <updated>2012-10-31T00:00:00+02:00</updated>
         <id>http://naakka.net/tech/2012/10/31/add-to-home-screen</id>
         <content type="html">
-    
+      
+
+	
+		
+	
+
+	&lt;div class=&quot;cover image&quot;&gt;
+		&lt;a href=&quot;http://cubiq.org/add-to-home-screen&quot;&gt;&lt;img src=&quot;http://static.cubiq.org/uploads/2011/01/add2home-screen1.jpg&quot; /&gt;&lt;/a&gt;
+
+		
+	&lt;/div&gt;
+
+
+
+
+
+
+      
 
 
 
@@ -159,11 +222,13 @@
 &lt;p&gt;A brilliant script for adding a native feeling &amp;#8220;add to home screen&amp;#8221; balloon on your web site.&lt;/p&gt;
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>Remember not to use ID as the first column name of a CSV file</title>
@@ -171,7 +236,14 @@
         <updated>2012-01-03T00:00:00+02:00</updated>
         <id>http://naakka.net/tech/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file</id>
         <content type="html">
-    
+      
+
+
+
+
+
+
+      
 
 
 
@@ -192,11 +264,13 @@
 &lt;p&gt;Remember not to use ID as the first column name of a CSV file when using semicolons as field delimiters. I spent too long debugging a problem with CSV file creation when the problem was the first column name.&lt;/p&gt;
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>Great Elgg Reference From Arck Interactive</title>
@@ -204,7 +278,14 @@
         <updated>2011-06-20T00:00:00+03:00</updated>
         <id>http://naakka.net/tech/2011/06/20/great-elgg-reference-from-arck-interactive</id>
         <content type="html">
-    
+      
+
+
+
+
+
+
+      
 
 
 
@@ -225,11 +306,13 @@
 &lt;p&gt;Everyone always asks what are the biggest or best known organisations using Elgg. World bank is the answer! That&amp;#8217;s a great reference for Elgg and Arck Interactive. Congrats!&lt;/p&gt;
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>How to Build Your Own Social Network with Elgg</title>
@@ -237,7 +320,18 @@
         <updated>2010-08-17T00:00:00+03:00</updated>
         <id>http://naakka.net/tech/2010/08/17/how-to-build-your-own-social-network-wih-elgg</id>
         <content type="html">
-    
+      
+
+
+
+	&lt;div class=&quot;cover&quot;&gt;
+		&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/4900695?rel=0&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt;
+	&lt;/div&gt;
+
+
+
+
+      
 
 
 
@@ -251,7 +345,7 @@
 &lt;p&gt;Don&amp;#8217;t hesitate to contact me if you have any questions or want to know more! Or head on to the &lt;a href='http://www.elgg.org'&gt;Elgg Community&lt;/a&gt; for more information.&lt;/p&gt;
 
 
-  </content>
+    </content>
   </entry>
  
  

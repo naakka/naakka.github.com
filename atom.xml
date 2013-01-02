@@ -12,7 +12,7 @@
   <link href="http://naakka.net/atom.xml" rel="self"/>
   <link href="http://naakka.net/"/>
   
-  <updated>2013-01-01T14:09:28+02:00</updated>
+  <updated>2013-01-02T22:28:27+02:00</updated>
   <id>http://naakka.net/</id>
   <author>
       <name>Jaakko Naakka</name>
@@ -24,8 +24,47 @@
   
 
   
-  
     
+    
+    
+      
+  
+  <entry>
+      <title>Gingerbread Hearts</title>
+        <link href="http://naakka.net/photos/2013/01/02/gingerbread-hearts/"/>
+        <updated>2013-01-02T00:00:00+02:00</updated>
+        <id>http://naakka.net/photos/2013/01/02/gingerbread-hearts</id>
+        <content type="html">
+      
+
+	
+
+	&lt;div class=&quot;cover image&quot;&gt;
+		&lt;a href=&quot;http://naakka.net/photos/2013/01/02/gingerbread-hearts/&quot;&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-ZgDWMq-Z4cA/UOSTCVX_GpI/AAAAAAAADsk/coqLXSlI56o/s766/R0022318.JPG&quot; /&gt;&lt;/a&gt;
+
+		
+	&lt;/div&gt;
+
+
+
+
+
+
+      
+
+
+
+
+Gingerbread hearts.
+
+
+    </content>
+  </entry>
+ 
+    
+    
+    
+      
   
   <entry>
       <title>Lensbaby Muse Review</title>
@@ -33,7 +72,24 @@
         <updated>2012-12-22T00:00:00+02:00</updated>
         <id>http://naakka.net/2012/12/22/lensbaby-muse-review</id>
         <content type="html">
-    
+      
+
+	
+		
+	
+
+	&lt;div class=&quot;cover image&quot;&gt;
+		&lt;a href=&quot;http://www.thephoblographer.com/2012/12/14/review-lensbaby-muse-sony-alpha-aminolta-maxxum/&quot;&gt;&lt;img src=&quot;http://25.media.tumblr.com/254b15c420b72e73a90086cd433b5656/tumblr_mf78s8EXe01r040p7o1_500.jpg&quot; /&gt;&lt;/a&gt;
+
+		
+	&lt;/div&gt;
+
+
+
+
+
+
+      
 
 
 
@@ -54,11 +110,13 @@
 I want one of these!
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>Ubuntu Web Apps</title>
@@ -66,7 +124,18 @@ I want one of these!
         <updated>2012-12-05T00:00:00+02:00</updated>
         <id>http://naakka.net/tech/2012/12/05/ubuntu-web-apps</id>
         <content type="html">
-    
+      
+
+
+
+	&lt;div class=&quot;cover&quot;&gt;
+		&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/AUTNxi6b-hw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+	&lt;/div&gt;
+
+
+
+
+      
 
 
 
@@ -74,11 +143,13 @@ I want one of these!
 &lt;p&gt;I think &lt;a href='http://developer.ubuntu.com/resources/technologies/webapps/'&gt;Ubuntu Web Apps&lt;/a&gt; is the coolest feature of the latest &lt;a href='http://releases.ubuntu.com/quantal/'&gt;Ubuntu 12.10 (Quantal Quetzal)&lt;/a&gt;. I&amp;#8217;m still running 12.04 but this is probably the biggest reason for me to upgrade. I&amp;#8217;ll try to upgrade during the Christmas holidays and try developing an app myself.&lt;/p&gt;
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>Great Web Color Combinations</title>
@@ -86,7 +157,14 @@ I want one of these!
         <updated>2012-11-19T00:00:00+02:00</updated>
         <id>http://naakka.net/tech/2012/11/19/great-web-color-combinations</id>
         <content type="html">
-    
+      
+
+
+
+
+
+
+      
 
 
 
@@ -107,11 +185,13 @@ I want one of these!
 &lt;p&gt;A huge collection of great web color combinations. That&amp;#8217;s where the colors for this site come from.&lt;/p&gt;
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>Great HTML5 Presentations with reveal.js</title>
@@ -119,7 +199,18 @@ I want one of these!
         <updated>2012-11-18T00:00:00+02:00</updated>
         <id>http://naakka.net/tech/2012/11/18/great-html5-presentations-with-reveal</id>
         <content type="html">
-    
+      
+
+
+
+	&lt;div class=&quot;cover&quot;&gt;
+		&lt;iframe src=&quot;http://lab.hakim.se/reveal-js/&quot; class=&quot;reveal&quot;&gt;&lt;/iframe&gt;
+	&lt;/div&gt;
+
+
+
+
+      
 
 
 
@@ -133,11 +224,13 @@ I want one of these!
 &lt;p&gt;ps. this is the first time I tried to embed a reveal.js presentation in an iframe and it seems to work quite nicely, but it &lt;a href='http://lab.hakim.se/reveal-js/'&gt;looks a lot better full screen&lt;/a&gt;!&lt;/p&gt;
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>Scaling a Silex code base</title>
@@ -145,7 +238,14 @@ I want one of these!
         <updated>2012-11-14T00:00:00+02:00</updated>
         <id>http://naakka.net/tech/2012/11/14/scaling-a-silex-code-base</id>
         <content type="html">
-    
+      
+
+
+
+
+
+
+      
 
 
 
@@ -166,11 +266,13 @@ I want one of these!
 &lt;p&gt;Read this article if you ever wonder which to use, Silex or Symfony2.&lt;/p&gt;
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>Add to home screen</title>
@@ -178,7 +280,24 @@ I want one of these!
         <updated>2012-10-31T00:00:00+02:00</updated>
         <id>http://naakka.net/tech/2012/10/31/add-to-home-screen</id>
         <content type="html">
-    
+      
+
+	
+		
+	
+
+	&lt;div class=&quot;cover image&quot;&gt;
+		&lt;a href=&quot;http://cubiq.org/add-to-home-screen&quot;&gt;&lt;img src=&quot;http://static.cubiq.org/uploads/2011/01/add2home-screen1.jpg&quot; /&gt;&lt;/a&gt;
+
+		
+	&lt;/div&gt;
+
+
+
+
+
+
+      
 
 
 
@@ -188,11 +307,13 @@ I want one of these!
 &lt;p&gt;A brilliant script for adding a native feeling &amp;#8220;add to home screen&amp;#8221; balloon on your web site.&lt;/p&gt;
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>Cycling Through Turku</title>
@@ -200,7 +321,22 @@ I want one of these!
         <updated>2012-08-15T00:00:00+03:00</updated>
         <id>http://naakka.net/photos/2012/08/15/cycling-through-turku</id>
         <content type="html">
-    
+      
+
+	
+
+	&lt;div class=&quot;cover image&quot;&gt;
+		&lt;a href=&quot;http://naakka.net/photos/2012/08/15/cycling-through-turku/&quot;&gt;&lt;img src=&quot;http://25.media.tumblr.com/tumblr_m8xwp0QxMW1r85vq5o1_500.png&quot; /&gt;&lt;/a&gt;
+
+		
+	&lt;/div&gt;
+
+
+
+
+
+
+      
 
 
 
@@ -208,11 +344,13 @@ I want one of these!
 Cycling through Turku.
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>Vespa</title>
@@ -220,7 +358,22 @@ Cycling through Turku.
         <updated>2012-08-07T00:00:00+03:00</updated>
         <id>http://naakka.net/photos/2012/08/07/Vespa</id>
         <content type="html">
-    
+      
+
+	
+
+	&lt;div class=&quot;cover image&quot;&gt;
+		&lt;a href=&quot;http://naakka.net/photos/2012/08/07/Vespa/&quot;&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-2YRIw8HzUtE/UHZmrHF8I3I/AAAAAAAADh8/3lDYDSR-UbI/s766/R0022001.JPG&quot; /&gt;&lt;/a&gt;
+
+		
+	&lt;/div&gt;
+
+
+
+
+
+
+      
 
 
 
@@ -228,11 +381,13 @@ Cycling through Turku.
 My Vespa.
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>Remember not to use ID as the first column name of a CSV file</title>
@@ -240,7 +395,14 @@ My Vespa.
         <updated>2012-01-03T00:00:00+02:00</updated>
         <id>http://naakka.net/tech/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file</id>
         <content type="html">
-    
+      
+
+
+
+
+
+
+      
 
 
 
@@ -261,11 +423,13 @@ My Vespa.
 &lt;p&gt;Remember not to use ID as the first column name of a CSV file when using semicolons as field delimiters. I spent too long debugging a problem with CSV file creation when the problem was the first column name.&lt;/p&gt;
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>Great Elgg Reference From Arck Interactive</title>
@@ -273,7 +437,14 @@ My Vespa.
         <updated>2011-06-20T00:00:00+03:00</updated>
         <id>http://naakka.net/tech/2011/06/20/great-elgg-reference-from-arck-interactive</id>
         <content type="html">
-    
+      
+
+
+
+
+
+
+      
 
 
 
@@ -294,11 +465,13 @@ My Vespa.
 &lt;p&gt;Everyone always asks what are the biggest or best known organisations using Elgg. World bank is the answer! That&amp;#8217;s a great reference for Elgg and Arck Interactive. Congrats!&lt;/p&gt;
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>How to Build Your Own Social Network with Elgg</title>
@@ -306,7 +479,18 @@ My Vespa.
         <updated>2010-08-17T00:00:00+03:00</updated>
         <id>http://naakka.net/tech/2010/08/17/how-to-build-your-own-social-network-wih-elgg</id>
         <content type="html">
-    
+      
+
+
+
+	&lt;div class=&quot;cover&quot;&gt;
+		&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/4900695?rel=0&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt;
+	&lt;/div&gt;
+
+
+
+
+      
 
 
 
@@ -320,7 +504,7 @@ My Vespa.
 &lt;p&gt;Don&amp;#8217;t hesitate to contact me if you have any questions or want to know more! Or head on to the &lt;a href='http://www.elgg.org'&gt;Elgg Community&lt;/a&gt; for more information.&lt;/p&gt;
 
 
-  </content>
+    </content>
   </entry>
  
  

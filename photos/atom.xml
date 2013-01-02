@@ -14,7 +14,7 @@
   <link href="http://naakka.net/photos/atom.xml" rel="self"/>
   <link href="http://naakka.net/photos"/>
   
-  <updated>2013-01-01T14:09:28+02:00</updated>
+  <updated>2013-01-02T22:28:27+02:00</updated>
   <id>http://naakka.net/photos</id>
   <author>
       <name>Jaakko Naakka</name>
@@ -28,8 +28,47 @@
   
 
   
-  
     
+    
+    
+      
+  
+  <entry>
+      <title>Gingerbread Hearts</title>
+        <link href="http://naakka.net/photos/2013/01/02/gingerbread-hearts/"/>
+        <updated>2013-01-02T00:00:00+02:00</updated>
+        <id>http://naakka.net/photos/2013/01/02/gingerbread-hearts</id>
+        <content type="html">
+      
+
+	
+
+	&lt;div class=&quot;cover image&quot;&gt;
+		&lt;a href=&quot;http://naakka.net/photos/2013/01/02/gingerbread-hearts/&quot;&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-ZgDWMq-Z4cA/UOSTCVX_GpI/AAAAAAAADsk/coqLXSlI56o/s766/R0022318.JPG&quot; /&gt;&lt;/a&gt;
+
+		
+	&lt;/div&gt;
+
+
+
+
+
+
+      
+
+
+
+
+Gingerbread hearts.
+
+
+    </content>
+  </entry>
+ 
+    
+    
+    
+      
   
   <entry>
       <title>Cycling Through Turku</title>
@@ -37,7 +76,22 @@
         <updated>2012-08-15T00:00:00+03:00</updated>
         <id>http://naakka.net/photos/2012/08/15/cycling-through-turku</id>
         <content type="html">
-    
+      
+
+	
+
+	&lt;div class=&quot;cover image&quot;&gt;
+		&lt;a href=&quot;http://naakka.net/photos/2012/08/15/cycling-through-turku/&quot;&gt;&lt;img src=&quot;http://25.media.tumblr.com/tumblr_m8xwp0QxMW1r85vq5o1_500.png&quot; /&gt;&lt;/a&gt;
+
+		
+	&lt;/div&gt;
+
+
+
+
+
+
+      
 
 
 
@@ -45,11 +99,13 @@
 Cycling through Turku.
 
 
-  </content>
+    </content>
   </entry>
  
-  
     
+    
+    
+      
   
   <entry>
       <title>Vespa</title>
@@ -57,7 +113,22 @@ Cycling through Turku.
         <updated>2012-08-07T00:00:00+03:00</updated>
         <id>http://naakka.net/photos/2012/08/07/Vespa</id>
         <content type="html">
-    
+      
+
+	
+
+	&lt;div class=&quot;cover image&quot;&gt;
+		&lt;a href=&quot;http://naakka.net/photos/2012/08/07/Vespa/&quot;&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-2YRIw8HzUtE/UHZmrHF8I3I/AAAAAAAADh8/3lDYDSR-UbI/s766/R0022001.JPG&quot; /&gt;&lt;/a&gt;
+
+		
+	&lt;/div&gt;
+
+
+
+
+
+
+      
 
 
 
@@ -65,7 +136,7 @@ Cycling through Turku.
 My Vespa.
 
 
-  </content>
+    </content>
   </entry>
  
  
