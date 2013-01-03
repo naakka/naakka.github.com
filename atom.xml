@@ -12,7 +12,7 @@
   <link href="http://naakka.net/atom.xml" rel="self"/>
   <link href="http://naakka.net/"/>
   
-  <updated>2013-01-02T22:28:27+02:00</updated>
+  <updated>2013-01-03T19:33:06+02:00</updated>
   <id>http://naakka.net/</id>
   <author>
       <name>Jaakko Naakka</name>
@@ -24,6 +24,41 @@
   
 
   
+    
+    
+    
+      
+  
+  <entry>
+      <title>Ubuntu for Phones</title>
+        <link href="http://naakka.net/tech/2013/01/03/ubuntu-for-phones/"/>
+        <updated>2013-01-03T00:00:00+02:00</updated>
+        <id>http://naakka.net/tech/2013/01/03/ubuntu-for-phones</id>
+        <content type="html">
+      
+
+
+
+	&lt;div class=&quot;cover&quot;&gt;
+		&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/cpWHJDLsqTU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+	&lt;/div&gt;
+
+
+
+
+      
+
+
+
+&lt;p&gt;This is a great proposition from Ubuntu. I guess phones already have the processing power to run the full version of Ubuntu and the possibility to turn your phone into a full desktop is brilliant.&lt;/p&gt;
+
+&lt;p&gt;Having the same OS both on your desktop and phone has advantages. Apple has already added some features from iOS to OSX but they&amp;#8217;re still very different. Google is doing the same with Chrome OS and Chrome browser. Ubuntu is taking this one step further by running the exact same OS on both the mobile device and desktop.&lt;/p&gt;
+
+&lt;p&gt;I hope this will be a success.&lt;/p&gt;
+
+    </content>
+  </entry>
+ 
     
     
     
@@ -54,9 +89,7 @@
 
 
 
-
 Gingerbread hearts.
-
 
     </content>
   </entry>
@@ -92,7 +125,6 @@ Gingerbread hearts.
       
 
 
-
 	&lt;blockquote&gt;
 		&lt;p&gt;
 			There are lenses and then there are lenses. The Lensbaby Muse sits happily in the lenses camp. The unit arrived a few weeks ago, and in that time, I’ve taken it with me to various places, all the while getting a feel for this wholly innovative approach to photography. It’s a wonder for portraits, more on that later. Upon unboxing it and taking several photos, I had the same reaction the aliens had to Buzz Lightyear in Toy Story. Just so we’re clear, I am a Sony digital shooter with Minolta AF glass. Just how did the Muse help advance my photography? Read on to find out.
@@ -108,7 +140,6 @@ Gingerbread hearts.
 
 
 I want one of these!
-
 
     </content>
   </entry>
@@ -139,9 +170,7 @@ I want one of these!
 
 
 
-
 &lt;p&gt;I think &lt;a href='http://developer.ubuntu.com/resources/technologies/webapps/'&gt;Ubuntu Web Apps&lt;/a&gt; is the coolest feature of the latest &lt;a href='http://releases.ubuntu.com/quantal/'&gt;Ubuntu 12.10 (Quantal Quetzal)&lt;/a&gt;. I&amp;#8217;m still running 12.04 but this is probably the biggest reason for me to upgrade. I&amp;#8217;ll try to upgrade during the Christmas holidays and try developing an app myself.&lt;/p&gt;
-
 
     </content>
   </entry>
@@ -167,7 +196,6 @@ I want one of these!
       
 
 
-
 	&lt;blockquote&gt;
 		&lt;p&gt;
 			COLOURlovers is a creative community where people from around the world create and share colors, palettes and patterns, discuss the latest trends and explore colorful articles... All in the spirit of love.
@@ -183,7 +211,6 @@ I want one of these!
 
 
 &lt;p&gt;A huge collection of great web color combinations. That&amp;#8217;s where the colors for this site come from.&lt;/p&gt;
-
 
     </content>
   </entry>
@@ -213,7 +240,6 @@ I want one of these!
       
 
 
-
 	&lt;p class=&quot;source&quot;&gt;&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://lab.hakim.se/reveal-js/&quot;&gt;reveal.js&lt;/a&gt;&lt;/p&gt;	
 
 
@@ -222,7 +248,6 @@ I want one of these!
 &lt;p&gt;Just take a look at the demo, it&amp;#8217;s pretty impressive! And it works nicely with touch screen devices. I&amp;#8217;m definitely going to give reveal.js a try next time I&amp;#8217;m giving a presentation somewhere.&lt;/p&gt;
 
 &lt;p&gt;ps. this is the first time I tried to embed a reveal.js presentation in an iframe and it seems to work quite nicely, but it &lt;a href='http://lab.hakim.se/reveal-js/'&gt;looks a lot better full screen&lt;/a&gt;!&lt;/p&gt;
-
 
     </content>
   </entry>
@@ -233,7 +258,7 @@ I want one of these!
       
   
   <entry>
-      <title>Scaling a Silex code base</title>
+      <title>Scaling a Silex Code Base</title>
         <link href="http://naakka.net/tech/2012/11/14/scaling-a-silex-code-base/"/>
         <updated>2012-11-14T00:00:00+02:00</updated>
         <id>http://naakka.net/tech/2012/11/14/scaling-a-silex-code-base</id>
@@ -246,7 +271,6 @@ I want one of these!
 
 
       
-
 
 
 	&lt;blockquote&gt;
@@ -265,7 +289,6 @@ I want one of these!
 
 &lt;p&gt;Read this article if you ever wonder which to use, Silex or Symfony2.&lt;/p&gt;
 
-
     </content>
   </entry>
  
@@ -275,7 +298,7 @@ I want one of these!
       
   
   <entry>
-      <title>Add to home screen</title>
+      <title>Add to Home Screen</title>
         <link href="http://naakka.net/tech/2012/10/31/add-to-home-screen/"/>
         <updated>2012-10-31T00:00:00+02:00</updated>
         <id>http://naakka.net/tech/2012/10/31/add-to-home-screen</id>
@@ -300,12 +323,10 @@ I want one of these!
       
 
 
-
 	&lt;p class=&quot;source&quot;&gt;&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://cubiq.org/add-to-home-screen&quot;&gt;cubiq.org&lt;/a&gt;&lt;/p&gt;	
 
 
 &lt;p&gt;A brilliant script for adding a native feeling &amp;#8220;add to home screen&amp;#8221; balloon on your web site.&lt;/p&gt;
-
 
     </content>
   </entry>
@@ -340,9 +361,7 @@ I want one of these!
 
 
 
-
 Cycling through Turku.
-
 
     </content>
   </entry>
@@ -377,9 +396,7 @@ Cycling through Turku.
 
 
 
-
 My Vespa.
-
 
     </content>
   </entry>
@@ -405,7 +422,6 @@ My Vespa.
       
 
 
-
 	&lt;blockquote&gt;
 		&lt;p&gt;
 			ID; in the first 3 characters of a file is the signature for a SYLK file. The fourth character can be a P, N or an E which flags certain information about how the rest of the file should be processed.
@@ -421,7 +437,6 @@ My Vespa.
 
 
 &lt;p&gt;Remember not to use ID as the first column name of a CSV file when using semicolons as field delimiters. I spent too long debugging a problem with CSV file creation when the problem was the first column name.&lt;/p&gt;
-
 
     </content>
   </entry>
@@ -447,7 +462,6 @@ My Vespa.
       
 
 
-
 	&lt;blockquote&gt;
 		&lt;p&gt;
 			It was a wonderful Friday here at Arck Interactive. We were officially approved as a development vendor for the World Bank. Starting next week, we’ll be developing custom social networking functionalty to improve the information architecture of their internal Elgg-based social network.
@@ -463,7 +477,6 @@ My Vespa.
 
 
 &lt;p&gt;Everyone always asks what are the biggest or best known organisations using Elgg. World bank is the answer! That&amp;#8217;s a great reference for Elgg and Arck Interactive. Congrats!&lt;/p&gt;
-
 
     </content>
   </entry>
@@ -493,7 +506,6 @@ My Vespa.
       
 
 
-
 	&lt;p class=&quot;source&quot;&gt;&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://www.slideshare.net/naakka&quot;&gt;Jaakko Naakka on Slideshare&lt;/a&gt;&lt;/p&gt;	
 
 
@@ -502,7 +514,6 @@ My Vespa.
 &lt;p&gt;From a developer&amp;#8217;s point of view Elgg is an excellent framework to work with. It&amp;#8217;s easy to extend using the effective plugin system and the Elgg API and datamodel make development easy and fast. Personally, I&amp;#8217;m a big fan of Elgg and I&amp;#8217;ve been working with it since the 1.0 version was released about two years ago.&lt;/p&gt;
 
 &lt;p&gt;Don&amp;#8217;t hesitate to contact me if you have any questions or want to know more! Or head on to the &lt;a href='http://www.elgg.org'&gt;Elgg Community&lt;/a&gt; for more information.&lt;/p&gt;
-
 
     </content>
   </entry>

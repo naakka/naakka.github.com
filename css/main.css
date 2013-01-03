@@ -71,7 +71,7 @@ footer .copyright {
 
 /******************* Headings *********************/
 
-h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, blockquote small, div.date {
+.muted, h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, blockquote small {
 	color: #BAA98C;
 }
 
@@ -85,12 +85,15 @@ h2 {
 	margin-top: 20px;
 }
 
-div.title div.date {
+div.title div {
 	margin: -6px 0 10px 0;
+}
+
+div.title div.date {
 	font-size: 18px;
 }
 
-.post-listing div.title div.date {
+.post-listing div.title div {
 	margin-top: -13px;
 	font-size: 14px;
 }
@@ -126,7 +129,7 @@ a:hover {
 	margin-bottom: 0px;
 }
 
-.post-listing div.title a {
+.post-listing div.title h3 a {
 	color: #41210F;
 }
 
