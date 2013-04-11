@@ -14,9 +14,11 @@ body {
 }
 
 /* Custom container */
-.container-narrow {
+.container-narrow, .container {
 	margin: 0 auto;
-	max-width: 700px;
+}
+.container-narrow {
+  max-width: 700px;
 }
 
 hr {
@@ -32,7 +34,7 @@ hr {
     margin: 0 auto -220px;
 }
 
-.main-wrapper .container-narrow {
+.main-wrapper .container-narrow, .main-wrapper .container {
 	padding-bottom: 300px;
 }
 
