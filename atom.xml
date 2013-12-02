@@ -1,1604 +1,562 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog by Jaakko Naakka</title>  
   
+  <link href="http://feeds.feedburner.com/naakka" rel="self"/>
+  <link href="http://naakka.net"/>
   
-
-  
-  
-  
-  
-  <title>Personal Blog by Jaakko Naakka</title>  
-  
-  <link href="http://naakka.net/atom.xml" rel="self"/>
-  <link href="http://naakka.net/"/>
-  
-  <updated>2013-04-16T08:57:13+03:00</updated>
-  <id>http://naakka.net/</id>
+  <updated>2013-12-02</updated>
+  <id>http://naakka.net</id>
   <author>
       <name>Jaakko Naakka</name>
-      <email>naakka@shortmail.com</email>
+      <email>jaakko@naakka.net</email>
   </author>
   
-  
-  
-  
-
-  
-    
-    
-    
-      
-  
-  <entry>
-      <title>Rain</title>
-        <link href="http://naakka.net/photos/2013/04/15/rain/"/>
-        <updated>2013-04-15T00:00:00+03:00</updated>
-        <id>http://naakka.net/photos/2013/04/15/rain</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/04/15/rain/&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-M2vuauq9ygM/UWxVLvgVGiI/AAAAAAAAD7U/j0KP98KbcH8/s766/flare-iphoto-export-387746741.png&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Rainy day.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Sunset in Kallio</title>
-        <link href="http://naakka.net/photos/2013/04/14/sunset-in-kallio/"/>
-        <updated>2013-04-14T00:00:00+03:00</updated>
-        <id>http://naakka.net/photos/2013/04/14/sunset-in-kallio</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/04/14/sunset-in-kallio/&quot;&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-uM8mR7_NpP4/UWxVlH4u0_I/AAAAAAAAD7w/6FLF4Z2PZs0/s766/flare-iphoto-export-387746643.png&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Sunset in Kallio.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>City Wonders</title>
-        <link href="http://naakka.net/photos/2013/04/13/city-wonders/"/>
-        <updated>2013-04-13T00:00:00+03:00</updated>
-        <id>http://naakka.net/photos/2013/04/13/city-wonders</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/04/13/city-wonders/&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-fexw58y2pi0/UWxViw2oB6I/AAAAAAAAD7o/iT72tNFxBsM/s766/flare-iphoto-export-387746479.png&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Big city wonders.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Morning Fog</title>
-        <link href="http://naakka.net/photos/2013/04/12/morning-fog/"/>
-        <updated>2013-04-12T00:00:00+03:00</updated>
-        <id>http://naakka.net/photos/2013/04/12/morning-fog</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/04/12/morning-fog/&quot;&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-5aw9fN7dpzw/UWxVJ8s3sfI/AAAAAAAAD7M/xXOQympPxKU/s766/flare-iphoto-export-387746357.png&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Riding in the morning fog.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Red Fence</title>
-        <link href="http://naakka.net/photos/2013/04/11/red-fence/"/>
-        <updated>2013-04-11T00:00:00+03:00</updated>
-        <id>http://naakka.net/photos/2013/04/11/red-fence</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/04/11/red-fence/&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-2wJcMXRDTGs/UWxVIxI4qoI/AAAAAAAAD7E/roxPh7TvrC8/s766/flare-iphoto-export-387746257.png&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Red fence.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Apple Tree</title>
-        <link href="http://naakka.net/photos/2013/04/10/apple-tree/"/>
-        <updated>2013-04-10T00:00:00+03:00</updated>
-        <id>http://naakka.net/photos/2013/04/10/apple-tree</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/04/10/apple-tree/&quot;&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-eTf-nEHjdv8/UWxVG9IbO6I/AAAAAAAAD68/edi1SXya_eM/s766/flare-iphoto-export-387746101.png&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-An old apple tree.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Sunset</title>
-        <link href="http://naakka.net/photos/2013/04/09/sunset/"/>
-        <updated>2013-04-09T00:00:00+03:00</updated>
-        <id>http://naakka.net/photos/2013/04/09/sunset</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/04/09/sunset/&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-Oob38zkug-I/UWxVAu4XoGI/AAAAAAAAD60/SZUOM7XZzVI/s766/flare-iphoto-export-387745943.png&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-It seems I never get tired of these sunsets.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Sunset</title>
-        <link href="http://naakka.net/photos/2013/04/08/sunset/"/>
-        <updated>2013-04-08T00:00:00+03:00</updated>
-        <id>http://naakka.net/photos/2013/04/08/sunset</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/04/08/sunset/&quot;&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-KrNq5GylMDY/UWxU8B3dNvI/AAAAAAAAD6s/rhcbHiPI5Xc/s1021/flare-iphoto-export-387745590.png&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-We got about 10cm of fresh snow yesterday and it's been cloudy ever since. Today the sky cleared up.
-
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Snow</title>
-        <link href="http://naakka.net/photos/2013/04/07/snow/"/>
-        <updated>2013-04-07T00:00:00+03:00</updated>
-        <id>http://naakka.net/photos/2013/04/07/snow</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/04/07/snow/&quot;&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-DlkqGZaxNMw/UWxU6bf1XJI/AAAAAAAAD6k/HAKAMbk0irc/s766/flare-iphoto-export-387745098.png&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Fresh snow.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Willows</title>
-        <link href="http://naakka.net/photos/2013/04/05/willows/"/>
-        <updated>2013-04-05T00:00:00+03:00</updated>
-        <id>http://naakka.net/photos/2013/04/05/willows</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/04/05/willows/&quot;&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/-tFXGWHVimtQ/UV8Cr0qSAhI/AAAAAAAAD5w/1KRIPA5yehQ/s1021/flare-iphoto-export-386873410.jpg&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Willows.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Smoke Signals</title>
-        <link href="http://naakka.net/photos/2013/04/04/smoke-signals/"/>
-        <updated>2013-04-04T00:00:00+03:00</updated>
-        <id>http://naakka.net/photos/2013/04/04/smoke-signals</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/04/04/smoke-signals/&quot;&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-znSD1ZuWH_4/UV7QH31pt1I/AAAAAAAAD4o/XebyT7XWz44/s766/flare-iphoto-export-386860825.png&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Looks almost like smoke signals.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Global Internet Penetration and Ongoing Conflicts Around the World</title>
-        <link href="http://naakka.net/tech/2013/04/04/internet-penetration-and-conflicts/"/>
-        <updated>2013-04-04T00:00:00+03:00</updated>
-        <id>http://naakka.net/tech/2013/04/04/internet-penetration-and-conflicts</id>
-        <content type="html">
-      
-
-	
-		
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://sefsar.com/global-internet-penetration-and-ongoing-conflicts-around-the-world&quot;&gt;&lt;img src=&quot;http://i.imgur.com/2gELQ9x.gif&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-	&lt;blockquote&gt;
-		&lt;p&gt;
-			&lt;p&gt;Clear communication is the most important factor of conflict resolution, no matter how grand or small the problem. The Internet, and perhaps more accurately The Web, is the most powerful mode of communication on Earth. Without it, your worldview is shackled by ignorance, and in our age, there is no room for ignorance.&lt;/p&gt;
-		&lt;/p&gt;
-		
-		
-			&lt;p class=&quot;source&quot;&gt;
-			&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://sefsar.com/global-internet-penetration-and-ongoing-conflicts-around-the-world&quot;&gt;Youssef Sarhan&lt;/a&gt;
-			&lt;/p&gt;
-		
-		
-	&lt;/blockquote&gt;
-
-
-
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>A Lonely House</title>
-        <link href="http://naakka.net/photos/2013/04/03/a-lonely-house/"/>
-        <updated>2013-04-03T00:00:00+03:00</updated>
-        <id>http://naakka.net/photos/2013/04/03/a-lonely-house</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/04/03/a-lonely-house/&quot;&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-FQs2eXytP-I/UVyE__o5y9I/AAAAAAAAD4U/MeGj5yJ4Oig/s766/flare-iphoto-export-386710084.png&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-A lonely house in Heinäsuo.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Fresh Paint</title>
-        <link href="http://naakka.net/photos/2013/04/02/fresh-paint/"/>
-        <updated>2013-04-02T00:00:00+03:00</updated>
-        <id>http://naakka.net/photos/2013/04/02/fresh-paint</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/04/02/fresh-paint/&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-AEjltSSqL3E/UVx9cwmiWcI/AAAAAAAAD3w/e_CzuPJIee0/s766/flare-iphoto-export-386686074.png&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Fresh paint.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Spring</title>
-        <link href="http://naakka.net/photos/2013/04/01/spring/"/>
-        <updated>2013-04-01T00:00:00+03:00</updated>
-        <id>http://naakka.net/photos/2013/04/01/spring</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/04/01/spring/&quot;&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-LQoyR8ia_L0/UVx84sLOGFI/AAAAAAAAD3g/JFFnTq8j310/s766/flare-iphoto-export-386685810.png&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Spring is here.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Last Days Of Winter</title>
-        <link href="http://naakka.net/photos/2013/03/27/last-days-of-winter/"/>
-        <updated>2013-03-27T00:00:00+02:00</updated>
-        <id>http://naakka.net/photos/2013/03/27/last-days-of-winter</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/03/27/last-days-of-winter/&quot;&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-DHGMcO4WFH0/UVNUFxkRTaI/AAAAAAAAD28/THoQCE1JAjA/s736/flare-iphoto-export-386106123.png&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Last days of winter.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>New Wallpapers</title>
-        <link href="http://naakka.net/photos/2013/03/24/new-wallpapers/"/>
-        <updated>2013-03-24T00:00:00+02:00</updated>
-        <id>http://naakka.net/photos/2013/03/24/new-wallpapers</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/03/24/new-wallpapers/&quot;&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/-ScBw5_GAyHk/UVH1Ej-wZTI/AAAAAAAAD1w/N3IpJ91a3iU/s766/R0022484.JPG&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-New wallpapers.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Sunrise</title>
-        <link href="http://naakka.net/photos/2013/03/17/sunrise/"/>
-        <updated>2013-03-17T00:00:00+02:00</updated>
-        <id>http://naakka.net/photos/2013/03/17/sunrise</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/03/17/sunrise/&quot;&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-zx103B2hz6E/UUhWZMtNB5I/AAAAAAAAD0M/VB1KvebYU8I/s736/R0022416.JPG&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Sunrise at Heinäsuo.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Posterous Shuts Down, Here Comes Posthaven</title>
-        <link href="http://naakka.net/tech/2013/02/16/posterous-shuts-down-here-comes-posthaven/"/>
-        <updated>2013-02-16T00:00:00+02:00</updated>
-        <id>http://naakka.net/tech/2013/02/16/posterous-shuts-down-here-comes-posthaven</id>
-        <content type="html">
-      
-
-
-
-
-
-
-      
-
-
-
-&lt;p&gt;Posterous has just &lt;a href='http://www.engadget.com/2013/02/15/posterous-closing-on-april-30th-to-focus-on-twitter/'&gt;announced&lt;/a&gt; that it will be closed down on 30th of April 2013. This is not a surprise since it was acquired by Twitter in 2012.&lt;/p&gt;
-
-&lt;p&gt;Two Posterous cofounders have announced their new service called &lt;a href='https://posthaven.com/'&gt;Posthaven&lt;/a&gt;. They have an interesting pledge&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;We&amp;#8217;ll never be acquired.&lt;/li&gt;
-
-&lt;li&gt;We&amp;#8217;ll always keep your URL&amp;#8217;s online.&lt;/li&gt;
-
-&lt;li&gt;We&amp;#8217;ll always keep it the best place to post.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;What&amp;#8217;s more interesting in Posthaven is their business model. Sometimes it feels as if startups&amp;#8217; goal is to get acquired as fast as possible with as much money as possible. Posthaven promises that it will never be acquired.&lt;/p&gt;
-
-&lt;p&gt;They say that they will also refuse any funding. Of course, they need money to run the service and they will charge $5/month for running a blog on their site.&lt;/p&gt;
-
-&lt;p&gt;It&amp;#8217;s interesting that lately we&amp;#8217;ve seen an increasing number of web services that charge money for using their service, like &lt;a href='http://app.net'&gt;app.net&lt;/a&gt;. I guess a lot of people are fed up with advertising or rapidly changing terms of service and are willing to pay for good service. And of course you get some peace of mind knowing that the content you created will always be available to your audience.&lt;/p&gt;
-
-&lt;p&gt;Posthaven is not the first blogging platform charging for their services but it&amp;#8217;s definitely one of the most interesting ones. I was a big fan of Posterous and I&amp;#8217;m sure I&amp;#8217;ll keep an eye on Posthaven.&lt;/p&gt;
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Moving on to Silex from Legacy PHP</title>
-        <link href="http://naakka.net/tech/2013/02/12/moving-on-to-silex-from-legacy-php/"/>
-        <updated>2013-02-12T00:00:00+02:00</updated>
-        <id>http://naakka.net/tech/2013/02/12/moving-on-to-silex-from-legacy-php</id>
-        <content type="html">
-      
-
-
-
-
-
-
-      
-
-
-	&lt;blockquote&gt;
-		&lt;p&gt;
-			&lt;p&gt;This article will show you how you can take some major steps in elevating your legacy application and making it run another ten years. Let it be not-so-legacy anymore!&lt;/p&gt;
-		&lt;/p&gt;
-		
-		
-			&lt;p class=&quot;source&quot;&gt;
-			&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://php-and-symfony.matthiasnoback.nl/2012/06/let-silex-wrap-your-legacy-php-application-and-add-twig-for-templating/&quot;&gt;Matthias Noback&lt;/a&gt;
-			&lt;/p&gt;
-		
-		
-	&lt;/blockquote&gt;
-
-
-&lt;p&gt;I just came across this great article by &lt;a href='https://twitter.com/matthiasnoback'&gt;Matthias Noback&lt;/a&gt;. Read this if you&amp;#8217;ve ever wondered how to move on from a legacy PHP project and you cannot rewrite your application at once. Just wrap it with Silex and improve your code bit by bit.&lt;/p&gt;
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>The Future of ICT</title>
-        <link href="http://naakka.net/tech/2013/01/21/the-future-of-ict/"/>
-        <updated>2013-01-21T00:00:00+02:00</updated>
-        <id>http://naakka.net/tech/2013/01/21/the-future-of-ict</id>
-        <content type="html">
-      
-
-
-
-
-
-
-      
-
-
-	&lt;blockquote&gt;
-		&lt;p&gt;
-			&lt;p&gt;As a result of the Internet based ICT we have learned how to speak and how to listen; we have learned how to write and how to read. But in the digital world, it is not enough if we know how to use the programs, if we don’t know how to make them.&lt;/p&gt;
-		&lt;/p&gt;
-		
-		
-			&lt;p class=&quot;source&quot;&gt;
-			&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://eskokilpi.blogging.fi/2013/01/19/the-future-of-ict/&quot;&gt;Esko Kilpi&lt;/a&gt;
-			&lt;/p&gt;
-		
-		
-	&lt;/blockquote&gt;
-
-
-&lt;p&gt;A great post by Esko Kilpi. &amp;#8220;Writing code is the number one high leverage activity in a creative, digital society.&amp;#8221;&lt;/p&gt;
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Lenovo Chromebook Announced</title>
-        <link href="http://naakka.net/tech/2013/01/17/lenovo-chromebook-announced/"/>
-        <updated>2013-01-17T22:30:00+02:00</updated>
-        <id>http://naakka.net/tech/2013/01/17/lenovo-chromebook-announced</id>
-        <content type="html">
-      
-
-	
-		
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://www.theverge.com/2013/1/17/3886142/lenovo-enters-chromebook-market-with-thinkpad-x131e&quot;&gt;&lt;img src=&quot;http://www.blogcdn.com/www.engadget.com/media/2013/01/lenovo-thinkpad-x131e-chromebook.jpg&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-	&lt;p class=&quot;source&quot;&gt;&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://www.theverge.com/2013/1/17/3886142/lenovo-enters-chromebook-market-with-thinkpad-x131e&quot;&gt;The Verge&lt;/a&gt;&lt;/p&gt;	
-
-
-&lt;p&gt;Wow, this is big news from Lenovo and Google. I like the Chrome OS concept and targetting these laptops to the educational sector seems like a good idea. iPads in education is kind of a hot topic at the moment but I&amp;#8217;m sure a laptop has its benefits compared to a tablet. I guess they still do some writing at schools.&lt;/p&gt;
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Upgraded Ubuntu, Webapps Rock</title>
-        <link href="http://naakka.net/tech/2013/01/17/upgraded-ubuntu/"/>
-        <updated>2013-01-17T00:00:00+02:00</updated>
-        <id>http://naakka.net/tech/2013/01/17/upgraded-ubuntu</id>
-        <content type="html">
-      
-
-
-
-
-
-
-      
-	&lt;p class=&quot;excerpt&quot;&gt;
-		I finally managed to upgrade my laptop to run Ubuntu 12.10 Quantal Quetzal. Upgrade went smoothly and everything is working just the way it should be. And yes, the web apps rock.
-	&lt;/p&gt;
-
-
-
-
-&lt;h2 id='polished_ui'&gt;Polished UI&lt;/h2&gt;
-
-&lt;p&gt;The UI feels a bit more polished compared to 12.04, although, I can&amp;#8217;t really tell what has changed.&lt;/p&gt;
-
-&lt;p&gt;Some of the Compiz desktop effects feel slower when my laptop is connected to an external display. But when I&amp;#8217;m using only my laptop display the same effects are faster than in 12.04.&lt;/p&gt;
-
-&lt;p&gt;In 12.04 all the effects were consistently fast both when using only my laptop screen and with an external display attached. It&amp;#8217;s a bit strange and I&amp;#8217;ll have to look into this later on.&lt;/p&gt;
-
-&lt;h2 id='webapps_rock'&gt;Webapps Rock!&lt;/h2&gt;
-
-&lt;p&gt;The biggest thing for me is the &lt;a href='/tech/2012/12/05/ubuntu-web-apps/'&gt;web apps&lt;/a&gt;. I haven&amp;#8217;t had time to try to write my own web app but I think this is very promising.&lt;/p&gt;
-
-&lt;p&gt;Integrating web site notifications with the Unity messaging menu is great. The only problem, in my opinion, is that you actually have to have the integrated web site open either in its own tab or in a separate window.&lt;/p&gt;
-
-&lt;p&gt;It would be cool if the integration worked even if the site is not currently open. But this is a good start and I can&amp;#8217;t wait to try this out myself!&lt;/p&gt;
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Benches</title>
-        <link href="http://naakka.net/photos/2013/01/13/benches/"/>
-        <updated>2013-01-13T00:00:00+02:00</updated>
-        <id>http://naakka.net/photos/2013/01/13/benches</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/01/13/benches/&quot;&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/-OxU7u5liDCY/UPRi0e7mr7I/AAAAAAAADy0/81Q6IrMGTdM/s766/R0022371.JPG&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Benches in Kupittaanpuisto.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Dark Park</title>
-        <link href="http://naakka.net/photos/2013/01/09/dark-park/"/>
-        <updated>2013-01-09T00:00:00+02:00</updated>
-        <id>http://naakka.net/photos/2013/01/09/dark-park</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/01/09/dark-park/&quot;&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/--Eiu_MCQTYw/UO3LjXVxG8I/AAAAAAAADxM/lF9ONrmMpNc/s766/R0022367.JPG&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-A dark park in Turku.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Winter Wonders</title>
-        <link href="http://naakka.net/photos/2013/01/06/winter-wonders/"/>
-        <updated>2013-01-06T00:00:00+02:00</updated>
-        <id>http://naakka.net/photos/2013/01/06/winter-wonders</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/01/06/winter-wonders/&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-Zw-iDUxsoRg/UOps1Mq7tkI/AAAAAAAADwA/G54OwYFccxA/s766/R0022358.JPG&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Winter wonders.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Parking Turku Style</title>
-        <link href="http://naakka.net/photos/2013/01/04/parking-turku-style/"/>
-        <updated>2013-01-04T00:00:00+02:00</updated>
-        <id>http://naakka.net/photos/2013/01/04/parking-turku-style</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/01/04/parking-turku-style/&quot;&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/-sRTPgKUQ3II/UOc1A4dtLcI/AAAAAAAADvQ/Xdj_BCzInkM/s766/R0022329.JPG&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Parking Turku style.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Kisai Watches</title>
-        <link href="http://naakka.net/tech/2013/01/04/kisai-watches/"/>
-        <updated>2013-01-04T00:00:00+02:00</updated>
-        <id>http://naakka.net/tech/2013/01/04/kisai-watches</id>
-        <content type="html">
-      
-
-
-
-	&lt;div class=&quot;cover&quot;&gt;
-		&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/ZoMrnjkcqKU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-	&lt;/div&gt;
-
-
-
-
-      
-
-
-	&lt;blockquote&gt;
-		&lt;p&gt;
-			&lt;p&gt;If you&amp;#8217;re looking for a watch that simply tells the time, then our watches are probably not for you. We design wearable art, many people don&amp;#8217;t appreciate art but many people do.&lt;/p&gt;
-		&lt;/p&gt;
-		
-		
-			&lt;p class=&quot;source&quot;&gt;
-			&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://www.tokyoflash.com/en/watches/kisai/&quot;&gt;tokyoflash.com&lt;/a&gt;
-			&lt;/p&gt;
-		
-		
-	&lt;/blockquote&gt;
-
-
-&lt;p&gt;I really like these Kisai watches. Usability purists probably hate them but I think the design is bold and refreshing.&lt;/p&gt;
-
-&lt;p&gt;From a usability perspective you should design your application, web site or gadget to be so easy to use that users don&amp;#8217;t need a manual to use it. Just take a look at these Kisai watches, these are something totally different.&lt;/p&gt;
-
-&lt;p&gt;The designers at Tokyoflash have taken a completely different approach. I think it&amp;#8217;s amazing that they&amp;#8217;ve been able to completely rethink the design of a traditional wrist watch. And you really need a manual to know how to tell the time.&lt;/p&gt;
-
-&lt;p&gt;If this isn&amp;#8217;t thinking otside the box I don&amp;#8217;t know what is. I&amp;#8217;d like to try to design a web site or an app to be as different as these watches.&lt;/p&gt;
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Birthday Beer</title>
-        <link href="http://naakka.net/photos/2013/01/03/birthday-beer/"/>
-        <updated>2013-01-03T22:00:00+02:00</updated>
-        <id>http://naakka.net/photos/2013/01/03/birthday-beer</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/01/03/birthday-beer/&quot;&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-a3PEWNtEAko/UOXm0e0i1ZI/AAAAAAAADt8/ciRy6Dgeaqs/s766/R0022326.JPG&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Birthday beer.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Ubuntu for Phones</title>
-        <link href="http://naakka.net/tech/2013/01/03/ubuntu-for-phones/"/>
-        <updated>2013-01-03T00:00:00+02:00</updated>
-        <id>http://naakka.net/tech/2013/01/03/ubuntu-for-phones</id>
-        <content type="html">
-      
-
-
-
-	&lt;div class=&quot;cover&quot;&gt;
-		&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/cpWHJDLsqTU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-	&lt;/div&gt;
-
-
-
-
-      
-
-
-
-&lt;p&gt;This is a great proposition from Ubuntu. I guess phones already have the processing power to run the full version of Ubuntu and the possibility to turn your phone into a full desktop is brilliant.&lt;/p&gt;
-
-&lt;p&gt;Having the same OS both on your desktop and phone has advantages. Apple has already added some features from iOS to OSX but they&amp;#8217;re still very different. Google is doing the same with Chrome OS and Chrome browser. Ubuntu is taking this one step further by running the exact same OS on both the mobile device and desktop.&lt;/p&gt;
-
-&lt;p&gt;I hope this will be a success.&lt;/p&gt;
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Gingerbread Hearts</title>
-        <link href="http://naakka.net/photos/2013/01/02/gingerbread-hearts/"/>
-        <updated>2013-01-02T00:00:00+02:00</updated>
-        <id>http://naakka.net/photos/2013/01/02/gingerbread-hearts</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2013/01/02/gingerbread-hearts/&quot;&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-ZgDWMq-Z4cA/UOSTCVX_GpI/AAAAAAAADsk/coqLXSlI56o/s766/R0022318.JPG&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Gingerbread hearts.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Lensbaby Muse Review</title>
-        <link href="http://naakka.net/2012/12/22/lensbaby-muse-review/"/>
-        <updated>2012-12-22T00:00:00+02:00</updated>
-        <id>http://naakka.net/2012/12/22/lensbaby-muse-review</id>
-        <content type="html">
-      
-
-	
-		
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://www.thephoblographer.com/2012/12/14/review-lensbaby-muse-sony-alpha-aminolta-maxxum/&quot;&gt;&lt;img src=&quot;http://25.media.tumblr.com/254b15c420b72e73a90086cd433b5656/tumblr_mf78s8EXe01r040p7o1_500.jpg&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-	&lt;blockquote&gt;
-		&lt;p&gt;
-			&lt;p&gt;There are lenses and then there are lenses. The Lensbaby Muse sits happily in the lenses camp. The unit arrived a few weeks ago, and in that time, I’ve taken it with me to various places, all the while getting a feel for this wholly innovative approach to photography. It’s a wonder for portraits, more on that later. Upon unboxing it and taking several photos, I had the same reaction the aliens had to Buzz Lightyear in Toy Story. Just so we’re clear, I am a Sony digital shooter with Minolta AF glass. Just how did the Muse help advance my photography? Read on to find out.&lt;/p&gt;
-		&lt;/p&gt;
-		
-		
-			&lt;p class=&quot;source&quot;&gt;
-			&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://www.thephoblographer.com/2012/12/14/review-lensbaby-muse-sony-alpha-aminolta-maxxum/&quot;&gt;thephoblographer.com&lt;/a&gt;
-			&lt;/p&gt;
-		
-		
-	&lt;/blockquote&gt;
-
-
-I want one of these!
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Ubuntu Web Apps</title>
-        <link href="http://naakka.net/tech/2012/12/05/ubuntu-web-apps/"/>
-        <updated>2012-12-05T00:00:00+02:00</updated>
-        <id>http://naakka.net/tech/2012/12/05/ubuntu-web-apps</id>
-        <content type="html">
-      
-
-
-
-	&lt;div class=&quot;cover&quot;&gt;
-		&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/AUTNxi6b-hw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-	&lt;/div&gt;
-
-
-
-
-      
-
-
-
-&lt;p&gt;I think &lt;a href='http://developer.ubuntu.com/resources/technologies/webapps/'&gt;Ubuntu Web Apps&lt;/a&gt; is the coolest feature of the latest &lt;a href='http://releases.ubuntu.com/quantal/'&gt;Ubuntu 12.10 (Quantal Quetzal)&lt;/a&gt;. I&amp;#8217;m still running 12.04 but this is probably the biggest reason for me to upgrade. I&amp;#8217;ll try to upgrade during the Christmas holidays and try developing an app myself.&lt;/p&gt;
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Great Web Color Combinations</title>
-        <link href="http://naakka.net/tech/2012/11/19/great-web-color-combinations/"/>
-        <updated>2012-11-19T00:00:00+02:00</updated>
-        <id>http://naakka.net/tech/2012/11/19/great-web-color-combinations</id>
-        <content type="html">
-      
-
-
-
-
-
-
-      
-
-
-	&lt;blockquote&gt;
-		&lt;p&gt;
-			&lt;p&gt;COLOURlovers is a creative community where people from around the world create and share colors, palettes and patterns, discuss the latest trends and explore colorful articles&amp;#8230; All in the spirit of love.&lt;/p&gt;
-		&lt;/p&gt;
-		
-		
-			&lt;p class=&quot;source&quot;&gt;
-			&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://www.colourlovers.com/&quot;&gt;COLOURlovers&lt;/a&gt;
-			&lt;/p&gt;
-		
-		
-	&lt;/blockquote&gt;
-
-
-&lt;p&gt;A huge collection of great web color combinations. That&amp;#8217;s where the colors for this site come from.&lt;/p&gt;
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Great HTML5 Presentations with reveal.js</title>
-        <link href="http://naakka.net/tech/2012/11/18/great-html5-presentations-with-reveal/"/>
-        <updated>2012-11-18T00:00:00+02:00</updated>
-        <id>http://naakka.net/tech/2012/11/18/great-html5-presentations-with-reveal</id>
-        <content type="html">
-      
-
-
-
-	&lt;div class=&quot;cover&quot;&gt;
-		&lt;iframe src=&quot;http://lab.hakim.se/reveal-js/&quot; class=&quot;reveal&quot;&gt;&lt;/iframe&gt;
-	&lt;/div&gt;
-
-
-
-
-      
-
-
-	&lt;p class=&quot;source&quot;&gt;&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://lab.hakim.se/reveal-js/&quot;&gt;reveal.js&lt;/a&gt;&lt;/p&gt;	
-
-
-&lt;p&gt;Reveal.js is a brilliant way to create stunning presentations using just CSS and HTML5.&lt;/p&gt;
-
-&lt;p&gt;Just take a look at the demo, it&amp;#8217;s pretty impressive! And it works nicely with touch screen devices. I&amp;#8217;m definitely going to give reveal.js a try next time I&amp;#8217;m giving a presentation somewhere.&lt;/p&gt;
-
-&lt;p&gt;ps. this is the first time I tried to embed a reveal.js presentation in an iframe and it seems to work quite nicely, but it &lt;a href='http://lab.hakim.se/reveal-js/'&gt;looks a lot better full screen&lt;/a&gt;!&lt;/p&gt;
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Scaling a Silex Code Base</title>
-        <link href="http://naakka.net/tech/2012/11/14/scaling-a-silex-code-base/"/>
-        <updated>2012-11-14T00:00:00+02:00</updated>
-        <id>http://naakka.net/tech/2012/11/14/scaling-a-silex-code-base</id>
-        <content type="html">
-      
-
-
-
-
-
-
-      
-
-
-	&lt;blockquote&gt;
-		&lt;p&gt;
-			&lt;ul&gt;&lt;li&gt;Silex does not prevent you from structuring your code.&lt;/li&gt;&lt;li&gt;It requires you to make your own architecture decisions.&lt;/li&gt;&lt;li&gt;Human scale is the only limiting factor.&lt;/li&gt;&lt;/ul&gt;
-		&lt;/p&gt;
-		
-		
-			&lt;p class=&quot;source&quot;&gt;
-			&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;https://igor.io/2012/11/09/scaling-silex.html&quot;&gt;igorw&lt;/a&gt;
-			&lt;/p&gt;
-		
-		
-	&lt;/blockquote&gt;
-
-
-&lt;p&gt;Read this article if you ever wonder which to use, Silex or Symfony2.&lt;/p&gt;
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Add to Home Screen</title>
-        <link href="http://naakka.net/tech/2012/10/31/add-to-home-screen/"/>
-        <updated>2012-10-31T00:00:00+02:00</updated>
-        <id>http://naakka.net/tech/2012/10/31/add-to-home-screen</id>
-        <content type="html">
-      
-
-	
-		
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://cubiq.org/add-to-home-screen&quot;&gt;&lt;img src=&quot;http://static.cubiq.org/uploads/2011/01/add2home-screen1.jpg&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-	&lt;p class=&quot;source&quot;&gt;&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://cubiq.org/add-to-home-screen&quot;&gt;cubiq.org&lt;/a&gt;&lt;/p&gt;	
-
-
-&lt;p&gt;A brilliant script for adding a native feeling &amp;#8220;add to home screen&amp;#8221; balloon on your web site.&lt;/p&gt;
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Cycling Through Turku</title>
-        <link href="http://naakka.net/photos/2012/08/15/cycling-through-turku/"/>
-        <updated>2012-08-15T00:00:00+03:00</updated>
-        <id>http://naakka.net/photos/2012/08/15/cycling-through-turku</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2012/08/15/cycling-through-turku/&quot;&gt;&lt;img src=&quot;http://25.media.tumblr.com/tumblr_m8xwp0QxMW1r85vq5o1_500.png&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-Cycling through Turku.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Vespa</title>
-        <link href="http://naakka.net/photos/2012/08/07/Vespa/"/>
-        <updated>2012-08-07T00:00:00+03:00</updated>
-        <id>http://naakka.net/photos/2012/08/07/Vespa</id>
-        <content type="html">
-      
-
-	
-
-	&lt;div class=&quot;cover image&quot;&gt;
-		&lt;a href=&quot;http://naakka.net/photos/2012/08/07/Vespa/&quot;&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-2YRIw8HzUtE/UHZmrHF8I3I/AAAAAAAADh8/3lDYDSR-UbI/s766/R0022001.JPG&quot; /&gt;&lt;/a&gt;
-
-		
-	&lt;/div&gt;
-
-
-
-
-
-
-      
-
-
-
-My Vespa.
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Remember not to use ID as the first column name of a CSV file</title>
-        <link href="http://naakka.net/tech/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file/"/>
-        <updated>2012-01-03T00:00:00+02:00</updated>
-        <id>http://naakka.net/tech/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file</id>
-        <content type="html">
-      
-
-
-
-
-
-
-      
-
-
-	&lt;blockquote&gt;
-		&lt;p&gt;
-			&lt;p&gt;ID; in the first 3 characters of a file is the signature for a SYLK file. The fourth character can be a P, N or an E which flags certain information about how the rest of the file should be processed.&lt;/p&gt;
-		&lt;/p&gt;
-		
-		
-			&lt;p class=&quot;source&quot;&gt;
-			&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://stackoverflow.com/questions/6032049/openoffice-calc-can-not-read-a-simple-csv-file-why&quot;&gt;stackoverflow.com&lt;/a&gt;
-			&lt;/p&gt;
-		
-		
-	&lt;/blockquote&gt;
-
-
-&lt;p&gt;Remember not to use ID as the first column name of a CSV file when using semicolons as field delimiters. I spent too long debugging a problem with CSV file creation when the problem was the first column name.&lt;/p&gt;
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>Great Elgg Reference From Arck Interactive</title>
-        <link href="http://naakka.net/tech/2011/06/20/great-elgg-reference-from-arck-interactive/"/>
-        <updated>2011-06-20T00:00:00+03:00</updated>
-        <id>http://naakka.net/tech/2011/06/20/great-elgg-reference-from-arck-interactive</id>
-        <content type="html">
-      
-
-
-
-
-
-
-      
-
-
-	&lt;blockquote&gt;
-		&lt;p&gt;
-			&lt;p&gt;It was a wonderful Friday here at Arck Interactive. We were officially approved as a development vendor for the World Bank. Starting next week, we’ll be developing custom social networking functionalty to improve the information architecture of their internal Elgg-based social network.&lt;/p&gt;
-		&lt;/p&gt;
-		
-		
-			&lt;p class=&quot;source&quot;&gt;
-			&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://www.arckinteractive.com/blog/2010/11/12/incredibly-rewarding-friday-arck/&quot;&gt;arckinteractive.com&lt;/a&gt;
-			&lt;/p&gt;
-		
-		
-	&lt;/blockquote&gt;
-
-
-&lt;p&gt;Everyone always asks what are the biggest or best known organisations using Elgg. World bank is the answer! That&amp;#8217;s a great reference for Elgg and Arck Interactive. Congrats!&lt;/p&gt;
-
-    </content>
-  </entry>
- 
-    
-    
-    
-      
-  
-  <entry>
-      <title>How to Build Your Own Social Network with Elgg</title>
-        <link href="http://naakka.net/tech/2010/08/17/how-to-build-your-own-social-network-wih-elgg/"/>
-        <updated>2010-08-17T00:00:00+03:00</updated>
-        <id>http://naakka.net/tech/2010/08/17/how-to-build-your-own-social-network-wih-elgg</id>
-        <content type="html">
-      
-
-
-
-	&lt;div class=&quot;cover&quot;&gt;
-		&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/4900695?rel=0&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt;
-	&lt;/div&gt;
-
-
-
-
+           
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Beyond Clean Code]]></title>
+       <link href="http://naakka.net/2013/11/26/beyond-clean-code"/>
+       <updated>2013-11-26T00:00:00+02:00</updated>
+       <id>http://naakka.net/2013/11/26/beyond-clean-code</id>
+       <content type="html"><![CDATA[         
+
+
+
+                          
+          
+	 <blockquote>
+		  <p>
+			   If code delivers good business value, then it’s good code. That doesn’t mean we can’t improve it. It just means that it is doing what it needs to!
+		  </p>
+		
+		  			   <p class="source">
+			     <i class="fa fa-link"></i> Source: <a href="http://blog.ircmaxell.com/2013/11/beyond-clean-code.html">ircmaxell’s blog</a>
+			   </p>
+		  	 </blockquote>
+	 
+          <p>I really like what <a href="https://twitter.com/ircmaxell">Anthony Ferrara</a> said. Sometimes it’s easy to get lost in the 
+debate how to structure your code or which programming pattern to use. 
+But at the end of the day, it’s business value that matters.</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Global Internet Penetration and Ongoing Conflicts Around the World]]></title>
+       <link href="http://naakka.net/2013/04/04/internet-penetration-and-conflicts"/>
+       <updated>2013-04-04T00:00:00+03:00</updated>
+       <id>http://naakka.net/2013/04/04/internet-penetration-and-conflicts</id>
+       <content type="html"><![CDATA[         
+  		  	 
+  <div class="cover image">
+		  <a href="http://sefsar.com/global-internet-penetration-and-ongoing-conflicts-around-the-world"><img src="http://i.imgur.com/2gELQ9x.gif" /></a>
+
+		    </div>
+
+
+
+                          
+          
+	 <blockquote>
+		  <p>
+			   Clear communication is the most important factor of conflict resolution, no matter how grand or small the problem. The Internet, and perhaps more accurately The Web, is the most powerful mode of communication on Earth. Without it, your worldview is shackled by ignorance, and in our age, there is no room for ignorance.
+		  </p>
+		
+		  			   <p class="source">
+			     <i class="fa fa-link"></i> Source: <a href="http://sefsar.com/global-internet-penetration-and-ongoing-conflicts-around-the-world">Youssef Sarhan</a>
+			   </p>
+		  	 </blockquote>
+	 
+                   
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Posterous Shuts Down, Here Comes Posthaven]]></title>
+       <link href="http://naakka.net/2013/02/16/posterous-shuts-down-here-comes-posthaven"/>
+       <updated>2013-02-16T00:00:00+02:00</updated>
+       <id>http://naakka.net/2013/02/16/posterous-shuts-down-here-comes-posthaven</id>
+       <content type="html"><![CDATA[         
+
+
+
+                          
+          
+          <p>Posterous has just <a href="http://www.engadget.com/2013/02/15/posterous-closing-on-april-30th-to-focus-on-twitter/">announced</a> 
+that it will be closed down on 30th of April 2013. This is not a surprise since it 
+was acquired by Twitter in 2012.</p>
+
+<p>Two Posterous cofounders have announced their new service called 
+<a href="https://posthaven.com/">Posthaven</a>. They have an interesting pledge</p>
+
+<blockquote>
+  <ul>
+  <li>We'll never be acquired.</li>
+  <li>We'll always keep your URL's online.</li>
+  <li>We'll always keep it the best place to post.</li>
+  </ul>
+</blockquote>
+
+<p>What's more interesting in Posthaven is their business model.
+Sometimes it feels as if startups' goal is to get acquired as fast as possible with as
+much money as possible. Posthaven promises that it will never be acquired.</p>
+
+<p>They say that they will also refuse any funding. Of course, they need money to run
+the service and they will charge $5/month for running a blog on their site.</p>
+
+<p>It's interesting that lately we've seen an increasing number of web services that charge
+money for using their service, like <a href="http://app.net">app.net</a>. I guess a lot of people 
+are fed up with advertising or rapidly changing terms of service and are willing to 
+pay for good service. And of course you get some peace of mind knowing that the content
+you created will always be available to your audience.</p>
+
+<p>Posthaven is not the first blogging platform charging for their services
+but it's definitely one of the most interesting ones. I was a big fan of Posterous and
+I'm sure I'll keep an eye on Posthaven.</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Moving on to Silex from Legacy PHP]]></title>
+       <link href="http://naakka.net/2013/02/12/moving-on-to-silex-from-legacy-php"/>
+       <updated>2013-02-12T00:00:00+02:00</updated>
+       <id>http://naakka.net/2013/02/12/moving-on-to-silex-from-legacy-php</id>
+       <content type="html"><![CDATA[         
+
+
+
+                          
+          
+	 <blockquote>
+		  <p>
+			   This article will show you how you can take some major steps in elevating your legacy application and making it run another ten years. Let it be not-so-legacy anymore!
+		  </p>
+		
+		  			   <p class="source">
+			     <i class="fa fa-link"></i> Source: <a href="http://php-and-symfony.matthiasnoback.nl/2012/06/let-silex-wrap-your-legacy-php-application-and-add-twig-for-templating/">Matthias Noback</a>
+			   </p>
+		  	 </blockquote>
+	 
+          <p>I just came across this great article by <a href="https://twitter.com/matthiasnoback">Matthias Noback</a>. Read this if you've ever wondered how to move on
+from a legacy PHP project and you cannot rewrite your application at once. Just wrap it with Silex and 
+improve your code bit by bit.</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[The Future of ICT]]></title>
+       <link href="http://naakka.net/2013/01/21/the-future-of-ict"/>
+       <updated>2013-01-21T00:00:00+02:00</updated>
+       <id>http://naakka.net/2013/01/21/the-future-of-ict</id>
+       <content type="html"><![CDATA[         
+
+
+
+                          
+          
+	 <blockquote>
+		  <p>
+			   As a result of the Internet based ICT we have learned how to speak and how to listen; we have learned how to write and how to read. But in the digital world, it is not enough if we know how to use the programs, if we don’t know how to make them.
+		  </p>
+		
+		  			   <p class="source">
+			     <i class="fa fa-link"></i> Source: <a href="http://eskokilpi.blogging.fi/2013/01/19/the-future-of-ict/">Esko Kilpi</a>
+			   </p>
+		  	 </blockquote>
+	 
+          <p>A great post by Esko Kilpi. "Writing code is the number one high leverage activity in a creative, digital society."</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Lenovo Chromebook Announced]]></title>
+       <link href="http://naakka.net/2013/01/17/lenovo-chromebook-announced"/>
+       <updated>2013-01-17T22:30:00+02:00</updated>
+       <id>http://naakka.net/2013/01/17/lenovo-chromebook-announced</id>
+       <content type="html"><![CDATA[         
+  		  	 
+  <div class="cover image">
+		  <a href="http://www.theverge.com/2013/1/17/3886142/lenovo-enters-chromebook-market-with-thinkpad-x131e"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/01/lenovo-thinkpad-x131e-chromebook.jpg" /></a>
+
+		    </div>
+
+
+
+                          
+          
+      <p class="source"><i class="fa fa-link"></i> Source: <a href="http://www.theverge.com/2013/1/17/3886142/lenovo-enters-chromebook-market-with-thinkpad-x131e">The Verge</a></p> 
+    
+          <p>Wow, this is big news from Lenovo and Google. I like the Chrome OS concept and targetting
+these laptops to the educational sector seems like a good idea. iPads in education is
+kind of a hot topic at the moment but I'm sure a laptop has its benefits compared to a tablet. 
+I guess they still do some writing at schools.</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Upgraded Ubuntu, Webapps Rock]]></title>
+       <link href="http://naakka.net/2013/01/17/upgraded-ubuntu"/>
+       <updated>2013-01-17T00:00:00+02:00</updated>
+       <id>http://naakka.net/2013/01/17/upgraded-ubuntu</id>
+       <content type="html"><![CDATA[         
+
+
+
+                      <p class="excerpt">
+              I finally managed to upgrade my laptop to run Ubuntu 12.10 Quantal Quetzal. Upgrade went smoothly and everything is working just the way it should be. And yes, the web apps rock.
+            </p>
+                          
+            <p class="excerpt">
+		  I finally managed to upgrade my laptop to run Ubuntu 12.10 Quantal Quetzal. Upgrade went smoothly and everything is working just the way it should be. And yes, the web apps rock.
+	 </p>
+
+          <h2>Polished UI</h2>
+
+<p>The UI feels a bit more polished compared to 12.04, although, I can't really tell what has changed.</p>
+
+<p>Some of the Compiz desktop effects feel slower when my laptop is connected
+to an external display. But when I'm using only my laptop display 
+the same effects are faster than in 12.04.</p>
+
+<p>In 12.04 all the effects were consistently
+fast both when using only my laptop screen and with an external display attached.
+It's a bit strange and I'll have to look into this later on.</p>
+
+<h2>Webapps Rock!</h2>
+
+<p>The biggest thing for me is the web apps. 
+I haven't had time to try to write my own web app but I think this is very promising.</p>
+
+<p>Integrating web site notifications with the Unity messaging menu is great. The only
+problem, in my opinion, is that you actually have to have the integrated web site open
+either in its own tab or in a separate window.</p>
+
+<p>It would be cool if the integration worked
+even if the site is not currently open. But this is a good start and I can't wait to
+try this out myself!</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Kisai watches]]></title>
+       <link href="http://naakka.net/2013/01/04/kisai-watches"/>
+       <updated>2013-01-04T00:00:00+02:00</updated>
+       <id>http://naakka.net/2013/01/04/kisai-watches</id>
+       <content type="html"><![CDATA[         
+
+  <div class="cover">
+		  <iframe width="560" height="315" src="http://www.youtube.com/embed/ZoMrnjkcqKU" frameborder="0" allowfullscreen></iframe>
+	 </div>
+
+
+                          
+          
+	 <blockquote>
+		  <p>
+			   If you're looking for a watch that simply tells the time, then our watches are probably not for you. We design wearable art, many people don't appreciate art but many people do.
+		  </p>
+		
+		  			   <p class="source">
+			     <i class="fa fa-link"></i> Source: <a href="http://www.tokyoflash.com/en/watches/kisai/">tokyoflash.com</a>
+			   </p>
+		  	 </blockquote>
+	 
+          <p>I really like these Kisai watches. Usability purists probably hate them but I think the
+design is bold and refreshing.</p>
+
+<p>From a usability perspective you should design your application, web site or gadget to
+be so easy to use that users don't need a manual to use it. Just take a look at these Kisai
+watches, these are something totally different.</p>
+
+<p>The designers at Tokyoflash have taken a completely different approach. 
+I think it's amazing that they've been able to completely rethink the design of a traditional 
+wrist watch. And you really need a manual to know how to tell the time.</p>
+
+<p>If this isn't thinking otside the box I don't know what is. I'd like to try to design a web site
+or an app to be as different as these watches.</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Ubuntu for Phones]]></title>
+       <link href="http://naakka.net/2013/01/03/ubuntu-for-phones"/>
+       <updated>2013-01-03T00:00:00+02:00</updated>
+       <id>http://naakka.net/2013/01/03/ubuntu-for-phones</id>
+       <content type="html"><![CDATA[         
+
+  <div class="cover">
+		  <iframe width="640" height="360" src="http://www.youtube.com/embed/cpWHJDLsqTU" frameborder="0" allowfullscreen></iframe>
+	 </div>
+
+
+                          
+          
+          <p>This is a great proposition from Ubuntu. I guess phones already have the processing power to run the full version of Ubuntu
+and the possibility to turn your phone into a full desktop is brilliant.</p>
+
+<p>Having the same OS both on your desktop and phone has advantages. Apple has already added some features from iOS to OSX
+but they're still very different. Google is doing the same with Chrome OS and Chrome browser.
+Ubuntu is taking this one step further by running the exact same OS on both the mobile device and desktop.</p>
+
+<p>I hope this will be a success.</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Ubuntu Web Apps]]></title>
+       <link href="http://naakka.net/2012/12/05/ubuntu-web-apps"/>
+       <updated>2012-12-05T00:00:00+02:00</updated>
+       <id>http://naakka.net/2012/12/05/ubuntu-web-apps</id>
+       <content type="html"><![CDATA[         
+
+  <div class="cover">
+		  <iframe width="560" height="315" src="http://www.youtube.com/embed/AUTNxi6b-hw" frameborder="0" allowfullscreen></iframe>
+	 </div>
+
+
+                          
+          
+          <p>I think <a href="http://developer.ubuntu.com/resources/technologies/webapps/">Ubuntu Web Apps</a> is the 
+coolest feature of the latest <a href="http://releases.ubuntu.com/quantal/">Ubuntu 12.10 (Quantal Quetzal)</a>. 
+I'm still running
+12.04 but this is probably the biggest reason for me to upgrade. I'll try to upgrade during
+the Christmas holidays and try developing an app myself.</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Great Web Color Combinations]]></title>
+       <link href="http://naakka.net/2012/11/19/great-web-color-combinations"/>
+       <updated>2012-11-19T00:00:00+02:00</updated>
+       <id>http://naakka.net/2012/11/19/great-web-color-combinations</id>
+       <content type="html"><![CDATA[         
+
+
+
+                          
+          
+	 <blockquote>
+		  <p>
+			   COLOURlovers is a creative community where people from around the world create and share colors, palettes and patterns, discuss the latest trends and explore colorful articles... All in the spirit of love.
+		  </p>
+		
+		  			   <p class="source">
+			     <i class="fa fa-link"></i> Source: <a href="http://www.colourlovers.com/">COLOURlovers</a>
+			   </p>
+		  	 </blockquote>
+	 
+          <p>A huge collection of great web color combinations. That's where the colors for this site come from.</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Great HTML5 Presentations with reveal.js]]></title>
+       <link href="http://naakka.net/2012/11/18/great-html5-presentations-with-reveal"/>
+       <updated>2012-11-18T00:00:00+02:00</updated>
+       <id>http://naakka.net/2012/11/18/great-html5-presentations-with-reveal</id>
+       <content type="html"><![CDATA[         
+
+  <div class="cover">
+		  <iframe src="http://lab.hakim.se/reveal-js/" class="reveal"></iframe>
+	 </div>
+
+
+                          
+          
+      <p class="source"><i class="fa fa-link"></i> Source: <a href="http://lab.hakim.se/reveal-js/">reveal.js</a></p> 
+    
+          <p>Reveal.js is a brilliant way to create stunning presentations using just
+CSS and HTML5.</p>
+
+<p>Just take a look at the demo, it's pretty impressive! And it works nicely
+with touch screen devices. I'm definitely going to give reveal.js a try
+next time I'm giving a presentation somewhere.</p>
+
+<p>ps. this is the first time I tried to embed a reveal.js presentation in an
+iframe and it seems to work quite nicely, but it 
+<a href="http://lab.hakim.se/reveal-js/">looks a lot better full screen</a>!</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Scaling a Silex Code Base]]></title>
+       <link href="http://naakka.net/2012/11/14/scaling-a-silex-code-base"/>
+       <updated>2012-11-14T00:00:00+02:00</updated>
+       <id>http://naakka.net/2012/11/14/scaling-a-silex-code-base</id>
+       <content type="html"><![CDATA[         
+
+
+
+                          
+          
+	 <blockquote>
+		  <p>
+			   <ul><li>Silex does not prevent you from structuring your code.</li><li>It requires you to make your own architecture decisions.</li><li>Human scale is the only limiting factor.</li></ul>
+		  </p>
+		
+		  			   <p class="source">
+			     <i class="fa fa-link"></i> Source: <a href="https://igor.io/2012/11/09/scaling-silex.html">igorw</a>
+			   </p>
+		  	 </blockquote>
+	 
+          <p>Read this article if you ever wonder which to use, Silex or Symfony2.</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Add to Home Screen]]></title>
+       <link href="http://naakka.net/2012/10/31/add-to-home-screen"/>
+       <updated>2012-10-31T00:00:00+02:00</updated>
+       <id>http://naakka.net/2012/10/31/add-to-home-screen</id>
+       <content type="html"><![CDATA[         
+  		  	 
+  <div class="cover image">
+		  <a href="http://cubiq.org/add-to-home-screen"><img src="http://static.cubiq.org/uploads/2011/01/add2home-screen1.jpg" /></a>
+
+		    </div>
+
+
+
+                          
+          
+      <p class="source"><i class="fa fa-link"></i> Source: <a href="http://cubiq.org/add-to-home-screen">cubiq.org</a></p> 
+    
+          <p>A brilliant script for adding a native feeling "add to home screen" balloon on your web site.</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Remember not to use ID as the first column name of a CSV file]]></title>
+       <link href="http://naakka.net/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file"/>
+       <updated>2012-01-03T00:00:00+02:00</updated>
+       <id>http://naakka.net/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file</id>
+       <content type="html"><![CDATA[         
+
+
+
+                          
+          
+	 <blockquote>
+		  <p>
+			   ID; in the first 3 characters of a file is the signature for a SYLK file. The fourth character can be a P, N or an E which flags certain information about how the rest of the file should be processed.
+		  </p>
+		
+		  			   <p class="source">
+			     <i class="fa fa-link"></i> Source: <a href="http://stackoverflow.com/questions/6032049/openoffice-calc-can-not-read-a-simple-csv-file-why">stackoverflow.com</a>
+			   </p>
+		  	 </blockquote>
+	 
+          <p>Remember not to use ID as the first column name of a CSV file when using semicolons as field delimiters.
+I spent too long debugging a problem with CSV file creation when the problem was the first
+column name.</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Great Elgg Reference from Arck Interactive]]></title>
+       <link href="http://naakka.net/2011/06/20/great-elgg-reference-from-arck-interactive"/>
+       <updated>2011-06-20T00:00:00+03:00</updated>
+       <id>http://naakka.net/2011/06/20/great-elgg-reference-from-arck-interactive</id>
+       <content type="html"><![CDATA[         
+
+
+
+                          
+          
+	 <blockquote>
+		  <p>
+			   It was a wonderful Friday here at Arck Interactive. We were officially approved as a development vendor for the World Bank. Starting next week, we’ll be developing custom social networking functionalty to improve the information architecture of their internal Elgg-based social network.
+		  </p>
+		
+		  			   <p class="source">
+			     <i class="fa fa-link"></i> Source: <a href="http://www.arckinteractive.com/blog/2010/11/12/incredibly-rewarding-friday-arck/">arckinteractive.com</a>
+			   </p>
+		  	 </blockquote>
+	 
+          <p>Everyone always asks what are the biggest or best known organisations using Elgg. 
+World bank is the answer! That's a great reference for Elgg and Arck Interactive. 
+Congrats!</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[How to Build Your Own Social Network with Elgg]]></title>
+       <link href="http://naakka.net/2010/08/17/how-to-build-your-own-social-network-wih-elgg"/>
+       <updated>2010-08-17T00:00:00+03:00</updated>
+       <id>http://naakka.net/2010/08/17/how-to-build-your-own-social-network-wih-elgg</id>
+       <content type="html"><![CDATA[         
+
+  <div class="cover">
+		  <iframe src="http://www.slideshare.net/slideshow/embed_code/4900695?rel=0" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
+	 </div>
+
+
+                          
+          
+      <p class="source"><i class="fa fa-link"></i> Source: <a href="http://www.slideshare.net/naakka">Jaakko Naakka on Slideshare</a></p> 
+    
+          <p>Here's a short presentation about Elgg Framework from a technical perspective. 
+Elgg is probably the best and easiest solution if you want to build your 
+own custom social networking site, whether you're building a private site 
+for your organisation or a public community with thousands of users.</p>
+
+<p>From a developer's point of view Elgg is an excellent framework to work with. 
+It's easy to extend using the effective plugin system and the Elgg API and 
+datamodel make development easy and fast. Personally, I'm a big fan of Elgg 
+and I've been working with it since the 1.0 version was released about two years ago.</p>
+
+<p>Don't hesitate to contact me if you have any questions or want to know more!
+Or head on to the <a href="http://www.elgg.org">Elgg Community</a> for more information.</p>
+         
+     ]]></content>
+    </entry>
       
-
-
-	&lt;p class=&quot;source&quot;&gt;&lt;i class=&quot;icon-link&quot;&gt;&lt;/i&gt; Source: &lt;a href=&quot;http://www.slideshare.net/naakka&quot;&gt;Jaakko Naakka on Slideshare&lt;/a&gt;&lt;/p&gt;	
-
-
-&lt;p&gt;Here&amp;#8217;s a short presentation about Elgg Framework from a technical perspective. Elgg is probably the best and easiest solution if you want to build your own custom social networking site, whether you&amp;#8217;re building a private site for your organisation or a public community with thousands of users.&lt;/p&gt;
-
-&lt;p&gt;From a developer&amp;#8217;s point of view Elgg is an excellent framework to work with. It&amp;#8217;s easy to extend using the effective plugin system and the Elgg API and datamodel make development easy and fast. Personally, I&amp;#8217;m a big fan of Elgg and I&amp;#8217;ve been working with it since the 1.0 version was released about two years ago.&lt;/p&gt;
-
-&lt;p&gt;Don&amp;#8217;t hesitate to contact me if you have any questions or want to know more! Or head on to the &lt;a href='http://www.elgg.org'&gt;Elgg Community&lt;/a&gt; for more information.&lt;/p&gt;
-
-    </content>
-  </entry>
- 
- 
 </feed>

@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PHP Paas Comparison &middot; Naakka.net</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Jaakko Naakka">
+    
+                  
+          <meta name="description" content="Comparing PHP Paas providers.">    
+        
+          <meta name="keywords" content="php, paas, google app engine, pagodabox, fortrabbit, jelastic, appfog">
+        
+    <link rel="shortcut icon" href="http://naakka.net/img/favicon.ico" />
+
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+          
+      <link rel="stylesheet" href="/vendor/reveal.js-2.5.0/css/reveal.min.css">
+  <link rel="stylesheet" href="/vendor/reveal.js-2.5.0/css/theme/default.css" id="theme">
+
+  <!-- For syntax highlighting -->
+  <link rel="stylesheet" href="/vendor/reveal.js-2.5.0/lib/css/zenburn.css">
+      <script src="/vendor/reveal.js-2.5.0/lib/js/head.min.js"></script>
+
+  <!-- If the query includes 'print-pdf', use the PDF print sheet -->
+  <script>
+   document.write( '<link rel="stylesheet" href="/vendor/reveal.js-2.5.0/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+  </script>
+  </head>
+  <body>
+      <div class="reveal">
+    <div class="slides">
+    <p><section>
+  <h2>PHP Paas Comparison</h2>
+  <p></p>
+  
+  <p class="small">Jaakko Naakka</p>
+  
+  <p>
+    <small>24 Nov 2013</small>
+  </p>
+</section>
+</p>
+
+<section>
+  <h2>Comparing different PHP PaaS* providers</h2>
+  
+  <ul>
+    <li>Google App Engine</li>
+    <li>PagodaBox</li>
+    <li>Fort rabbit</li>
+    <li>Jelastic</li>
+    <li>AppFog</li>
+  </ul>
+  
+  <p class="small">
+    <small>* PaaS - Platform as a Service</small>
+  </p>
+</section>
+
+<section>
+  <h2>Things to consider</h2>
+  
+  <ul>
+    <li>Servers physical location</li>
+    <li>Ease of use</li>
+    <li>Features</li>
+    <li>Reliability</li>
+    <li>Customer support</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Google App Engine 1/2</h2>
+  
+  <ul>
+    <li>Pros
+      <ul>
+        <li>Data stored in US or EU</li>
+        <li>Scales easily and pretty much infinitely</li>
+        <li>Very usable Task Queue</li>
+        <li>Easy integration with Google services like user identification</li>
+        <li>Good administration services like logging etc.</li>
+        <li>Some good automatic Google enhancements, caches, DoS protection</li>
+        <li>Memcache possible</li>
+        <li>Automatic scaling within user defined limits</li>
+                    <li>99.95% SLA (once out of preview)</li>
+      </ul>
+    </li>  
+  </ul>
+</section>
+
+<section>
+  <h2>Google App Engine 2/2</h2>
+  
+  <ul>
+    <li>Cons
+      <ul>
+        <li>PHP support still in <em>preview</em></li>
+        <li>No support for CURL, some API's need to be rewritten</li>
+        <li>Files should be saved in database</li>
+        <li>Only data storage option Google Cloud SQL</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+<section>
+  <h2>Pagodabox</h2>
+  
+  <ul>
+    <li>Pros
+      <ul>
+        <li>Great dashboard UI</li>
+        <li>Integrates nicely with Github</li>
+        <li>Memcache and Redis available</li>
+      </ul>
+    </li>
+  
+    <li>Cons
+      <ul>
+        <li>Data stored only in the US</li>
+        <li>Somewhat unreliable</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+<section>
+  <h2>Fortrabbit</h2>
+  
+  <ul>
+    <li>Pros
+      <ul>
+        <li>Uses AWS</li>
+        <li>Data stored in Ireland</li>
+        <li>Berlin based Startup</li>
+        <li>Many unhappy PagodaBox users have migrated to Fort Rabbit</li>
+        <li>99.9% SLA</li>
+      </ul>
+    </li>
+  
+    <li>Cons
+      <ul>
+        <li>Only manual scaling</li>
+        <li>MySQL ony database option</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+<section>
+  <h2>Jelastic</h2>
+  
+  <ul>
+    <li>Pros
+      <ul>
+        <li>Uses local web hosting providers, servers also in Helsinki hosted by Planeetta</li>
+        <li>Easy, automatic scaling</li>
+        <li>Both Apache and nginx available</li>
+        <li>Many DB options: MySQL, MariaDB, PostgreSQL, MongoDB or CouchDB</li>
+        <li>24/7 phone support available for 40€/month (price at Planeetta)</li>
+        <li>High profile advisors: Monty Widenius, Rasmus Lehrdorf, Igor Sysoev...</li>
+      </ul>
+    </li>
+  
+    <li>Cons
+      <ul>
+        <li>Does it scale geographically?</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+<section>
+  <h2>AppFog</h2>
+  
+  <ul>
+    <li>Pros
+      <ul>
+        <li>Uses AWS infrastructure, EU available</li>
+        <li>Lots of optional add-ons</li>
+        <li>MySQL, MongoDB, Redis, Memcahced...</li>
+      </ul>
+    </li>
+  
+    <li>Cons
+      <ul>
+        <li>No file storage, save files in DB</li>
+        
+      </ul>
+    </li>
+  </ul>
+  
+</section>
+    </div>
+  </div>
+      <script src="/vendor/reveal.js-2.5.0/js/reveal.min.js"></script>
+  <script>
+
+   // Full list of configuration options available here:
+   // https://github.com/hakimel/reveal.js#configuration
+   Reveal.initialize({
+    controls : true,
+    progress : true,
+    history  : true,
+    center   : true,
+
+    theme      : 'default', 
+    transition : Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+    // Optional libraries used to extend on reveal.js
+    dependencies: [
+     { src: '/vendor/reveal.js-2.5.0/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+     { src: '/vendor/reveal.js-2.5.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+     { src: '/vendor/reveal.js-2.5.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+     { src: '/vendor/reveal.js-2.5.0/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+     { src: '/vendor/reveal.js-2.5.0/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+     { src: '/vendor/reveal.js-2.5.0/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+    ]
+   });
+
+  </script>
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17540740-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
+  </body>
+</html>
