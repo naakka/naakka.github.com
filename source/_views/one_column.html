@@ -12,29 +12,14 @@
 {% endblock %}
 
 {% block body %}
-<div id="column-layout">
-  <div id="column-right">
-    <div id="sidebar">
-      <div class="blog-info">
-        <img src="{{ site.url }}/img/jaakko_naakka.jpg" class="avatar" />
-        <h3>{{ site.author.name }}</h3>
-        <p class="description">{{ site.description | raw }}</p>
-        {% include 'fragments/some-links' %} 
-      </div>
-    </div>
-  </div>
-
-  <div id="column-left">
-    <div class="pure-g-r content-wrapper">
-      <div id="content" class="pure-u">
-        <h1 class="main"><a href="{{ site.url }}">{{ site.title }}</a>{% block subtitle %}{% endblock %}</h1>
-        {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
-      </div>    
-    </div>  
-  </div>
-</div>
+<div class="pure-g-r content-wrapper">
+  <div id="content" class="pure-u">
+    <h1 class="main"><a href="{{ site.url }}">{{ site.title }}</a>{% block subtitle %}{% endblock %}</h1>
+    {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
+  </div>    
+</div>  
   
-<div id="footer-bar" class="blog-info">
+<div id="footer-bar" class="blog-info one-column">
   <div class="content-wrapper">
     <img src="{{ site.url }}/img/jaakko_naakka.jpg" class="avatar" />
     {% include 'fragments/some-links' %} 
