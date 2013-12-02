@@ -1,0 +1,9 @@
+---
+layout: list
+title: Posts tagged
+generator: [posts_tag_index, pagination]
+pagination:
+    provider: page.tagged_posts
+---
+{% block title %}{{ page.title }} with {{ page.tag }}{% endblock %}
+{% block subtitle %} - Posts tagged with <em>{{ page.tag }}</em>{% endblock %}

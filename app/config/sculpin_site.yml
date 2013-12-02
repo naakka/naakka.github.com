@@ -1,0 +1,19 @@
+# The contents of this file are parsed and made available as
+# via `site.*`. So for example, {{ site.title }} can be used
+# in a template to get the contents of the `title` key.
+
+title: Naakka.net
+url: http://localhost:8000
+description: A user centered web developer. Head of Development at <a href="http://intunex.fi">Intunex</a>.
+author:
+  name: Jaakko Naakka
+  twitter: naakka
+  email: jaakko@naakka.net
+  linkedin: http://www.linkedin.com/in/naakka
+  google_plus: https://plus.google.com/u/0/117445873455722224345
+  tumblr: http://jaakko.naakka.net
+  github: http://github.com/naakka/
+  
+rss:
+  title: Blog by Jaakko Naakka
+  url: http://feeds.feedburner.com/naakka

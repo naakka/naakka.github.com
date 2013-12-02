@@ -1,0 +1,19 @@
+{% if data.type == 'text' %}
+		{% set icon = 'reorder' %}
+{% elseif data.type == 'presentation' or data.type == 'reveal' %}
+		{% set icon = 'bullhorn' %}
+{% elseif data.type == 'photo' %}
+		{% set icon = 'camera-retro' %}
+{% elseif data.type == 'link' %}
+		{% set icon = 'link' %}
+{% elseif data.type == 'message' %}
+		{% set icon = 'comment' %}
+{% elseif data.type == 'video' %}
+  {% set icon = 'film' %}
+{% else %}
+  {% set icon = 'comment' %}
+{% endif %}
+
+<div class="icon">
+  <i class="fa fa-{{ icon }}"></i>
+</div>

@@ -1,0 +1,10 @@
+
+<div class="post-meta">
+  {% if tags %}
+	   <div class="tags">
+		    {% for tag in tags %} 
+		      <a href="{{ site.url }}/tag/{{ tag|url_encode(true) }}">#{{ tag }}</a>
+		    {% endfor %}
+	   </div>
+	 {% endif %}
+</div>

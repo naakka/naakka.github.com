@@ -1,0 +1,28 @@
+{% extends "default" %}
+{% block content_wrapper %}
+    {% set data = page %}
+
+    <article class="{{ data.type }}">
+        <header>
+            {% include "post/icon" %}
+            <h2>{{ page.title }}</h2>
+            <div class="date"><a href="{{ site.url }}{{ page.url }}">{{ page.date | date('j M Y') }}</a></div>
+        </header>
+        <div class="content">
+          {% include "post/cover" %}
+
+          {% if page.excerpt %}
+            <p class="excerpt">
+              {{ page.excerpt }}
+            </p>
+          {% endif %}
+                
+          {% include "post/meta_content" %}
+          {{ page.blocks.content | raw }}
+        </div>
+        
+        {% set tags = page.tags %}        
+        {% include 'post/tags' %}
+        
+    </article>
+{% endblock %}

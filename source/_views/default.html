@@ -1,0 +1,67 @@
+{% extends 'base' %}
+
+{% block head %}
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="{{ site.rss.url }}" rel="alternate" title="{{ site.rss.title }}" type="application/atom+xml" />
+{% endblock %}
+
+{% block css %}
+  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.3.0/pure-min.css">
+  <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+  <link href="/css/main.css" rel="stylesheet">
+{% endblock %}
+
+{% block body %}
+<div id="column-layout">
+  <div id="column-right">
+    <div id="sidebar">
+      <div class="blog-info">
+        <img src="{{ site.url }}/img/jaakko_naakka.jpg" class="avatar" />
+        <h3>{{ site.author.name }}</h3>
+        <p class="description">{{ site.description | raw }}</p>
+        {% include 'fragments/some-links' %} 
+      </div>
+    </div>
+  </div>
+
+  <div id="column-left">
+    <div class="pure-g-r content-wrapper">
+      <div id="content" class="pure-u">
+        <h1 class="main"><a href="{{ site.url }}">{{ site.title }}</a>{% block subtitle %}{% endblock %}</h1>
+        {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
+      </div>    
+    </div>  
+  </div>
+</div>
+  
+<div id="footer-bar" class="blog-info">
+  <div class="content-wrapper">
+    <img src="{{ site.url }}/img/jaakko_naakka.jpg" class="avatar" />
+    {% include 'fragments/some-links' %} 
+    <h3>{{ site.author.name }}</h3>
+    <p class="description">{{ site.description | raw }}</p>  
+  </div>
+</div>
+
+<div id="footer">
+  &copy; {{ site.author.name }} 2010 - {{ "now" | date("Y") }}
+</div>
+{% endblock %}
+
+
+{% block js_footer %}
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Josefin+Sans:400,700,700italic:latin', 'Open+Sans:400italic,700italic,400,700:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); 
+</script>
+{% endblock %}

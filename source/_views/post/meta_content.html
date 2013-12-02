@@ -1,0 +1,26 @@
+{% if data.excerpt %}
+  <p class="excerpt">
+		  {{ data.excerpt }}
+	 </p>
+{% endif %}
+
+{% if data.quote %}
+	 <blockquote>
+		  <p>
+			   {{ data.quote | raw}}
+		  </p>
+		
+		  {% if data.link %}
+			   <p class="source">
+			     <i class="fa fa-link"></i> Source: <a href="{{ data.link}}">{{ data.source }}</a>
+			   </p>
+		  {% endif %}
+	 </blockquote>
+	 
+{% elseif data.link %}
+  {% if data.type == 'reveal' %}
+    <p class="source"><a href="{{ data.link}}"><i class="fa fa-fullscreen"></i> View fullscreen</a></p>
+  {% else %}
+    <p class="source"><i class="fa fa-link"></i> Source: <a href="{{ data.link}}">{{ data.source }}</a></p> 
+  {% endif %}  
+{% endif %}

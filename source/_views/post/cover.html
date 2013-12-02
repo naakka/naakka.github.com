@@ -1,0 +1,28 @@
+
+{% if data.image %}
+  {% if data.link %}
+		  {% set image_link = data.link %}
+	 {% endif %}
+
+  <div class="cover image">
+		  <a href="{{ image_link }}"><img src="{{ data.image }}" /></a>
+
+		  {% if data.caption %}
+			   <p class="caption">
+				    {{ data.caption }}
+			   </p>
+		  {% endif %}
+  </div>
+{% endif %}
+
+{% if data.embed %}
+  <div class="cover">
+		  {{ data.embed | raw }}
+	 </div>
+{% endif%}
+
+{% if data.type == 'reveal' and data.link %}
+  <div class="cover">
+		  <iframe src="{{ data.link }}" class="reveal"></iframe>
+  </div>
+{% endif%}
