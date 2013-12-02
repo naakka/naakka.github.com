@@ -186,12 +186,15 @@ h1.main {
 	margin-top: 3em;
 }
 
-article {
+article, section {
 	margin: 0em 0 3em 0;
-	max-width: 31em;
 	border: solid 1px #ededed;
 	padding: 1em 1em 0.5em 1em;
 	background: white;
+}
+
+article {
+  max-width: 31em;
 }
 
 article .html_photoset {
@@ -284,7 +287,7 @@ blockquote {
 	.content-wrapper {
 		max-width: 37em;
 	}
-	article {
+	article, section {
 		margin: 0em 0 4em 0;
 		padding: 3em 3em 2em 3em;
 		min-width: 31em;
@@ -318,6 +321,11 @@ blockquote {
 	#footer-bar {
 		display: none;
 	}
+	
+	#footer-bar.one-column {
+	  display: block;
+	}
+	
 	#sidebar {
 		display: inline-block;
 		margin: 0em 0em 2.5em 0em;
