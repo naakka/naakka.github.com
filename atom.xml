@@ -5,7 +5,7 @@
   <link href="http://feeds.feedburner.com/naakka" rel="self"/>
   <link href="http://naakka.net"/>
   
-  <updated>2013-12-03</updated>
+  <updated>2013-12-13</updated>
   <id>http://naakka.net</id>
   <author>
       <name>Jaakko Naakka</name>
@@ -13,6 +13,31 @@
   </author>
   
            
+       
+     
+     <entry>
+       <title type="html"><![CDATA[PHP Paas Comparison]]></title>
+       <link href="http://naakka.net/2013/12/13/php-paas-comparison"/>
+       <updated>2013-12-13T00:00:00+02:00</updated>
+       <id>http://naakka.net/2013/12/13/php-paas-comparison</id>
+       <content type="html"><![CDATA[         
+
+
+  <div class="cover">
+		  <iframe src="http://localhost:8000/slides/php-paas-comparison/" class="reveal"></iframe>
+  </div>
+
+                          
+          
+      <p class="source"><a href="http://localhost:8000/slides/php-paas-comparison/"><i class="fa fa-fullscreen"></i> View fullscreen</a></p>
+    
+          <p>I put together a small comparison of PHP PaaS providers. I made this for
+work and it's no way complete. This was more of a discussion opener at
+our company and it's made from our Finnish point of view.</p>
+         
+     ]]></content>
+    </entry>
+          
        
      
      <entry>
