@@ -1,7 +1,7 @@
 ---
 title: PHP Paas Comparison
 type: reveal
-link: http://localhost:8000/slides/php-paas-comparison/
+link: http://naakka.net/slides/php-paas-comparison/
 source: PHP Paas Comparison
 tags: [php, paas]
 ---
