@@ -3,10 +3,10 @@
   <title>Blog by Jaakko Naakka</title>  
   
   <link href="http://feeds.feedburner.com/naakka" rel="self"/>
-  <link href="http://naakka.net"/>
+  <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com"/>
   
-  <updated>2013-12-13</updated>
-  <id>http://naakka.net</id>
+  <updated>2014-11-16</updated>
+  <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com</id>
   <author>
       <name>Jaakko Naakka</name>
       <email>jaakko@naakka.net</email>
@@ -16,20 +16,96 @@
        
      
      <entry>
-       <title type="html"><![CDATA[PHP Paas Comparison]]></title>
-       <link href="http://naakka.net/2013/12/13/php-paas-comparison"/>
-       <updated>2013-12-13T00:00:00+02:00</updated>
-       <id>http://naakka.net/2013/12/13/php-paas-comparison</id>
+       <title type="html"><![CDATA[Extending Sculpin with Console Commands]]></title>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2014/11/12/extending-sculpin-with-console-commands"/>
+       <updated>2014-11-12T00:00:00+02:00</updated>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2014/11/12/extending-sculpin-with-console-commands</id>
        <content type="html"><![CDATA[         
 
 
-  <div class="cover">
-		  <iframe src="http://naakka.net/slides/php-paas-comparison/" class="reveal"></iframe>
-  </div>
 
                           
           
-      <p class="source"><a href="http://naakka.net/slides/php-paas-comparison/"><i class="fa fa-fullscreen"></i> View fullscreen</a></p>
+
+      <i class="fa fa-link"></i> Source: <a href="http://mavimo.org/2014/01/04/how-to-create-a-new-console-command-in-sculpin.html">How to create a new console command in sculpin</a></p> 
+    
+          <p>I came across a good 
+<a href="http://mavimo.org/2014/01/04/how-to-create-a-new-console-command-in-sculpin.html">blog post</a>
+by <a href="http://twitter.com/mavimo">@mavimo</a> that explains how to add console commands to Sculpin.</p>
+
+<p><a href="http://sculpin.io">Sculpin</a> is a static html generator written in PHP. It's built on
+Symfony components and that makes it easily extendible.</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Material UI]]></title>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2014/11/11/material-ui"/>
+       <updated>2014-11-11T00:00:00+02:00</updated>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2014/11/11/material-ui</id>
+       <content type="html"><![CDATA[         
+
+
+
+                          
+          
+
+    <blockquote>
+        <p>A CSS Framework and a Set of React Components that Implement Google's Material Design</p>
+		
+		            <p class="source">
+                <i class="fa fa-link"></i> Source: <a href="http://material-ui.com/">Material UI</a>
+            </p>
+            </blockquote>
+	 
+          <p>Some of my favourite tools come together.</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[End of the Vespa Season]]></title>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2014/11/01/end-of-vespa-season"/>
+       <updated>2014-11-01T00:00:00+02:00</updated>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2014/11/01/end-of-vespa-season</id>
+       <content type="html"><![CDATA[         
+                    <section class="cover">
+        <a href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2014/11/01/end-of-vespa-season"><img src="https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/833483/optimized.jpg" class="pure-img" /></a>
+    </section>
+
+
+
+                          
+          
+
+          <p>I guess the Vespa season is coming to an end.</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
+       <title type="html"><![CDATA[PHP Paas Comparison]]></title>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/12/13/php-paas-comparison"/>
+       <updated>2013-12-13T00:00:00+02:00</updated>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/12/13/php-paas-comparison</id>
+       <content type="html"><![CDATA[         
+
+
+    <section class="cover">
+        <iframe src="http://naakka.net/slides/php-paas-comparison/" class="reveal" frameborder="0"></iframe>
+    </section>
+
+                          
+          
+
+      <p class="source"><i class="fa fa-arrows-alt"></i> <a href="http://naakka.net/slides/php-paas-comparison/">View fullscreen</a></p>
     
           <p>I put together a small comparison of PHP PaaS providers. I made this for
 work and it's no way complete. This was more of a discussion opener at
@@ -42,24 +118,23 @@ our company and it's made from our Finnish point of view.</p>
      
      <entry>
        <title type="html"><![CDATA[Beyond Clean Code]]></title>
-       <link href="http://naakka.net/2013/11/26/beyond-clean-code"/>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/11/26/beyond-clean-code"/>
        <updated>2013-11-26T00:00:00+02:00</updated>
-       <id>http://naakka.net/2013/11/26/beyond-clean-code</id>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/11/26/beyond-clean-code</id>
        <content type="html"><![CDATA[         
 
 
 
                           
           
-	 <blockquote>
-		  <p>
-			   If code delivers good business value, then it’s good code. That doesn’t mean we can’t improve it. It just means that it is doing what it needs to!
-		  </p>
+
+    <blockquote>
+        <p>If code delivers good business value, then it’s good code. That doesn’t mean we can’t improve it. It just means that it is doing what it needs to!</p>
 		
-		  			   <p class="source">
-			     <i class="fa fa-link"></i> Source: <a href="http://blog.ircmaxell.com/2013/11/beyond-clean-code.html">ircmaxell’s blog</a>
-			   </p>
-		  	 </blockquote>
+		            <p class="source">
+                <i class="fa fa-link"></i> Source: <a href="http://blog.ircmaxell.com/2013/11/beyond-clean-code.html">ircmaxell’s blog</a>
+            </p>
+            </blockquote>
 	 
           <p>I really like what <a href="https://twitter.com/ircmaxell">Anthony Ferrara</a> said. Sometimes it’s easy to get lost in the 
 debate how to structure your code or which programming pattern to use. 
@@ -72,18 +147,19 @@ But at the end of the day, it’s business value that matters.</p>
      
      <entry>
        <title type="html"><![CDATA[PayPal Moving to node.js]]></title>
-       <link href="http://naakka.net/2013/11/08/paypal-nodejs"/>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/11/08/paypal-nodejs"/>
        <updated>2013-11-08T00:00:00+02:00</updated>
-       <id>http://naakka.net/2013/11/08/paypal-nodejs</id>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/11/08/paypal-nodejs</id>
        <content type="html"><![CDATA[         
 
-  <div class="cover">
-		  <iframe width="640" height="360" src="//www.youtube.com/embed/tZWGb0HU2QM" frameborder="0" allowfullscreen></iframe>
-	 </div>
+    <section class="cover">
+        <iframe width="640" height="360" src="//www.youtube.com/embed/tZWGb0HU2QM" frameborder="0" allowfullscreen></iframe>
+    </section>
 
 
                           
           
+
           <p>Wow, this is big news for node.js.</p>
          
      ]]></content>
@@ -93,29 +169,26 @@ But at the end of the day, it’s business value that matters.</p>
      
      <entry>
        <title type="html"><![CDATA[Global Internet Penetration and Ongoing Conflicts Around the World]]></title>
-       <link href="http://naakka.net/2013/04/04/internet-penetration-and-conflicts"/>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/04/04/internet-penetration-and-conflicts"/>
        <updated>2013-04-04T00:00:00+03:00</updated>
-       <id>http://naakka.net/2013/04/04/internet-penetration-and-conflicts</id>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/04/04/internet-penetration-and-conflicts</id>
        <content type="html"><![CDATA[         
-  		  	 
-  <div class="cover image">
-		  <a href="http://sefsar.com/global-internet-penetration-and-ongoing-conflicts-around-the-world"><img src="http://i.imgur.com/2gELQ9x.gif" /></a>
-
-		    </div>
+                    <section class="cover">
+        <a href="http://naakka.net.s3-website.eu-central-1.amazonaws.comhttp://sefsar.com/global-internet-penetration-and-ongoing-conflicts-around-the-world"><img src="http://i.imgur.com/2gELQ9x.gif" class="pure-img" /></a>
+    </section>
 
 
 
                           
           
-	 <blockquote>
-		  <p>
-			   Clear communication is the most important factor of conflict resolution, no matter how grand or small the problem. The Internet, and perhaps more accurately The Web, is the most powerful mode of communication on Earth. Without it, your worldview is shackled by ignorance, and in our age, there is no room for ignorance.
-		  </p>
+
+    <blockquote>
+        <p>Clear communication is the most important factor of conflict resolution, no matter how grand or small the problem. The Internet, and perhaps more accurately The Web, is the most powerful mode of communication on Earth. Without it, your worldview is shackled by ignorance, and in our age, there is no room for ignorance.</p>
 		
-		  			   <p class="source">
-			     <i class="fa fa-link"></i> Source: <a href="http://sefsar.com/global-internet-penetration-and-ongoing-conflicts-around-the-world">Youssef Sarhan</a>
-			   </p>
-		  	 </blockquote>
+		            <p class="source">
+                <i class="fa fa-link"></i> Source: <a href="http://sefsar.com/global-internet-penetration-and-ongoing-conflicts-around-the-world">Youssef Sarhan</a>
+            </p>
+            </blockquote>
 	 
                    
      ]]></content>
@@ -125,15 +198,16 @@ But at the end of the day, it’s business value that matters.</p>
      
      <entry>
        <title type="html"><![CDATA[Posterous Shuts Down, Here Comes Posthaven]]></title>
-       <link href="http://naakka.net/2013/02/16/posterous-shuts-down-here-comes-posthaven"/>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/02/16/posterous-shuts-down-here-comes-posthaven"/>
        <updated>2013-02-16T00:00:00+02:00</updated>
-       <id>http://naakka.net/2013/02/16/posterous-shuts-down-here-comes-posthaven</id>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/02/16/posterous-shuts-down-here-comes-posthaven</id>
        <content type="html"><![CDATA[         
 
 
 
                           
           
+
           <p>Posterous has just <a href="http://www.engadget.com/2013/02/15/posterous-closing-on-april-30th-to-focus-on-twitter/">announced</a> 
 that it will be closed down on 30th of April 2013. This is not a surprise since it 
 was acquired by Twitter in 2012.</p>
@@ -173,24 +247,23 @@ I'm sure I'll keep an eye on Posthaven.</p>
      
      <entry>
        <title type="html"><![CDATA[Moving on to Silex from Legacy PHP]]></title>
-       <link href="http://naakka.net/2013/02/12/moving-on-to-silex-from-legacy-php"/>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/02/12/moving-on-to-silex-from-legacy-php"/>
        <updated>2013-02-12T00:00:00+02:00</updated>
-       <id>http://naakka.net/2013/02/12/moving-on-to-silex-from-legacy-php</id>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/02/12/moving-on-to-silex-from-legacy-php</id>
        <content type="html"><![CDATA[         
 
 
 
                           
           
-	 <blockquote>
-		  <p>
-			   This article will show you how you can take some major steps in elevating your legacy application and making it run another ten years. Let it be not-so-legacy anymore!
-		  </p>
+
+    <blockquote>
+        <p>This article will show you how you can take some major steps in elevating your legacy application and making it run another ten years. Let it be not-so-legacy anymore!</p>
 		
-		  			   <p class="source">
-			     <i class="fa fa-link"></i> Source: <a href="http://php-and-symfony.matthiasnoback.nl/2012/06/let-silex-wrap-your-legacy-php-application-and-add-twig-for-templating/">Matthias Noback</a>
-			   </p>
-		  	 </blockquote>
+		            <p class="source">
+                <i class="fa fa-link"></i> Source: <a href="http://php-and-symfony.matthiasnoback.nl/2012/06/let-silex-wrap-your-legacy-php-application-and-add-twig-for-templating/">Matthias Noback</a>
+            </p>
+            </blockquote>
 	 
           <p>I just came across this great article by <a href="https://twitter.com/matthiasnoback">Matthias Noback</a>. Read this if you've ever wondered how to move on
 from a legacy PHP project and you cannot rewrite your application at once. Just wrap it with Silex and 
@@ -203,24 +276,23 @@ improve your code bit by bit.</p>
      
      <entry>
        <title type="html"><![CDATA[The Future of ICT]]></title>
-       <link href="http://naakka.net/2013/01/21/the-future-of-ict"/>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/01/21/the-future-of-ict"/>
        <updated>2013-01-21T00:00:00+02:00</updated>
-       <id>http://naakka.net/2013/01/21/the-future-of-ict</id>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/01/21/the-future-of-ict</id>
        <content type="html"><![CDATA[         
 
 
 
                           
           
-	 <blockquote>
-		  <p>
-			   As a result of the Internet based ICT we have learned how to speak and how to listen; we have learned how to write and how to read. But in the digital world, it is not enough if we know how to use the programs, if we don’t know how to make them.
-		  </p>
+
+    <blockquote>
+        <p>As a result of the Internet based ICT we have learned how to speak and how to listen; we have learned how to write and how to read. But in the digital world, it is not enough if we know how to use the programs, if we don’t know how to make them.</p>
 		
-		  			   <p class="source">
-			     <i class="fa fa-link"></i> Source: <a href="http://eskokilpi.blogging.fi/2013/01/19/the-future-of-ict/">Esko Kilpi</a>
-			   </p>
-		  	 </blockquote>
+		            <p class="source">
+                <i class="fa fa-link"></i> Source: <a href="http://eskokilpi.blogging.fi/2013/01/19/the-future-of-ict/">Esko Kilpi</a>
+            </p>
+            </blockquote>
 	 
           <p>A great post by Esko Kilpi. "Writing code is the number one high leverage activity in a creative, digital society."</p>
          
@@ -231,21 +303,20 @@ improve your code bit by bit.</p>
      
      <entry>
        <title type="html"><![CDATA[Lenovo Chromebook Announced]]></title>
-       <link href="http://naakka.net/2013/01/17/lenovo-chromebook-announced"/>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/01/17/lenovo-chromebook-announced"/>
        <updated>2013-01-17T22:30:00+02:00</updated>
-       <id>http://naakka.net/2013/01/17/lenovo-chromebook-announced</id>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/01/17/lenovo-chromebook-announced</id>
        <content type="html"><![CDATA[         
-  		  	 
-  <div class="cover image">
-		  <a href="http://www.theverge.com/2013/1/17/3886142/lenovo-enters-chromebook-market-with-thinkpad-x131e"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/01/lenovo-thinkpad-x131e-chromebook.jpg" /></a>
-
-		    </div>
+                    <section class="cover">
+        <a href="http://naakka.net.s3-website.eu-central-1.amazonaws.comhttp://www.theverge.com/2013/1/17/3886142/lenovo-enters-chromebook-market-with-thinkpad-x131e"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/01/lenovo-thinkpad-x131e-chromebook.jpg" class="pure-img" /></a>
+    </section>
 
 
 
                           
           
-      <p class="source"><i class="fa fa-link"></i> Source: <a href="http://www.theverge.com/2013/1/17/3886142/lenovo-enters-chromebook-market-with-thinkpad-x131e">The Verge</a></p> 
+
+      <i class="fa fa-link"></i> Source: <a href="http://www.theverge.com/2013/1/17/3886142/lenovo-enters-chromebook-market-with-thinkpad-x131e">The Verge</a></p> 
     
           <p>Wow, this is big news from Lenovo and Google. I like the Chrome OS concept and targetting
 these laptops to the educational sector seems like a good idea. iPads in education is
@@ -259,9 +330,9 @@ I guess they still do some writing at schools.</p>
      
      <entry>
        <title type="html"><![CDATA[Upgraded Ubuntu, Webapps Rock]]></title>
-       <link href="http://naakka.net/2013/01/17/upgraded-ubuntu"/>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/01/17/upgraded-ubuntu"/>
        <updated>2013-01-17T00:00:00+02:00</updated>
-       <id>http://naakka.net/2013/01/17/upgraded-ubuntu</id>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/01/17/upgraded-ubuntu</id>
        <content type="html"><![CDATA[         
 
 
@@ -270,9 +341,10 @@ I guess they still do some writing at schools.</p>
               I finally managed to upgrade my laptop to run Ubuntu 12.10 Quantal Quetzal. Upgrade went smoothly and everything is working just the way it should be. And yes, the web apps rock.
             </p>
                           
-            <p class="excerpt">
-		  I finally managed to upgrade my laptop to run Ubuntu 12.10 Quantal Quetzal. Upgrade went smoothly and everything is working just the way it should be. And yes, the web apps rock.
-	 </p>
+          
+    <p class="excerpt">
+        I finally managed to upgrade my laptop to run Ubuntu 12.10 Quantal Quetzal. Upgrade went smoothly and everything is working just the way it should be. And yes, the web apps rock.
+    </p>
 
           <h2>Polished UI</h2>
 
@@ -306,27 +378,26 @@ try this out myself!</p>
      
      <entry>
        <title type="html"><![CDATA[Kisai watches]]></title>
-       <link href="http://naakka.net/2013/01/04/kisai-watches"/>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/01/04/kisai-watches"/>
        <updated>2013-01-04T00:00:00+02:00</updated>
-       <id>http://naakka.net/2013/01/04/kisai-watches</id>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/01/04/kisai-watches</id>
        <content type="html"><![CDATA[         
 
-  <div class="cover">
-		  <iframe width="560" height="315" src="http://www.youtube.com/embed/ZoMrnjkcqKU" frameborder="0" allowfullscreen></iframe>
-	 </div>
+    <section class="cover">
+        <iframe width="560" height="315" src="http://www.youtube.com/embed/ZoMrnjkcqKU" frameborder="0" allowfullscreen></iframe>
+    </section>
 
 
                           
           
-	 <blockquote>
-		  <p>
-			   If you're looking for a watch that simply tells the time, then our watches are probably not for you. We design wearable art, many people don't appreciate art but many people do.
-		  </p>
+
+    <blockquote>
+        <p>If you're looking for a watch that simply tells the time, then our watches are probably not for you. We design wearable art, many people don't appreciate art but many people do.</p>
 		
-		  			   <p class="source">
-			     <i class="fa fa-link"></i> Source: <a href="http://www.tokyoflash.com/en/watches/kisai/">tokyoflash.com</a>
-			   </p>
-		  	 </blockquote>
+		            <p class="source">
+                <i class="fa fa-link"></i> Source: <a href="http://www.tokyoflash.com/en/watches/kisai/">tokyoflash.com</a>
+            </p>
+            </blockquote>
 	 
           <p>I really like these Kisai watches. Usability purists probably hate them but I think the
 design is bold and refreshing.</p>
@@ -349,18 +420,19 @@ or an app to be as different as these watches.</p>
      
      <entry>
        <title type="html"><![CDATA[Ubuntu for Phones]]></title>
-       <link href="http://naakka.net/2013/01/03/ubuntu-for-phones"/>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/01/03/ubuntu-for-phones"/>
        <updated>2013-01-03T00:00:00+02:00</updated>
-       <id>http://naakka.net/2013/01/03/ubuntu-for-phones</id>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2013/01/03/ubuntu-for-phones</id>
        <content type="html"><![CDATA[         
 
-  <div class="cover">
-		  <iframe width="640" height="360" src="http://www.youtube.com/embed/cpWHJDLsqTU" frameborder="0" allowfullscreen></iframe>
-	 </div>
+    <section class="cover">
+        <iframe width="640" height="360" src="http://www.youtube.com/embed/cpWHJDLsqTU" frameborder="0" allowfullscreen></iframe>
+    </section>
 
 
                           
           
+
           <p>This is a great proposition from Ubuntu. I guess phones already have the processing power to run the full version of Ubuntu
 and the possibility to turn your phone into a full desktop is brilliant.</p>
 
@@ -377,18 +449,19 @@ Ubuntu is taking this one step further by running the exact same OS on both the 
      
      <entry>
        <title type="html"><![CDATA[Ubuntu Web Apps]]></title>
-       <link href="http://naakka.net/2012/12/05/ubuntu-web-apps"/>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2012/12/05/ubuntu-web-apps"/>
        <updated>2012-12-05T00:00:00+02:00</updated>
-       <id>http://naakka.net/2012/12/05/ubuntu-web-apps</id>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2012/12/05/ubuntu-web-apps</id>
        <content type="html"><![CDATA[         
 
-  <div class="cover">
-		  <iframe width="560" height="315" src="http://www.youtube.com/embed/AUTNxi6b-hw" frameborder="0" allowfullscreen></iframe>
-	 </div>
+    <section class="cover">
+        <iframe width="560" height="315" src="http://www.youtube.com/embed/AUTNxi6b-hw" frameborder="0" allowfullscreen></iframe>
+    </section>
 
 
                           
           
+
           <p>I think <a href="http://developer.ubuntu.com/resources/technologies/webapps/">Ubuntu Web Apps</a> is the 
 coolest feature of the latest <a href="http://releases.ubuntu.com/quantal/">Ubuntu 12.10 (Quantal Quetzal)</a>. 
 I'm still running
@@ -402,24 +475,23 @@ the Christmas holidays and try developing an app myself.</p>
      
      <entry>
        <title type="html"><![CDATA[Great Web Color Combinations]]></title>
-       <link href="http://naakka.net/2012/11/19/great-web-color-combinations"/>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2012/11/19/great-web-color-combinations"/>
        <updated>2012-11-19T00:00:00+02:00</updated>
-       <id>http://naakka.net/2012/11/19/great-web-color-combinations</id>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2012/11/19/great-web-color-combinations</id>
        <content type="html"><![CDATA[         
 
 
 
                           
           
-	 <blockquote>
-		  <p>
-			   COLOURlovers is a creative community where people from around the world create and share colors, palettes and patterns, discuss the latest trends and explore colorful articles... All in the spirit of love.
-		  </p>
+
+    <blockquote>
+        <p>COLOURlovers is a creative community where people from around the world create and share colors, palettes and patterns, discuss the latest trends and explore colorful articles... All in the spirit of love.</p>
 		
-		  			   <p class="source">
-			     <i class="fa fa-link"></i> Source: <a href="http://www.colourlovers.com/">COLOURlovers</a>
-			   </p>
-		  	 </blockquote>
+		            <p class="source">
+                <i class="fa fa-link"></i> Source: <a href="http://www.colourlovers.com/">COLOURlovers</a>
+            </p>
+            </blockquote>
 	 
           <p>A huge collection of great web color combinations. That's where the colors for this site come from.</p>
          
@@ -430,19 +502,20 @@ the Christmas holidays and try developing an app myself.</p>
      
      <entry>
        <title type="html"><![CDATA[Great HTML5 Presentations with reveal.js]]></title>
-       <link href="http://naakka.net/2012/11/18/great-html5-presentations-with-reveal"/>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2012/11/18/great-html5-presentations-with-reveal"/>
        <updated>2012-11-18T00:00:00+02:00</updated>
-       <id>http://naakka.net/2012/11/18/great-html5-presentations-with-reveal</id>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2012/11/18/great-html5-presentations-with-reveal</id>
        <content type="html"><![CDATA[         
 
-  <div class="cover">
-		  <iframe src="http://lab.hakim.se/reveal-js/" class="reveal"></iframe>
-	 </div>
+    <section class="cover">
+        <iframe src="http://lab.hakim.se/reveal-js/" class="reveal"></iframe>
+    </section>
 
 
                           
           
-      <p class="source"><i class="fa fa-link"></i> Source: <a href="http://lab.hakim.se/reveal-js/">reveal.js</a></p> 
+
+      <i class="fa fa-link"></i> Source: <a href="http://lab.hakim.se/reveal-js/">reveal.js</a></p> 
     
           <p>Reveal.js is a brilliant way to create stunning presentations using just
 CSS and HTML5.</p>
@@ -462,24 +535,23 @@ iframe and it seems to work quite nicely, but it
      
      <entry>
        <title type="html"><![CDATA[Scaling a Silex Code Base]]></title>
-       <link href="http://naakka.net/2012/11/14/scaling-a-silex-code-base"/>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2012/11/14/scaling-a-silex-code-base"/>
        <updated>2012-11-14T00:00:00+02:00</updated>
-       <id>http://naakka.net/2012/11/14/scaling-a-silex-code-base</id>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2012/11/14/scaling-a-silex-code-base</id>
        <content type="html"><![CDATA[         
 
 
 
                           
           
-	 <blockquote>
-		  <p>
-			   <ul><li>Silex does not prevent you from structuring your code.</li><li>It requires you to make your own architecture decisions.</li><li>Human scale is the only limiting factor.</li></ul>
-		  </p>
+
+    <blockquote>
+        <p><ul><li>Silex does not prevent you from structuring your code.</li><li>It requires you to make your own architecture decisions.</li><li>Human scale is the only limiting factor.</li></ul></p>
 		
-		  			   <p class="source">
-			     <i class="fa fa-link"></i> Source: <a href="https://igor.io/2012/11/09/scaling-silex.html">igorw</a>
-			   </p>
-		  	 </blockquote>
+		            <p class="source">
+                <i class="fa fa-link"></i> Source: <a href="https://igor.io/2012/11/09/scaling-silex.html">igorw</a>
+            </p>
+            </blockquote>
 	 
           <p>Read this article if you ever wonder which to use, Silex or Symfony2.</p>
          
@@ -490,21 +562,20 @@ iframe and it seems to work quite nicely, but it
      
      <entry>
        <title type="html"><![CDATA[Add to Home Screen]]></title>
-       <link href="http://naakka.net/2012/10/31/add-to-home-screen"/>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2012/10/31/add-to-home-screen"/>
        <updated>2012-10-31T00:00:00+02:00</updated>
-       <id>http://naakka.net/2012/10/31/add-to-home-screen</id>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2012/10/31/add-to-home-screen</id>
        <content type="html"><![CDATA[         
-  		  	 
-  <div class="cover image">
-		  <a href="http://cubiq.org/add-to-home-screen"><img src="http://static.cubiq.org/uploads/2011/01/add2home-screen1.jpg" /></a>
-
-		    </div>
+                    <section class="cover">
+        <a href="http://naakka.net.s3-website.eu-central-1.amazonaws.comhttp://cubiq.org/add-to-home-screen"><img src="http://static.cubiq.org/uploads/2011/01/add2home-screen1.jpg" class="pure-img" /></a>
+    </section>
 
 
 
                           
           
-      <p class="source"><i class="fa fa-link"></i> Source: <a href="http://cubiq.org/add-to-home-screen">cubiq.org</a></p> 
+
+      <i class="fa fa-link"></i> Source: <a href="http://cubiq.org/add-to-home-screen">cubiq.org</a></p> 
     
           <p>A brilliant script for adding a native feeling "add to home screen" balloon on your web site.</p>
          
@@ -515,92 +586,27 @@ iframe and it seems to work quite nicely, but it
      
      <entry>
        <title type="html"><![CDATA[Remember not to use ID as the first column name of a CSV file]]></title>
-       <link href="http://naakka.net/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file"/>
+       <link href="http://naakka.net.s3-website.eu-central-1.amazonaws.com/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file"/>
        <updated>2012-01-03T00:00:00+02:00</updated>
-       <id>http://naakka.net/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file</id>
+       <id>http://naakka.net.s3-website.eu-central-1.amazonaws.com/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file</id>
        <content type="html"><![CDATA[         
 
 
 
                           
           
-	 <blockquote>
-		  <p>
-			   ID; in the first 3 characters of a file is the signature for a SYLK file. The fourth character can be a P, N or an E which flags certain information about how the rest of the file should be processed.
-		  </p>
+
+    <blockquote>
+        <p>ID; in the first 3 characters of a file is the signature for a SYLK file. The fourth character can be a P, N or an E which flags certain information about how the rest of the file should be processed.</p>
 		
-		  			   <p class="source">
-			     <i class="fa fa-link"></i> Source: <a href="http://stackoverflow.com/questions/6032049/openoffice-calc-can-not-read-a-simple-csv-file-why">stackoverflow.com</a>
-			   </p>
-		  	 </blockquote>
+		            <p class="source">
+                <i class="fa fa-link"></i> Source: <a href="http://stackoverflow.com/questions/6032049/openoffice-calc-can-not-read-a-simple-csv-file-why">stackoverflow.com</a>
+            </p>
+            </blockquote>
 	 
           <p>Remember not to use ID as the first column name of a CSV file when using semicolons as field delimiters.
 I spent too long debugging a problem with CSV file creation when the problem was the first
 column name.</p>
-         
-     ]]></content>
-    </entry>
-          
-       
-     
-     <entry>
-       <title type="html"><![CDATA[Great Elgg Reference from Arck Interactive]]></title>
-       <link href="http://naakka.net/2011/06/20/great-elgg-reference-from-arck-interactive"/>
-       <updated>2011-06-20T00:00:00+03:00</updated>
-       <id>http://naakka.net/2011/06/20/great-elgg-reference-from-arck-interactive</id>
-       <content type="html"><![CDATA[         
-
-
-
-                          
-          
-	 <blockquote>
-		  <p>
-			   It was a wonderful Friday here at Arck Interactive. We were officially approved as a development vendor for the World Bank. Starting next week, we’ll be developing custom social networking functionalty to improve the information architecture of their internal Elgg-based social network.
-		  </p>
-		
-		  			   <p class="source">
-			     <i class="fa fa-link"></i> Source: <a href="http://www.arckinteractive.com/blog/2010/11/12/incredibly-rewarding-friday-arck/">arckinteractive.com</a>
-			   </p>
-		  	 </blockquote>
-	 
-          <p>Everyone always asks what are the biggest or best known organisations using Elgg. 
-World bank is the answer! That's a great reference for Elgg and Arck Interactive. 
-Congrats!</p>
-         
-     ]]></content>
-    </entry>
-          
-       
-     
-     <entry>
-       <title type="html"><![CDATA[How to Build Your Own Social Network with Elgg]]></title>
-       <link href="http://naakka.net/2010/08/17/how-to-build-your-own-social-network-wih-elgg"/>
-       <updated>2010-08-17T00:00:00+03:00</updated>
-       <id>http://naakka.net/2010/08/17/how-to-build-your-own-social-network-wih-elgg</id>
-       <content type="html"><![CDATA[         
-
-  <div class="cover">
-		  <iframe src="http://www.slideshare.net/slideshow/embed_code/4900695?rel=0" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
-	 </div>
-
-
-                          
-          
-      <p class="source"><i class="fa fa-link"></i> Source: <a href="http://www.slideshare.net/naakka">Jaakko Naakka on Slideshare</a></p> 
-    
-          <p>Here's a short presentation about Elgg Framework from a technical perspective. 
-Elgg is probably the best and easiest solution if you want to build your 
-own custom social networking site, whether you're building a private site 
-for your organisation or a public community with thousands of users.</p>
-
-<p>From a developer's point of view Elgg is an excellent framework to work with. 
-It's easy to extend using the effective plugin system and the Elgg API and 
-datamodel make development easy and fast. Personally, I'm a big fan of Elgg 
-and I've been working with it since the 1.0 version was released about two years ago.</p>
-
-<p>Don't hesitate to contact me if you have any questions or want to know more!
-Or head on to the <a href="http://www.elgg.org">Elgg Community</a> for more information.</p>
          
      ]]></content>
     </entry>
