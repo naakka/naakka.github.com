@@ -16,6 +16,28 @@
        
      
      <entry>
+       <title type="html"><![CDATA[Foggy Day]]></title>
+       <link href="http://naakka.net/2014/11/16/foggy-day"/>
+       <updated>2014-11-16T00:00:00+02:00</updated>
+       <id>http://naakka.net/2014/11/16/foggy-day</id>
+       <content type="html"><![CDATA[         
+                    <section class="cover">
+        <a href="http://naakka.net/2014/11/16/foggy-day"><img src="https://lh3.googleusercontent.com/-lYfjAj2digE/VGiyAzjKoyI/AAAAAAAAF_E/-FFiRvHGnwc/w991-h990-no/IMG_20141116_104002490~2.jpg" class="pure-img" /></a>
+    </section>
+
+
+
+                          
+          
+
+          <p>A foggy day today.</p>
+         
+     ]]></content>
+    </entry>
+          
+       
+     
+     <entry>
        <title type="html"><![CDATA[Extending Sculpin with Console Commands]]></title>
        <link href="http://naakka.net/2014/11/12/extending-sculpin-with-console-commands"/>
        <updated>2014-11-12T00:00:00+02:00</updated>
@@ -578,35 +600,6 @@ iframe and it seems to work quite nicely, but it
       <i class="fa fa-link"></i> Source: <a href="http://cubiq.org/add-to-home-screen">cubiq.org</a></p> 
     
           <p>A brilliant script for adding a native feeling "add to home screen" balloon on your web site.</p>
-         
-     ]]></content>
-    </entry>
-          
-       
-     
-     <entry>
-       <title type="html"><![CDATA[Remember not to use ID as the first column name of a CSV file]]></title>
-       <link href="http://naakka.net/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file"/>
-       <updated>2012-01-03T00:00:00+02:00</updated>
-       <id>http://naakka.net/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file</id>
-       <content type="html"><![CDATA[         
-
-
-
-                          
-          
-
-    <blockquote>
-        <p>ID; in the first 3 characters of a file is the signature for a SYLK file. The fourth character can be a P, N or an E which flags certain information about how the rest of the file should be processed.</p>
-		
-		            <p class="source">
-                <i class="fa fa-link"></i> Source: <a href="http://stackoverflow.com/questions/6032049/openoffice-calc-can-not-read-a-simple-csv-file-why">stackoverflow.com</a>
-            </p>
-            </blockquote>
-	 
-          <p>Remember not to use ID as the first column name of a CSV file when using semicolons as field delimiters.
-I spent too long debugging a problem with CSV file creation when the problem was the first
-column name.</p>
          
      ]]></content>
     </entry>
