@@ -3,10 +3,10 @@
   <title>Blog by Jaakko Naakka</title>  
   
   <link href="http://feeds.feedburner.com/naakka" rel="self"/>
-  <link href="naakka.net"/>
+  <link href="http://naakka.net"/>
   
   <updated>2014-11-16</updated>
-  <id>naakka.net</id>
+  <id>http://naakka.net</id>
   <author>
       <name>Jaakko Naakka</name>
       <email>jaakko@naakka.net</email>
@@ -17,9 +17,9 @@
      
      <entry>
        <title type="html"><![CDATA[Extending Sculpin with Console Commands]]></title>
-       <link href="naakka.net/2014/11/12/extending-sculpin-with-console-commands"/>
+       <link href="http://naakka.net/2014/11/12/extending-sculpin-with-console-commands"/>
        <updated>2014-11-12T00:00:00+02:00</updated>
-       <id>naakka.net/2014/11/12/extending-sculpin-with-console-commands</id>
+       <id>http://naakka.net/2014/11/12/extending-sculpin-with-console-commands</id>
        <content type="html"><![CDATA[         
 
 
@@ -43,9 +43,9 @@ Symfony components and that makes it easily extendible.</p>
      
      <entry>
        <title type="html"><![CDATA[Material UI]]></title>
-       <link href="naakka.net/2014/11/11/material-ui"/>
+       <link href="http://naakka.net/2014/11/11/material-ui"/>
        <updated>2014-11-11T00:00:00+02:00</updated>
-       <id>naakka.net/2014/11/11/material-ui</id>
+       <id>http://naakka.net/2014/11/11/material-ui</id>
        <content type="html"><![CDATA[         
 
 
@@ -70,12 +70,12 @@ Symfony components and that makes it easily extendible.</p>
      
      <entry>
        <title type="html"><![CDATA[End of the Vespa Season]]></title>
-       <link href="naakka.net/2014/11/01/end-of-vespa-season"/>
+       <link href="http://naakka.net/2014/11/01/end-of-vespa-season"/>
        <updated>2014-11-01T00:00:00+02:00</updated>
-       <id>naakka.net/2014/11/01/end-of-vespa-season</id>
+       <id>http://naakka.net/2014/11/01/end-of-vespa-season</id>
        <content type="html"><![CDATA[         
                     <section class="cover">
-        <a href="naakka.net/2014/11/01/end-of-vespa-season"><img src="https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/833483/optimized.jpg" class="pure-img" /></a>
+        <a href="http://naakka.net/2014/11/01/end-of-vespa-season"><img src="https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/833483/optimized.jpg" class="pure-img" /></a>
     </section>
 
 
@@ -92,9 +92,9 @@ Symfony components and that makes it easily extendible.</p>
      
      <entry>
        <title type="html"><![CDATA[PHP Paas Comparison]]></title>
-       <link href="naakka.net/2013/12/13/php-paas-comparison"/>
+       <link href="http://naakka.net/2013/12/13/php-paas-comparison"/>
        <updated>2013-12-13T00:00:00+02:00</updated>
-       <id>naakka.net/2013/12/13/php-paas-comparison</id>
+       <id>http://naakka.net/2013/12/13/php-paas-comparison</id>
        <content type="html"><![CDATA[         
 
 
@@ -118,9 +118,9 @@ our company and it's made from our Finnish point of view.</p>
      
      <entry>
        <title type="html"><![CDATA[Beyond Clean Code]]></title>
-       <link href="naakka.net/2013/11/26/beyond-clean-code"/>
+       <link href="http://naakka.net/2013/11/26/beyond-clean-code"/>
        <updated>2013-11-26T00:00:00+02:00</updated>
-       <id>naakka.net/2013/11/26/beyond-clean-code</id>
+       <id>http://naakka.net/2013/11/26/beyond-clean-code</id>
        <content type="html"><![CDATA[         
 
 
@@ -147,9 +147,9 @@ But at the end of the day, it’s business value that matters.</p>
      
      <entry>
        <title type="html"><![CDATA[PayPal Moving to node.js]]></title>
-       <link href="naakka.net/2013/11/08/paypal-nodejs"/>
+       <link href="http://naakka.net/2013/11/08/paypal-nodejs"/>
        <updated>2013-11-08T00:00:00+02:00</updated>
-       <id>naakka.net/2013/11/08/paypal-nodejs</id>
+       <id>http://naakka.net/2013/11/08/paypal-nodejs</id>
        <content type="html"><![CDATA[         
 
     <section class="cover">
@@ -169,12 +169,12 @@ But at the end of the day, it’s business value that matters.</p>
      
      <entry>
        <title type="html"><![CDATA[Global Internet Penetration and Ongoing Conflicts Around the World]]></title>
-       <link href="naakka.net/2013/04/04/internet-penetration-and-conflicts"/>
+       <link href="http://naakka.net/2013/04/04/internet-penetration-and-conflicts"/>
        <updated>2013-04-04T00:00:00+03:00</updated>
-       <id>naakka.net/2013/04/04/internet-penetration-and-conflicts</id>
+       <id>http://naakka.net/2013/04/04/internet-penetration-and-conflicts</id>
        <content type="html"><![CDATA[         
                     <section class="cover">
-        <a href="naakka.nethttp://sefsar.com/global-internet-penetration-and-ongoing-conflicts-around-the-world"><img src="http://i.imgur.com/2gELQ9x.gif" class="pure-img" /></a>
+        <a href="http://naakka.nethttp://sefsar.com/global-internet-penetration-and-ongoing-conflicts-around-the-world"><img src="http://i.imgur.com/2gELQ9x.gif" class="pure-img" /></a>
     </section>
 
 
@@ -198,9 +198,9 @@ But at the end of the day, it’s business value that matters.</p>
      
      <entry>
        <title type="html"><![CDATA[Posterous Shuts Down, Here Comes Posthaven]]></title>
-       <link href="naakka.net/2013/02/16/posterous-shuts-down-here-comes-posthaven"/>
+       <link href="http://naakka.net/2013/02/16/posterous-shuts-down-here-comes-posthaven"/>
        <updated>2013-02-16T00:00:00+02:00</updated>
-       <id>naakka.net/2013/02/16/posterous-shuts-down-here-comes-posthaven</id>
+       <id>http://naakka.net/2013/02/16/posterous-shuts-down-here-comes-posthaven</id>
        <content type="html"><![CDATA[         
 
 
@@ -247,9 +247,9 @@ I'm sure I'll keep an eye on Posthaven.</p>
      
      <entry>
        <title type="html"><![CDATA[Moving on to Silex from Legacy PHP]]></title>
-       <link href="naakka.net/2013/02/12/moving-on-to-silex-from-legacy-php"/>
+       <link href="http://naakka.net/2013/02/12/moving-on-to-silex-from-legacy-php"/>
        <updated>2013-02-12T00:00:00+02:00</updated>
-       <id>naakka.net/2013/02/12/moving-on-to-silex-from-legacy-php</id>
+       <id>http://naakka.net/2013/02/12/moving-on-to-silex-from-legacy-php</id>
        <content type="html"><![CDATA[         
 
 
@@ -276,9 +276,9 @@ improve your code bit by bit.</p>
      
      <entry>
        <title type="html"><![CDATA[The Future of ICT]]></title>
-       <link href="naakka.net/2013/01/21/the-future-of-ict"/>
+       <link href="http://naakka.net/2013/01/21/the-future-of-ict"/>
        <updated>2013-01-21T00:00:00+02:00</updated>
-       <id>naakka.net/2013/01/21/the-future-of-ict</id>
+       <id>http://naakka.net/2013/01/21/the-future-of-ict</id>
        <content type="html"><![CDATA[         
 
 
@@ -303,12 +303,12 @@ improve your code bit by bit.</p>
      
      <entry>
        <title type="html"><![CDATA[Lenovo Chromebook Announced]]></title>
-       <link href="naakka.net/2013/01/17/lenovo-chromebook-announced"/>
+       <link href="http://naakka.net/2013/01/17/lenovo-chromebook-announced"/>
        <updated>2013-01-17T22:30:00+02:00</updated>
-       <id>naakka.net/2013/01/17/lenovo-chromebook-announced</id>
+       <id>http://naakka.net/2013/01/17/lenovo-chromebook-announced</id>
        <content type="html"><![CDATA[         
                     <section class="cover">
-        <a href="naakka.nethttp://www.theverge.com/2013/1/17/3886142/lenovo-enters-chromebook-market-with-thinkpad-x131e"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/01/lenovo-thinkpad-x131e-chromebook.jpg" class="pure-img" /></a>
+        <a href="http://naakka.nethttp://www.theverge.com/2013/1/17/3886142/lenovo-enters-chromebook-market-with-thinkpad-x131e"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/01/lenovo-thinkpad-x131e-chromebook.jpg" class="pure-img" /></a>
     </section>
 
 
@@ -330,9 +330,9 @@ I guess they still do some writing at schools.</p>
      
      <entry>
        <title type="html"><![CDATA[Upgraded Ubuntu, Webapps Rock]]></title>
-       <link href="naakka.net/2013/01/17/upgraded-ubuntu"/>
+       <link href="http://naakka.net/2013/01/17/upgraded-ubuntu"/>
        <updated>2013-01-17T00:00:00+02:00</updated>
-       <id>naakka.net/2013/01/17/upgraded-ubuntu</id>
+       <id>http://naakka.net/2013/01/17/upgraded-ubuntu</id>
        <content type="html"><![CDATA[         
 
 
@@ -378,9 +378,9 @@ try this out myself!</p>
      
      <entry>
        <title type="html"><![CDATA[Kisai watches]]></title>
-       <link href="naakka.net/2013/01/04/kisai-watches"/>
+       <link href="http://naakka.net/2013/01/04/kisai-watches"/>
        <updated>2013-01-04T00:00:00+02:00</updated>
-       <id>naakka.net/2013/01/04/kisai-watches</id>
+       <id>http://naakka.net/2013/01/04/kisai-watches</id>
        <content type="html"><![CDATA[         
 
     <section class="cover">
@@ -420,9 +420,9 @@ or an app to be as different as these watches.</p>
      
      <entry>
        <title type="html"><![CDATA[Ubuntu for Phones]]></title>
-       <link href="naakka.net/2013/01/03/ubuntu-for-phones"/>
+       <link href="http://naakka.net/2013/01/03/ubuntu-for-phones"/>
        <updated>2013-01-03T00:00:00+02:00</updated>
-       <id>naakka.net/2013/01/03/ubuntu-for-phones</id>
+       <id>http://naakka.net/2013/01/03/ubuntu-for-phones</id>
        <content type="html"><![CDATA[         
 
     <section class="cover">
@@ -449,9 +449,9 @@ Ubuntu is taking this one step further by running the exact same OS on both the 
      
      <entry>
        <title type="html"><![CDATA[Ubuntu Web Apps]]></title>
-       <link href="naakka.net/2012/12/05/ubuntu-web-apps"/>
+       <link href="http://naakka.net/2012/12/05/ubuntu-web-apps"/>
        <updated>2012-12-05T00:00:00+02:00</updated>
-       <id>naakka.net/2012/12/05/ubuntu-web-apps</id>
+       <id>http://naakka.net/2012/12/05/ubuntu-web-apps</id>
        <content type="html"><![CDATA[         
 
     <section class="cover">
@@ -475,9 +475,9 @@ the Christmas holidays and try developing an app myself.</p>
      
      <entry>
        <title type="html"><![CDATA[Great Web Color Combinations]]></title>
-       <link href="naakka.net/2012/11/19/great-web-color-combinations"/>
+       <link href="http://naakka.net/2012/11/19/great-web-color-combinations"/>
        <updated>2012-11-19T00:00:00+02:00</updated>
-       <id>naakka.net/2012/11/19/great-web-color-combinations</id>
+       <id>http://naakka.net/2012/11/19/great-web-color-combinations</id>
        <content type="html"><![CDATA[         
 
 
@@ -502,9 +502,9 @@ the Christmas holidays and try developing an app myself.</p>
      
      <entry>
        <title type="html"><![CDATA[Great HTML5 Presentations with reveal.js]]></title>
-       <link href="naakka.net/2012/11/18/great-html5-presentations-with-reveal"/>
+       <link href="http://naakka.net/2012/11/18/great-html5-presentations-with-reveal"/>
        <updated>2012-11-18T00:00:00+02:00</updated>
-       <id>naakka.net/2012/11/18/great-html5-presentations-with-reveal</id>
+       <id>http://naakka.net/2012/11/18/great-html5-presentations-with-reveal</id>
        <content type="html"><![CDATA[         
 
     <section class="cover">
@@ -535,9 +535,9 @@ iframe and it seems to work quite nicely, but it
      
      <entry>
        <title type="html"><![CDATA[Scaling a Silex Code Base]]></title>
-       <link href="naakka.net/2012/11/14/scaling-a-silex-code-base"/>
+       <link href="http://naakka.net/2012/11/14/scaling-a-silex-code-base"/>
        <updated>2012-11-14T00:00:00+02:00</updated>
-       <id>naakka.net/2012/11/14/scaling-a-silex-code-base</id>
+       <id>http://naakka.net/2012/11/14/scaling-a-silex-code-base</id>
        <content type="html"><![CDATA[         
 
 
@@ -562,12 +562,12 @@ iframe and it seems to work quite nicely, but it
      
      <entry>
        <title type="html"><![CDATA[Add to Home Screen]]></title>
-       <link href="naakka.net/2012/10/31/add-to-home-screen"/>
+       <link href="http://naakka.net/2012/10/31/add-to-home-screen"/>
        <updated>2012-10-31T00:00:00+02:00</updated>
-       <id>naakka.net/2012/10/31/add-to-home-screen</id>
+       <id>http://naakka.net/2012/10/31/add-to-home-screen</id>
        <content type="html"><![CDATA[         
                     <section class="cover">
-        <a href="naakka.nethttp://cubiq.org/add-to-home-screen"><img src="http://static.cubiq.org/uploads/2011/01/add2home-screen1.jpg" class="pure-img" /></a>
+        <a href="http://naakka.nethttp://cubiq.org/add-to-home-screen"><img src="http://static.cubiq.org/uploads/2011/01/add2home-screen1.jpg" class="pure-img" /></a>
     </section>
 
 
@@ -586,9 +586,9 @@ iframe and it seems to work quite nicely, but it
      
      <entry>
        <title type="html"><![CDATA[Remember not to use ID as the first column name of a CSV file]]></title>
-       <link href="naakka.net/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file"/>
+       <link href="http://naakka.net/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file"/>
        <updated>2012-01-03T00:00:00+02:00</updated>
-       <id>naakka.net/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file</id>
+       <id>http://naakka.net/2012/01/03/do-not-use-id-as-the-first-column-name-in-csv-file</id>
        <content type="html"><![CDATA[         
 
 
