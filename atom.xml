@@ -5,7 +5,7 @@
   <link href="http://feeds.feedburner.com/naakka" rel="self"/>
   <link href="http://naakka.net"/>
   
-  <updated>2014-11-17</updated>
+  <updated>2014-11-21</updated>
   <id>http://naakka.net</id>
   <author>
       <name>Jaakko Naakka</name>
@@ -13,6 +13,33 @@
   </author>
   
            
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Soundtrack of the Week: Chromatics]]></title>
+       <link href="http://naakka.net/2014/11/21/soundtrack-of-the-week-chromatics"/>
+       <updated>2014-11-21T00:00:00+02:00</updated>
+       <id>http://naakka.net/2014/11/21/soundtrack-of-the-week-chromatics</id>
+       <content type="html"><![CDATA[         
+
+    <section class="cover">
+        <iframe width="560" height="315" src="//www.youtube.com/embed/2C4DlAgqZeE" frameborder="0" allowfullscreen></iframe>
+    </section>
+
+
+                          
+          
+
+          <p>Somehow Chromatics have slipped completely under my radar. I've been
+listening to their album Kill for Love all week. Better go record shopping!</p>
+
+<p>One of the local record stores 
+<a href="http://www.levykauppax.fi/artist/chromatics/kill_for_love/#2lp">Levykauppa Äx</a> 
+described it as "The Cure meets Giorgio Moroder". Not a bad combination.</p>
+         
+     ]]></content>
+    </entry>
+          
        
      
      <entry>
@@ -597,33 +624,6 @@ next time I'm giving a presentation somewhere.</p>
 <p>ps. this is the first time I tried to embed a reveal.js presentation in an
 iframe and it seems to work quite nicely, but it 
 <a href="http://lab.hakim.se/reveal-js/">looks a lot better full screen</a>!</p>
-         
-     ]]></content>
-    </entry>
-          
-       
-     
-     <entry>
-       <title type="html"><![CDATA[Scaling a Silex Code Base]]></title>
-       <link href="http://naakka.net/2012/11/14/scaling-a-silex-code-base"/>
-       <updated>2012-11-14T00:00:00+02:00</updated>
-       <id>http://naakka.net/2012/11/14/scaling-a-silex-code-base</id>
-       <content type="html"><![CDATA[         
-
-
-
-                          
-          
-
-    <blockquote>
-        <p><ul><li>Silex does not prevent you from structuring your code.</li><li>It requires you to make your own architecture decisions.</li><li>Human scale is the only limiting factor.</li></ul></p>
-		
-		            <p class="source">
-                <i class="fa fa-link"></i> Source: <a href="https://igor.io/2012/11/09/scaling-silex.html">igorw</a>
-            </p>
-            </blockquote>
-	 
-          <p>Read this article if you ever wonder which to use, Silex or Symfony2.</p>
          
      ]]></content>
     </entry>
