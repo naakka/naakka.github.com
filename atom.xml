@@ -5,7 +5,7 @@
   <link href="http://feeds.feedburner.com/naakka" rel="self"/>
   <link href="http://naakka.net"/>
   
-  <updated>2014-11-21</updated>
+  <updated>2014-11-22</updated>
   <id>http://naakka.net</id>
   <author>
       <name>Jaakko Naakka</name>
@@ -13,6 +13,29 @@
   </author>
   
            
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Winter Morning]]></title>
+       <link href="http://naakka.net/2014/11/22/winter-morning"/>
+       <updated>2014-11-22T00:00:00+02:00</updated>
+       <id>http://naakka.net/2014/11/22/winter-morning</id>
+       <content type="html"><![CDATA[         
+                    <section class="cover">
+        <a href="http://naakka.net/2014/11/22/winter-morning"><img src="https://lh5.googleusercontent.com/-pPjlAJGzqjc/VHCuRmV-JXI/AAAAAAAAGA8/OTPzgf6EO_w/w1043-h586-no/IMG_20141122_091259374_1.jpg" class="pure-img" /></a>
+    </section>
+
+
+
+                          
+          
+
+          <p>Finally we got some snow yesterday and all of it hadn't melted away this 
+morning. I took this picture on my morning ride.</p>
+         
+     ]]></content>
+    </entry>
+          
        
      
      <entry>
@@ -591,39 +614,6 @@ the Christmas holidays and try developing an app myself.</p>
             </blockquote>
 	 
           <p>A huge collection of great web color combinations. That's where the colors for this site come from.</p>
-         
-     ]]></content>
-    </entry>
-          
-       
-     
-     <entry>
-       <title type="html"><![CDATA[Great HTML5 Presentations with reveal.js]]></title>
-       <link href="http://naakka.net/2012/11/18/great-html5-presentations-with-reveal"/>
-       <updated>2012-11-18T00:00:00+02:00</updated>
-       <id>http://naakka.net/2012/11/18/great-html5-presentations-with-reveal</id>
-       <content type="html"><![CDATA[         
-
-    <section class="cover">
-        <iframe src="http://lab.hakim.se/reveal-js/" class="reveal"></iframe>
-    </section>
-
-
-                          
-          
-
-      <i class="fa fa-link"></i> Source: <a href="http://lab.hakim.se/reveal-js/">reveal.js</a></p> 
-    
-          <p>Reveal.js is a brilliant way to create stunning presentations using just
-CSS and HTML5.</p>
-
-<p>Just take a look at the demo, it's pretty impressive! And it works nicely
-with touch screen devices. I'm definitely going to give reveal.js a try
-next time I'm giving a presentation somewhere.</p>
-
-<p>ps. this is the first time I tried to embed a reveal.js presentation in an
-iframe and it seems to work quite nicely, but it 
-<a href="http://lab.hakim.se/reveal-js/">looks a lot better full screen</a>!</p>
          
      ]]></content>
     </entry>
