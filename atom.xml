@@ -5,7 +5,7 @@
   <link href="http://feeds.feedburner.com/naakka" rel="self"/>
   <link href="http://naakka.net"/>
   
-  <updated>2014-11-22</updated>
+  <updated>2014-12-17</updated>
   <id>http://naakka.net</id>
   <author>
       <name>Jaakko Naakka</name>
@@ -13,6 +13,28 @@
   </author>
   
            
+       
+     
+     <entry>
+       <title type="html"><![CDATA[New Murakami]]></title>
+       <link href="http://naakka.net/2014/12/17/new-murakami"/>
+       <updated>2014-12-17T00:00:00+02:00</updated>
+       <id>http://naakka.net/2014/12/17/new-murakami</id>
+       <content type="html"><![CDATA[         
+                    <section class="cover">
+        <a href="http://naakka.net/2014/12/17/new-murakami"><img src="https://lh6.googleusercontent.com/-SljIKuPwrNs/VJEhw965EWI/AAAAAAAAGFQ/JrrrrOhNecI/w430-h765-no/IMG_20141216_215930525_1.jpg" class="pure-img" /></a>
+    </section>
+
+
+
+                          
+          
+
+          <p>I just started reading a new Murakami book. Looks good so far.</p>
+         
+     ]]></content>
+    </entry>
+          
        
      
      <entry>
@@ -587,33 +609,6 @@ coolest feature of the latest <a href="http://releases.ubuntu.com/quantal/">Ubun
 I'm still running
 12.04 but this is probably the biggest reason for me to upgrade. I'll try to upgrade during
 the Christmas holidays and try developing an app myself.</p>
-         
-     ]]></content>
-    </entry>
-          
-       
-     
-     <entry>
-       <title type="html"><![CDATA[Great Web Color Combinations]]></title>
-       <link href="http://naakka.net/2012/11/19/great-web-color-combinations"/>
-       <updated>2012-11-19T00:00:00+02:00</updated>
-       <id>http://naakka.net/2012/11/19/great-web-color-combinations</id>
-       <content type="html"><![CDATA[         
-
-
-
-                          
-          
-
-    <blockquote>
-        <p>COLOURlovers is a creative community where people from around the world create and share colors, palettes and patterns, discuss the latest trends and explore colorful articles... All in the spirit of love.</p>
-		
-		            <p class="source">
-                <i class="fa fa-link"></i> Source: <a href="http://www.colourlovers.com/">COLOURlovers</a>
-            </p>
-            </blockquote>
-	 
-          <p>A huge collection of great web color combinations. That's where the colors for this site come from.</p>
          
      ]]></content>
     </entry>
