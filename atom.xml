@@ -35,7 +35,20 @@
             </p>
             </blockquote>
 	 
-          <p>Wow, Wikipedia is moving to HHVM with some good performance improvements.</p>
+          <p>Wow, Wikipedia is moving to HHVM with some good performance improvements. In 
+addition, they have listed other advantages:</p>
+
+<blockquote>
+  <ul>
+  <li>HHVM offers sophisticated observability tools, which make it easier to spot
+  bottlenecks and identify opportunities for eliminating unnecessary work.</li>
+  <li>HHVM offers static program analysis</li>
+  </ul>
+</blockquote>
+
+<p>This is big for both HHVM and Wikipedia and opens up new possibilities to
+<em>"dissolve the invisible distinction between passive and active 
+Wikipedia users"</em>.</p>
          
      ]]></content>
     </entry>
