@@ -5,7 +5,7 @@
   <link href="http://feeds.feedburner.com/naakka" rel="self"/>
   <link href="http://naakka.net"/>
   
-  <updated>2015-01-07</updated>
+  <updated>2015-01-16</updated>
   <id>http://naakka.net</id>
   <author>
       <name>Jaakko Naakka</name>
@@ -13,6 +13,34 @@
   </author>
   
            
+       
+     
+     <entry>
+       <title type="html"><![CDATA[Google Street View Goes Finland]]></title>
+       <link href="http://naakka.net/2015/01/16/google-street-view-northern-lights"/>
+       <updated>2015-01-16T00:00:00+02:00</updated>
+       <id>http://naakka.net/2015/01/16/google-street-view-northern-lights</id>
+       <content type="html"><![CDATA[         
+                
+        
+    <section class="cover">
+        <a href="https://www.google.com/maps/views/u/0/streetview/northern-lights-finland?gl=de"><img src="http://naakka.net/img/photo/2014/google-street-view-northern-lights.png" class="pure-img" /></a>
+    </section>
+
+
+
+                          
+          
+
+      <i class="fa fa-link"></i> Source: <a href="https://www.google.com/maps/views/u/0/streetview/northern-lights-finland?gl=de">Google Street View</a></p> 
+    
+          <p>Google Street View goes to northern Finland and shoots some pretty amazing 
+aurora borealis. This has got to be one of the coolest Google projects so 
+far :)</p>
+         
+     ]]></content>
+    </entry>
+          
        
      
      <entry>
@@ -366,7 +394,7 @@ But at the end of the day, it’s business value that matters.</p>
                 
                     
     <section class="cover">
-        <a href="http://naakka.nethttp://sefsar.com/global-internet-penetration-and-ongoing-conflicts-around-the-world"><img src="http://i.imgur.com/2gELQ9x.gif" class="pure-img" /></a>
+        <a href="http://sefsar.com/global-internet-penetration-and-ongoing-conflicts-around-the-world"><img src="http://i.imgur.com/2gELQ9x.gif" class="pure-img" /></a>
     </section>
 
 
@@ -502,7 +530,7 @@ improve your code bit by bit.</p>
                 
                     
     <section class="cover">
-        <a href="http://naakka.nethttp://www.theverge.com/2013/1/17/3886142/lenovo-enters-chromebook-market-with-thinkpad-x131e"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/01/lenovo-thinkpad-x131e-chromebook.jpg" class="pure-img" /></a>
+        <a href="http://www.theverge.com/2013/1/17/3886142/lenovo-enters-chromebook-market-with-thinkpad-x131e"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/01/lenovo-thinkpad-x131e-chromebook.jpg" class="pure-img" /></a>
     </section>
 
 
@@ -606,35 +634,6 @@ wrist watch. And you really need a manual to know how to tell the time.</p>
 
 <p>If this isn't thinking otside the box I don't know what is. I'd like to try to design a web site
 or an app to be as different as these watches.</p>
-         
-     ]]></content>
-    </entry>
-          
-       
-     
-     <entry>
-       <title type="html"><![CDATA[Ubuntu for Phones]]></title>
-       <link href="http://naakka.net/2013/01/03/ubuntu-for-phones"/>
-       <updated>2013-01-03T00:00:00+02:00</updated>
-       <id>http://naakka.net/2013/01/03/ubuntu-for-phones</id>
-       <content type="html"><![CDATA[         
-
-    <section class="cover">
-        <iframe width="640" height="360" src="http://www.youtube.com/embed/cpWHJDLsqTU" frameborder="0" allowfullscreen></iframe>
-    </section>
-
-
-                          
-          
-
-          <p>This is a great proposition from Ubuntu. I guess phones already have the processing power to run the full version of Ubuntu
-and the possibility to turn your phone into a full desktop is brilliant.</p>
-
-<p>Having the same OS both on your desktop and phone has advantages. Apple has already added some features from iOS to OSX
-but they're still very different. Google is doing the same with Chrome OS and Chrome browser.
-Ubuntu is taking this one step further by running the exact same OS on both the mobile device and desktop.</p>
-
-<p>I hope this will be a success.</p>
          
      ]]></content>
     </entry>
