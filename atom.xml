@@ -5,7 +5,7 @@
   <link href="http://feeds.feedburner.com/naakka" rel="self"/>
   <link href="http://naakka.net"/>
   
-  <updated>2015-01-16</updated>
+  <updated>2015-01-19</updated>
   <id>http://naakka.net</id>
   <author>
       <name>Jaakko Naakka</name>
@@ -13,6 +13,35 @@
   </author>
   
            
+       
+     
+     <entry>
+       <title type="html"><![CDATA[New Duckfeet Soles]]></title>
+       <link href="http://naakka.net/2015/01/19/new-duckfeet-soles"/>
+       <updated>2015-01-19T00:00:00+02:00</updated>
+       <id>http://naakka.net/2015/01/19/new-duckfeet-soles</id>
+       <content type="html"><![CDATA[         
+                
+        
+    <section class="cover">
+        <a href="http://naakka.net/2015/01/19/new-duckfeet-soles"><img src="http://naakka.net/img/photo/2014/duckfeet-soles.jpg" class="pure-img" /></a>
+    </section>
+
+
+
+                          
+          
+
+          <p>I just got new soles for my 11-year-old <a href="http://www.duckfeet.com">Duckfeet</a> 
+shoes. Lets see if my local cobbler is able to put them on.</p>
+
+<p>These have been great shoes for a long time but the soles are completely
+worn out. The cool thing about Duckfeet is that they sell new soles for 
+just 30€ (including postage in EU).</p>
+         
+     ]]></content>
+    </entry>
+          
        
      
      <entry>
@@ -592,48 +621,6 @@ either in its own tab or in a separate window.</p>
 <p>It would be cool if the integration worked
 even if the site is not currently open. But this is a good start and I can't wait to
 try this out myself!</p>
-         
-     ]]></content>
-    </entry>
-          
-       
-     
-     <entry>
-       <title type="html"><![CDATA[Kisai watches]]></title>
-       <link href="http://naakka.net/2013/01/04/kisai-watches"/>
-       <updated>2013-01-04T00:00:00+02:00</updated>
-       <id>http://naakka.net/2013/01/04/kisai-watches</id>
-       <content type="html"><![CDATA[         
-
-    <section class="cover">
-        <iframe width="560" height="315" src="http://www.youtube.com/embed/ZoMrnjkcqKU" frameborder="0" allowfullscreen></iframe>
-    </section>
-
-
-                          
-          
-
-    <blockquote>
-        <p>If you're looking for a watch that simply tells the time, then our watches are probably not for you. We design wearable art, many people don't appreciate art but many people do.</p>
-		
-		            <p class="source">
-                <i class="fa fa-link"></i> Source: <a href="http://www.tokyoflash.com/en/watches/kisai/">tokyoflash.com</a>
-            </p>
-            </blockquote>
-	 
-          <p>I really like these Kisai watches. Usability purists probably hate them but I think the
-design is bold and refreshing.</p>
-
-<p>From a usability perspective you should design your application, web site or gadget to
-be so easy to use that users don't need a manual to use it. Just take a look at these Kisai
-watches, these are something totally different.</p>
-
-<p>The designers at Tokyoflash have taken a completely different approach. 
-I think it's amazing that they've been able to completely rethink the design of a traditional 
-wrist watch. And you really need a manual to know how to tell the time.</p>
-
-<p>If this isn't thinking otside the box I don't know what is. I'd like to try to design a web site
-or an app to be as different as these watches.</p>
          
      ]]></content>
     </entry>
